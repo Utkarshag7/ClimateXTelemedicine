@@ -1,0 +1,974 @@
+lgd_villagecode,village_name,district,NIN,facility_name,facility_type,travel_time_min,distance_km
+431169.0,,malkangiri,4788713255,Gorakhpali,hsc,7.9,4.64
+431168.0,,malkangiri,4788713255,Gorakhpali,hsc,3.02,2.01
+431167.0,,malkangiri,4788713255,Gorakhpali,hsc,0.0,0.0
+431171.0,,malkangiri,6321688472,Bapanpali,hsc,31.31,21.06
+431170.0,,malkangiri,4788713255,Gorakhpali,hsc,8.57,7.07
+431140.0,,malkangiri,6321688472,Bapanpali,hsc,9.03,4.4
+431141.0,,malkangiri,6321688472,Bapanpali,hsc,4.83,2.01
+431166.0,,malkangiri,4788713255,Gorakhpali,hsc,4.34,2.5
+431165.0,,malkangiri,6321688472,Bapanpali,hsc,0.0,0.0
+431136.0,,malkangiri,7418224866,MV 29,hsc,16.9,7.9
+431135.0,,malkangiri,7418224866,MV 29,hsc,13.28,6.35
+431175.0,,malkangiri,2521766515,Ginipali,hsc,16.55,8.66
+431125.0,,malkangiri,7418224866,MV 29,hsc,24.04,18.83
+431176.0,,malkangiri,4764356640,Nalagunthy,hsc,11.4,6.15
+431188.0,,malkangiri,3258131212,Anantapally,hsc,9.4,3.88
+431126.0,,malkangiri,7418224866,MV 29,hsc,0.0,0.0
+431162.0,,malkangiri,2521766515,Ginipali,hsc,0.0,0.0
+431177.0,,malkangiri,4764356640,Nalagunthy,hsc,0.0,0.0
+431159.0,,malkangiri,3258131212,Anantapally,hsc,8.09,4.33
+431146.0,,malkangiri,7418224866,MV 29,hsc,5.81,3.58
+431147.0,,malkangiri,4764356640,Nalagunthy,hsc,8.24,4.65
+431157.0,,malkangiri,8156683446,MV 82,hsc,5.86,5.0
+431160.0,,malkangiri,2228438731,Gomphakonda,hsc,18.31,7.56
+431164.0,,malkangiri,4764356640,Nalagunthy,hsc,6.86,3.12
+431144.0,,malkangiri,2521766515,Ginipali,hsc,2.27,3.03
+431161.0,,malkangiri,3258131212,Anantapally,hsc,0.0,0.0
+431178.0,,malkangiri,3258131212,Anantapally,hsc,6.11,3.33
+431155.0,,malkangiri,8364271778,MV 72,hsc,0.0,0.0
+431189.0,,malkangiri,3258131212,Anantapally,hsc,8.72,3.59
+431187.0,,malkangiri,3258131212,Anantapally,hsc,14.92,6.7
+431186.0,,malkangiri,8364271778,MV 72,hsc,11.41,8.6
+431184.0,,malkangiri,8364271778,MV 72,hsc,6.51,5.34
+431183.0,,malkangiri,8364271778,MV 72,hsc,4.68,4.12
+431185.0,,malkangiri,3258131212,Anantapally,hsc,10.84,5.26
+431190.0,,malkangiri,3258131212,Anantapally,hsc,21.47,9.43
+431180.0,,malkangiri,3258131212,Anantapally,hsc,11.41,5.18
+431191.0,,malkangiri,3258131212,Anantapally,hsc,21.18,9.31
+431119.0,,malkangiri,8234236837,Motu,hsc,3.88,2.58
+431124.0,,malkangiri,6777817328,Kunanpali,hsc,0.0,0.0
+431121.0,,malkangiri,5858327850,MV 95,hsc,0.0,0.0
+431148.0,,malkangiri,8156683446,MV 82,hsc,0.0,0.0
+431127.0,,malkangiri,7431828545,Pusuguda,hsc,0.0,0.0
+431122.0,,malkangiri,5278836332,Metaguda,hsc,0.0,0.0
+431118.0,,malkangiri,8234236837,Motu,hsc,0.0,0.0
+431120.0,,malkangiri,5858327850,MV 95,hsc,4.55,3.75
+431104.0,,malkangiri,4766758538,Materu,hsc,0.0,0.0
+431123.0,,malkangiri,6777817328,Kunanpali,hsc,1.7,1.14
+431154.0,,malkangiri,8364271778,MV 72,hsc,2.77,2.54
+431149.0,,malkangiri,7257876248,MV 112,hsc,0.0,0.0
+431129.0,,malkangiri,2377448135,Manyamkonda,hsc,6.29,3.29
+431150.0,,malkangiri,2228438731,Gomphakonda,hsc,0.0,0.0
+431151.0,,malkangiri,2377448135,Manyamkonda,hsc,6.46,4.52
+431128.0,,malkangiri,7454766457,MV 66,hsc,0.0,0.0
+431132.0,,malkangiri,2377448135,Manyamkonda,hsc,5.59,2.68
+431131.0,,malkangiri,2377448135,Manyamkonda,hsc,6.67,3.65
+431133.0,,malkangiri,2377448135,Manyamkonda,hsc,6.31,2.94
+431130.0,,malkangiri,2377448135,Manyamkonda,hsc,7.78,4.66
+431108.0,,malkangiri,8153448637,Marigetta,hsc,28.59,20.37
+431114.0,,malkangiri,2377448135,Manyamkonda,hsc,0.0,0.0
+431116.0,,malkangiri,8234236837,Motu,hsc,13.82,8.47
+431105.0,,malkangiri,3438342549,Gumuka,hsc,0.0,0.0
+431134.0,,malkangiri,7454766457,MV 66,hsc,8.02,6.0
+431037.0,,malkangiri,5338751885,Tandabai,hsc,6.42,4.0
+431040.0,,malkangiri,6284483259,Kalimela,hsc,10.65,4.86
+431052.0,,malkangiri,1216554178,Alurkotta,hsc,13.6,5.67
+431051.0,,malkangiri,2586134880,MV 70,hsc,112.7,25.86
+431042.0,,malkangiri,4868253271,Padgampally,hsc,120.5,36.48
+431029.0,,malkangiri,1216554178,Alurkotta,hsc,4.61,1.92
+431153.0,,malkangiri,4868253271,Padgampally,hsc,0.0,0.0
+431048.0,,malkangiri,1728878313,Kotmetta,hsc,53.06,19.77
+431053.0,,malkangiri,1216554178,Alurkotta,hsc,8.87,3.7
+431041.0,,malkangiri,4868253271,Padgampally,hsc,120.5,36.48
+431049.0,,malkangiri,1216554178,Alurkotta,hsc,278.37,139.48
+431046.0,,malkangiri,2586134880,MV 70,hsc,91.47,23.03
+431054.0,,malkangiri,1216554178,Alurkotta,hsc,0.0,0.0
+431044.0,,malkangiri,4868253271,Padgampally,hsc,128.59,37.56
+431045.0,,malkangiri,4868253271,Padgampally,hsc,128.4,37.54
+431112.0,,malkangiri,1728878313,Kotmetta,hsc,2.14,0.84
+431030.0,,malkangiri,1216554178,Alurkotta,hsc,4.61,1.92
+431034.0,,malkangiri,2586134880,MV 70,hsc,0.0,0.0
+431038.0,,malkangiri,2586134880,MV 70,hsc,7.96,3.32
+431111.0,,malkangiri,6284483259,Kalimela,hsc,0.0,0.0
+431031.0,,malkangiri,2586134880,MV 70,hsc,112.7,25.86
+431036.0,,malkangiri,2586134880,MV 70,hsc,2.11,0.88
+431110.0,,malkangiri,5777752386,Jakalgunthy,hsc,0.0,0.0
+431055.0,,malkangiri,2586134880,MV 70,hsc,68.88,20.02
+431043.0,,malkangiri,4868253271,Padgampally,hsc,93.24,32.85
+431113.0,,malkangiri,1728878313,Kotmetta,hsc,0.0,0.0
+431027.0,,malkangiri,1216554178,Alurkotta,hsc,11.06,4.61
+431152.0,,malkangiri,4868253271,Padgampally,hsc,1.9,0.79
+431047.0,,malkangiri,2586134880,MV 70,hsc,68.88,20.02
+431050.0,,malkangiri,2586134880,MV 70,hsc,102.77,24.54
+431095.0,,malkangiri,8731283340,MV 64,hsc,3.94,3.6
+431089.0,,malkangiri,6433815849,Podia,hsc,6.14,4.88
+431092.0,,malkangiri,8423761470,Singhaniguda,hsc,0.0,0.0
+431103.0,,malkangiri,5858327850,MV 95,hsc,4.69,4.22
+431093.0,,malkangiri,8423761470,Singhaniguda,hsc,5.69,2.49
+431097.0,,malkangiri,8716785277,Kunchanpali,hsc,14.79,8.06
+431091.0,,malkangiri,1755352166,Kaldapali,hsc,0.0,0.0
+431098.0,,malkangiri,8716785277,Kunchanpali,hsc,1.61,1.75
+430958.0,,malkangiri,8423761470,Singhaniguda,hsc,6.99,3.03
+430960.0,,malkangiri,8731283340,MV 64,hsc,3.16,2.88
+430957.0,,malkangiri,8423761470,Singhaniguda,hsc,5.02,2.21
+430984.0,,malkangiri,5151186268,Girkanpally,hsc,4.99,4.58
+430982.0,,malkangiri,5311481518,MV 73,hsc,10.02,4.13
+431106.0,,malkangiri,8731283340,MV 64,hsc,0.0,0.0
+431100.0,,malkangiri,8716785277,Kunchanpali,hsc,1.81,1.96
+430986.0,,malkangiri,5151186268,Girkanpally,hsc,4.21,2.9
+430985.0,,malkangiri,5151186268,Girkanpally,hsc,0.0,0.0
+431109.0,,malkangiri,1343155311,Pollur,hsc,9.75,4.5
+431107.0,,malkangiri,8153448637,Marigetta,hsc,0.0,0.0
+430983.0,,malkangiri,1673647473,Maharajpally,hsc,6.81,2.83
+431099.0,,malkangiri,8716785277,Kunchanpali,hsc,0.0,0.0
+430962.0,,malkangiri,8153448637,Marigetta,hsc,6.77,4.0
+430965.0,,malkangiri,5311481518,MV 73,hsc,0.0,0.0
+431069.0,,malkangiri,7831345447,Niliguda,hsc,8.14,4.77
+431081.0,,malkangiri,1111458327,Matapaka,hsc,14.93,9.86
+431085.0,,malkangiri,1282535150,Dharampali,hsc,0.0,0.0
+431090.0,,malkangiri,6433815849,Podia,hsc,10.62,6.2
+431068.0,,malkangiri,5168781481,Lachipeta,hsc,17.73,7.8
+431087.0,,malkangiri,1282535150,Dharampali,hsc,1.68,0.7
+431101.0,,malkangiri,1673647473,Maharajpally,hsc,0.0,0.0
+431088.0,,malkangiri,6433815849,Podia,hsc,6.89,2.86
+431067.0,,malkangiri,5168781481,Lachipeta,hsc,0.0,0.0
+431084.0,,malkangiri,7831345447,Niliguda,hsc,9.09,5.0
+431072.0,,malkangiri,7831345447,Niliguda,hsc,0.0,0.0
+431074.0,,malkangiri,7831345447,Niliguda,hsc,9.84,5.51
+431071.0,,malkangiri,5168781481,Lachipeta,hsc,9.41,4.33
+431070.0,,malkangiri,5168781481,Lachipeta,hsc,7.82,3.27
+431102.0,,malkangiri,6433815849,Podia,hsc,0.0,0.0
+431096.0,,malkangiri,1673647473,Maharajpally,hsc,0.0,0.0
+431075.0,,malkangiri,7831345447,Niliguda,hsc,9.09,5.0
+431077.0,,malkangiri,7831345447,Niliguda,hsc,9.09,5.0
+431086.0,,malkangiri,7831345447,Niliguda,hsc,9.09,5.0
+430966.0,,malkangiri,1111445662,MV 109,hsc,22.76,9.4
+431076.0,,malkangiri,7831345447,Niliguda,hsc,10.93,6.44
+430996.0,,malkangiri,1111458533,Pulimetla,hsc,4.84,5.33
+430979.0,,malkangiri,1875178442,MV 55,hsc,0.0,0.0
+430978.0,,malkangiri,1875178442,MV 55,hsc,3.64,1.52
+430990.0,,malkangiri,2638323788,Koimetla,hsc,0.0,0.0
+430999.0,,malkangiri,4524778174,Kosalkonda,hsc,16.5,10.39
+430991.0,,malkangiri,2638323788,Koimetla,hsc,8.71,4.33
+430977.0,,malkangiri,1875178442,MV 55,hsc,9.54,3.9
+430992.0,,malkangiri,5338751885,Tandabai,hsc,6.02,4.35
+430998.0,,malkangiri,4524778174,Kosalkonda,hsc,5.2,3.47
+430987.0,,malkangiri,1343155311,Pollur,hsc,0.0,0.0
+430980.0,,malkangiri,5311481518,MV 73,hsc,1.71,0.71
+430997.0,,malkangiri,4524778174,Kosalkonda,hsc,11.43,8.29
+430981.0,,malkangiri,5311481518,MV 73,hsc,1.89,0.74
+430988.0,,malkangiri,5777752386,Jakalgunthy,hsc,6.98,2.88
+430989.0,,malkangiri,5338751885,Tandabai,hsc,0.0,0.0
+430975.0,,malkangiri,1111458533,Pulimetla,hsc,5.59,4.51
+430995.0,,malkangiri,2638323788,Koimetla,hsc,16.22,9.24
+430993.0,,malkangiri,5338751885,Tandabai,hsc,6.68,5.42
+430994.0,,malkangiri,2638323788,Koimetla,hsc,14.2,7.91
+431002.0,,malkangiri,4524778174,Kosalkonda,hsc,24.72,13.81
+431004.0,,malkangiri,8652667836,Bhejangiwada,hsc,1.54,1.03
+431000.0,,malkangiri,4524778174,Kosalkonda,hsc,0.0,0.0
+431035.0,,malkangiri,2586134880,MV 70,hsc,0.86,0.36
+431032.0,,malkangiri,2586134880,MV 70,hsc,112.7,25.86
+431014.0,,malkangiri,8652667836,Bhejangiwada,hsc,46.71,29.68
+431016.0,,malkangiri,8652667836,Bhejangiwada,hsc,0.0,0.0
+431005.0,,malkangiri,8652667836,Bhejangiwada,hsc,3.22,2.15
+430974.0,,malkangiri,5568577380,Mudakhal,hsc,0.0,0.0
+431006.0,,malkangiri,8652667836,Bhejangiwada,hsc,1.04,0.7
+431028.0,,malkangiri,5672478368,Populur,hsc,21.62,8.96
+431003.0,,malkangiri,4524778174,Kosalkonda,hsc,4.5,3.0
+431001.0,,malkangiri,4524778174,Kosalkonda,hsc,23.01,13.1
+431017.0,,malkangiri,1111461446,Kamawada,hsc,40.74,16.89
+431015.0,,malkangiri,8652667836,Bhejangiwada,hsc,46.12,29.44
+431009.0,,malkangiri,5672478368,Populur,hsc,21.62,8.96
+431010.0,,malkangiri,5672478368,Populur,hsc,21.62,8.96
+431033.0,,malkangiri,2586134880,MV 70,hsc,0.86,0.36
+430971.0,,malkangiri,1111457816,Badili,hsc,0.0,0.0
+430976.0,,malkangiri,1111445662,MV 109,hsc,9.76,4.07
+430969.0,,malkangiri,1111445662,MV 109,hsc,0.0,0.0
+430286.0,,malkangiri,1111444160,Orkel,hsc,8.54,3.62
+430283.0,,malkangiri,1111458327,Matapaka,hsc,9.12,6.06
+430972.0,,malkangiri,1111458533,Pulimetla,hsc,0.0,0.0
+430967.0,,malkangiri,1111445662,MV 109,hsc,22.76,9.4
+430287.0,,malkangiri,1111457758,Sikhapally,hsc,0.0,0.0
+430970.0,,malkangiri,1111445662,MV 109,hsc,0.12,0.05
+431083.0,,malkangiri,1111458327,Matapaka,hsc,11.48,7.55
+430331.0,,malkangiri,1111444160,Orkel,hsc,11.65,5.7
+430324.0,,malkangiri,1111458350,MV 21,hsc,62.55,34.29
+430323.0,,malkangiri,5568577380,Mudakhal,hsc,9.59,3.97
+430325.0,,malkangiri,1111458657,Mariwada,hsc,0.0,0.0
+430322.0,,malkangiri,1111458350,MV 21,hsc,40.29,21.3
+430973.0,,malkangiri,1111458350,MV 21,hsc,36.77,19.86
+430327.0,,malkangiri,1111458624,Pitakonda,hsc,2.38,0.99
+430321.0,,malkangiri,1111458350,MV 21,hsc,38.7,20.68
+430326.0,,malkangiri,1111458624,Pitakonda,hsc,0.0,0.0
+430320.0,,malkangiri,1111457758,Sikhapally,hsc,11.37,5.19
+430316.0,,malkangiri,1111458350,MV 21,hsc,0.0,0.0
+430297.0,,malkangiri,1111457428,MV 47,hsc,35.45,23.14
+430288.0,,malkangiri,1111458418,MV 15,hsc,8.54,6.67
+430293.0,,malkangiri,6155883488,Bandhaguda,hsc,17.58,12.65
+430315.0,,malkangiri,1111457428,MV 47,hsc,37.79,24.13
+430289.0,,malkangiri,1111458418,MV 15,hsc,7.76,5.57
+430298.0,,malkangiri,1111458350,MV 21,hsc,14.26,5.89
+430296.0,,malkangiri,1111457428,MV 47,hsc,0.0,0.0
+430300.0,,malkangiri,1111458715,MV 22,hsc,10.27,4.15
+430299.0,,malkangiri,1111457428,MV 47,hsc,7.0,2.81
+430301.0,,malkangiri,1111458715,MV 22,hsc,12.97,5.29
+431062.0,,malkangiri,3846567422,Telerai,hsc,5.48,2.28
+431059.0,,malkangiri,3846567422,Telerai,hsc,8.1,3.37
+431056.0,,malkangiri,3846567422,Telerai,hsc,18.12,7.55
+431057.0,,malkangiri,3846567422,Telerai,hsc,0.0,0.0
+431025.0,,malkangiri,3846567422,Telerai,hsc,4.84,2.01
+431058.0,,malkangiri,1216554178,Alurkotta,hsc,11.5,4.79
+431026.0,,malkangiri,3846567422,Telerai,hsc,0.44,0.18
+431060.0,,malkangiri,3846567422,Telerai,hsc,5.25,2.19
+431061.0,,malkangiri,3846567422,Telerai,hsc,0.66,0.27
+431064.0,,malkangiri,5672478368,Populur,hsc,2.62,1.09
+431066.0,,malkangiri,5672478368,Populur,hsc,2.49,1.04
+430727.0,,malkangiri,1111447221,Sarukubandha,hsc,28.77,10.47
+430734.0,,malkangiri,1111447221,Sarukubandha,hsc,10.36,4.3
+430735.0,,malkangiri,1111447221,Sarukubandha,hsc,6.07,2.5
+430729.0,,malkangiri,1111447221,Sarukubandha,hsc,18.32,7.6
+430728.0,,malkangiri,1111447221,Sarukubandha,hsc,17.92,7.43
+430731.0,,malkangiri,1111447221,Sarukubandha,hsc,17.48,7.25
+430733.0,,malkangiri,1111447221,Sarukubandha,hsc,12.84,5.32
+430730.0,,malkangiri,1111447221,Sarukubandha,hsc,22.25,9.24
+430726.0,,malkangiri,1111447221,Sarukubandha,hsc,28.15,10.26
+430732.0,,malkangiri,1111447221,Sarukubandha,hsc,13.68,5.67
+430725.0,,malkangiri,1111446538,Badapadara,hsc,0.0,0.0
+430670.0,,malkangiri,1111446538,Badapadara,hsc,0.0,0.0
+430651.0,,malkangiri,1111458236,Potteru,hsc,2.98,1.23
+431019.0,,malkangiri,1111461446,Kamawada,hsc,40.74,16.89
+430652.0,,malkangiri,1111458236,Potteru,hsc,5.57,2.32
+430653.0,,malkangiri,1111458236,Potteru,hsc,0.0,0.0
+430643.0,,malkangiri,1111458236,Potteru,hsc,23.0,10.39
+430654.0,,malkangiri,1111443659,Kakarpada,hsc,0.0,0.0
+430642.0,,malkangiri,1111458236,Potteru,hsc,19.2,8.0
+430640.0,,malkangiri,1111458236,Potteru,hsc,20.4,8.66
+431020.0,,malkangiri,1111461446,Kamawada,hsc,40.74,16.89
+430646.0,,malkangiri,1111458236,Potteru,hsc,23.76,10.9
+431023.0,,malkangiri,3846567422,Telerai,hsc,1.32,0.55
+431022.0,,malkangiri,5672478368,Populur,hsc,19.33,8.0
+430655.0,,malkangiri,5672478368,Populur,hsc,16.09,6.65
+430645.0,,malkangiri,1111458236,Potteru,hsc,23.65,9.84
+430641.0,,malkangiri,1111458236,Potteru,hsc,20.46,8.7
+430644.0,,malkangiri,1111458236,Potteru,hsc,11.55,4.81
+431021.0,,malkangiri,1111461446,Kamawada,hsc,40.74,16.89
+431008.0,,malkangiri,5672478368,Populur,hsc,21.62,8.96
+431065.0,,malkangiri,5672478368,Populur,hsc,2.87,1.19
+431024.0,,malkangiri,5672478368,Populur,hsc,9.33,3.84
+431063.0,,malkangiri,5672478368,Populur,hsc,0.0,0.0
+430656.0,,malkangiri,5672478368,Populur,hsc,7.94,3.26
+430632.0,,malkangiri,1111443717,Spillway,hsc,5.55,6.02
+430660.0,,malkangiri,1111443626,Doraguda,hsc,4.87,2.03
+430661.0,,malkangiri,1111443626,Doraguda,hsc,0.0,0.0
+430650.0,,malkangiri,1111443659,Kakarpada,hsc,6.71,2.8
+430663.0,,malkangiri,1111443626,Doraguda,hsc,2.67,1.11
+430617.0,,malkangiri,1111443568,Chitrakonda,hsc,4.92,3.49
+430666.0,,malkangiri,1111443568,Chitrakonda,hsc,4.4,2.95
+430634.0,,malkangiri,1111443568,Chitrakonda,hsc,4.59,1.87
+430662.0,,malkangiri,1111443626,Doraguda,hsc,2.33,1.24
+430647.0,,malkangiri,1111443717,Spillway,hsc,71.06,42.5
+430625.0,,malkangiri,1111446538,Badapadara,hsc,8.62,5.66
+430633.0,,malkangiri,1111443717,Spillway,hsc,5.55,6.02
+430618.0,,malkangiri,1111443568,Chitrakonda,hsc,3.96,2.45
+430659.0,,malkangiri,1111443626,Doraguda,hsc,5.26,2.19
+430665.0,,malkangiri,1111443568,Chitrakonda,hsc,4.4,2.95
+430629.0,,malkangiri,1111443568,Chitrakonda,hsc,5.54,2.78
+430648.0,,malkangiri,1111458236,Potteru,hsc,20.85,9.67
+430667.0,,malkangiri,1111446538,Badapadara,hsc,7.45,4.97
+430657.0,,malkangiri,1111443535,Gunthawada,hsc,0.0,0.0
+430658.0,,malkangiri,1111443626,Doraguda,hsc,3.14,1.78
+430627.0,,malkangiri,1111443568,Chitrakonda,hsc,4.4,2.95
+430626.0,,malkangiri,1111446538,Badapadara,hsc,8.62,5.66
+430636.0,,malkangiri,1111443626,Doraguda,hsc,1.34,0.56
+430673.0,,malkangiri,1111443568,Chitrakonda,hsc,0.0,0.0
+430628.0,,malkangiri,1111443626,Doraguda,hsc,97.81,62.78
+430635.0,,malkangiri,1111443626,Doraguda,hsc,1.34,0.56
+430664.0,,malkangiri,1111443626,Doraguda,hsc,99.97,65.12
+430630.0,,malkangiri,1111443568,Chitrakonda,hsc,6.09,3.38
+430631.0,,malkangiri,1111443717,Spillway,hsc,5.8,6.29
+430328.0,,malkangiri,1111461446,Kamawada,hsc,7.35,3.02
+430944.0,,malkangiri,1111444137,Nilakamberu,hsc,8.36,3.48
+431018.0,,malkangiri,1111461446,Kamawada,hsc,40.72,16.88
+430947.0,,malkangiri,1111461446,Kamawada,hsc,38.42,15.93
+430941.0,,malkangiri,1111444137,Nilakamberu,hsc,0.0,0.0
+430952.0,,malkangiri,1111461446,Kamawada,hsc,32.85,13.61
+430948.0,,malkangiri,1111461446,Kamawada,hsc,32.22,13.34
+430949.0,,malkangiri,1111461446,Kamawada,hsc,34.0,14.08
+430950.0,,malkangiri,1111461446,Kamawada,hsc,33.45,13.86
+430951.0,,malkangiri,1111444137,Nilakamberu,hsc,17.83,7.95
+430946.0,,malkangiri,1111461446,Kamawada,hsc,0.0,0.0
+430945.0,,malkangiri,1111461446,Kamawada,hsc,36.33,15.06
+430330.0,,malkangiri,1111461446,Kamawada,hsc,3.36,1.4
+430329.0,,malkangiri,1111461446,Kamawada,hsc,1.46,0.61
+430314.0,,malkangiri,1111458566,Tumusapalli,hsc,3.71,1.54
+430953.0,,malkangiri,1111444137,Nilakamberu,hsc,9.38,3.91
+430303.0,,malkangiri,1111458715,MV 22,hsc,9.99,4.12
+430312.0,,malkangiri,1111458566,Tumusapalli,hsc,0.0,0.0
+430305.0,,malkangiri,1111446231,Korukonda,hsc,0.0,0.0
+430310.0,,malkangiri,1111458715,MV 22,hsc,7.33,3.05
+430311.0,,malkangiri,1111458715,MV 22,hsc,0.0,0.0
+430304.0,,malkangiri,1111446231,Korukonda,hsc,12.77,5.5
+430302.0,,malkangiri,1111458715,MV 22,hsc,13.85,6.2
+430308.0,,malkangiri,1111461388,MV 28,hsc,7.42,3.82
+430306.0,,malkangiri,1111446231,Korukonda,hsc,4.79,1.97
+430943.0,,malkangiri,1111461388,MV 28,hsc,4.23,1.76
+430929.0,,malkangiri,1111446264,MV 34,hsc,14.79,6.11
+430258.0,,malkangiri,1111446629,MV 37,hsc,3.42,1.4
+430927.0,,malkangiri,1111446710,Potrel,hsc,0.0,0.0
+430928.0,,malkangiri,1111446264,MV 34,hsc,8.05,4.56
+430926.0,,malkangiri,1111446264,MV 34,hsc,0.0,0.0
+430923.0,,malkangiri,1111446629,MV 37,hsc,0.0,0.0
+430924.0,,malkangiri,1111446629,MV 37,hsc,1.72,0.71
+430942.0,,malkangiri,1111461388,MV 28,hsc,0.0,0.0
+250576.0,,malkangiri,1111444251,MV 120,hsc,6.04,2.49
+430605.0,,malkangiri,1111443717,Spillway,hsc,11.21,10.23
+430611.0,,malkangiri,1111443717,Spillway,hsc,10.18,9.29
+430607.0,,malkangiri,1111443717,Spillway,hsc,3.42,3.1
+430638.0,,malkangiri,1111443717,Spillway,hsc,6.59,4.57
+430938.0,,malkangiri,1111443717,Spillway,hsc,13.69,14.62
+430606.0,,malkangiri,1111443717,Spillway,hsc,7.78,7.09
+430637.0,,malkangiri,1111443717,Spillway,hsc,0.0,0.0
+430612.0,,malkangiri,1111443717,Spillway,hsc,16.49,12.87
+430603.0,,malkangiri,1111443717,Spillway,hsc,16.68,12.68
+430639.0,,malkangiri,1111444137,Nilakamberu,hsc,13.52,5.55
+430608.0,,malkangiri,1111443717,Spillway,hsc,6.17,5.61
+430609.0,,malkangiri,1111443717,Spillway,hsc,6.81,6.2
+430604.0,,malkangiri,1111443717,Spillway,hsc,13.41,12.26
+430939.0,,malkangiri,1111444251,MV 120,hsc,6.05,2.48
+430940.0,,malkangiri,1111444251,MV 120,hsc,0.0,0.0
+430901.0,,malkangiri,1111457634,Samanathpur,hsc,3.66,3.61
+430925.0,,malkangiri,1111446413,Taralakota,hsc,8.49,4.44
+430936.0,,malkangiri,1111446413,Taralakota,hsc,8.0,6.9
+430937.0,,malkangiri,1111444251,MV 120,hsc,13.45,5.7
+430902.0,,malkangiri,1111457634,Samanathpur,hsc,2.2,2.03
+430613.0,,malkangiri,1111457634,Samanathpur,hsc,26.71,22.39
+430601.0,,malkangiri,1111457634,Samanathpur,hsc,23.8,19.12
+430934.0,,malkangiri,1111446413,Taralakota,hsc,5.01,4.13
+430935.0,,malkangiri,1111446413,Taralakota,hsc,9.35,5.64
+430600.0,,malkangiri,1111457634,Samanathpur,hsc,27.63,22.77
+430599.0,,malkangiri,1111457634,Samanathpur,hsc,4.46,2.8
+430598.0,,malkangiri,1111457634,Samanathpur,hsc,2.26,0.94
+430916.0,,malkangiri,1111446413,Taralakota,hsc,0.0,0.0
+430900.0,,malkangiri,1111457634,Samanathpur,hsc,4.36,2.76
+430602.0,,malkangiri,1111457634,Samanathpur,hsc,23.8,19.12
+430931.0,,malkangiri,1111446264,MV 34,hsc,9.49,3.95
+430597.0,,malkangiri,1111457634,Samanathpur,hsc,2.26,0.94
+430921.0,,malkangiri,1111446413,Taralakota,hsc,7.03,3.83
+430903.0,,malkangiri,1111457634,Samanathpur,hsc,5.4,3.53
+430930.0,,malkangiri,1111446264,MV 34,hsc,6.96,2.9
+430954.0,,malkangiri,1111446413,Taralakota,hsc,5.58,3.57
+430920.0,,malkangiri,1111446413,Taralakota,hsc,6.27,3.0
+430919.0,,malkangiri,1111446413,Taralakota,hsc,6.43,2.64
+430932.0,,malkangiri,1111444251,MV 120,hsc,9.36,4.21
+430843.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430720.0,,malkangiri,1111447130,Janbai,hsc,0.0,0.0
+430737.0,,malkangiri,1111447221,Sarukubandha,hsc,10.0,4.22
+430669.0,,malkangiri,1111446538,Badapadara,hsc,0.0,0.0
+430622.0,,malkangiri,1111447130,Janbai,hsc,0.49,0.33
+430724.0,,malkangiri,1111447130,Janbai,hsc,0.0,0.0
+430842.0,,malkangiri,1111447130,Janbai,hsc,0.0,0.0
+430710.0,,malkangiri,1111446652,Mutamba,hsc,1.74,0.72
+430845.0,,malkangiri,1111447130,Janbai,hsc,0.0,0.0
+430723.0,,malkangiri,1111447130,Janbai,hsc,0.0,0.0
+430721.0,,malkangiri,1111447130,Janbai,hsc,1.18,0.79
+430623.0,,malkangiri,1111446538,Badapadara,hsc,8.62,5.66
+430840.0,,malkangiri,1111447130,Janbai,hsc,0.0,0.0
+430709.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430739.0,,malkangiri,1111447221,Sarukubandha,hsc,6.02,2.49
+430736.0,,malkangiri,1111447221,Sarukubandha,hsc,18.67,7.11
+430738.0,,malkangiri,1111447221,Sarukubandha,hsc,0.0,0.0
+430668.0,,malkangiri,1111446538,Badapadara,hsc,8.57,5.63
+430714.0,,malkangiri,1111447221,Sarukubandha,hsc,4.33,1.8
+430624.0,,malkangiri,1111446538,Badapadara,hsc,8.62,5.66
+430722.0,,malkangiri,1111447130,Janbai,hsc,2.33,1.55
+430717.0,,malkangiri,1111447130,Janbai,hsc,0.0,0.0
+430719.0,,malkangiri,1111447130,Janbai,hsc,0.0,0.0
+430716.0,,malkangiri,1111447130,Janbai,hsc,0.0,0.0
+430712.0,,malkangiri,1111446652,Mutamba,hsc,1.83,0.76
+430711.0,,malkangiri,1111446652,Mutamba,hsc,1.79,0.75
+430718.0,,malkangiri,1111447130,Janbai,hsc,0.0,0.0
+430715.0,,malkangiri,1111447130,Janbai,hsc,0.0,0.0
+430713.0,,malkangiri,1111447221,Sarukubandha,hsc,11.59,4.79
+430671.0,,malkangiri,1111446538,Badapadara,hsc,0.0,0.0
+430672.0,,malkangiri,1111447221,Sarukubandha,hsc,6.88,3.18
+430620.0,,malkangiri,1111446538,Badapadara,hsc,8.62,5.66
+430621.0,,malkangiri,1111446538,Badapadara,hsc,8.62,5.66
+430619.0,,malkangiri,1111446538,Badapadara,hsc,8.62,5.66
+430616.0,,malkangiri,1111447221,Sarukubandha,hsc,11.65,4.81
+430706.0,,malkangiri,1111446652,Mutamba,hsc,0.0,0.0
+430749.0,,malkangiri,1111457667,Muduliguda,hsc,4.26,1.78
+430740.0,,malkangiri,1111446652,Mutamba,hsc,0.0,0.0
+430705.0,,malkangiri,1111446652,Mutamba,hsc,1.28,0.53
+430703.0,,malkangiri,1111446652,Mutamba,hsc,0.0,0.0
+430750.0,,malkangiri,1111457667,Muduliguda,hsc,4.16,1.74
+430744.0,,malkangiri,1111446652,Mutamba,hsc,0.0,0.0
+430701.0,,malkangiri,1111446652,Mutamba,hsc,0.0,0.0
+430741.0,,malkangiri,1111446652,Mutamba,hsc,0.0,0.0
+430742.0,,malkangiri,1111446652,Mutamba,hsc,1.28,0.53
+430746.0,,malkangiri,1111446652,Mutamba,hsc,0.0,0.0
+430743.0,,malkangiri,1111446652,Mutamba,hsc,1.28,0.53
+430748.0,,malkangiri,1111457667,Muduliguda,hsc,0.0,0.0
+430752.0,,malkangiri,1111457667,Muduliguda,hsc,5.41,2.76
+430698.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430751.0,,malkangiri,1111457667,Muduliguda,hsc,0.0,0.0
+430759.0,,malkangiri,1111457667,Muduliguda,hsc,0.12,0.05
+430760.0,,malkangiri,1111457667,Muduliguda,hsc,5.41,2.76
+430761.0,,malkangiri,1111457667,Muduliguda,hsc,5.41,2.76
+430753.0,,malkangiri,1111457667,Muduliguda,hsc,0.12,0.05
+430754.0,,malkangiri,1111457667,Muduliguda,hsc,0.12,0.05
+430755.0,,malkangiri,1111457667,Muduliguda,hsc,5.41,2.76
+430756.0,,malkangiri,1111457667,Muduliguda,hsc,5.41,2.76
+430758.0,,malkangiri,1111457667,Muduliguda,hsc,0.12,0.05
+430757.0,,malkangiri,1111457667,Muduliguda,hsc,5.47,2.8
+430688.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430674.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430687.0,,malkangiri,1111446322,Paparmatla,hsc,0.68,0.45
+430700.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430699.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430693.0,,malkangiri,1111446322,Paparmatla,hsc,1.16,0.77
+430683.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430691.0,,malkangiri,1111446322,Paparmatla,hsc,2.14,1.42
+430708.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430684.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430675.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430707.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430682.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430681.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430689.0,,malkangiri,1111446322,Paparmatla,hsc,1.86,1.24
+430685.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430686.0,,malkangiri,1111446322,Paparmatla,hsc,0.85,0.56
+430834.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430829.0,,malkangiri,1111444558,Jodamba,hsc,0.0,0.0
+430814.0,,malkangiri,1111444616,Dangarapadara,hsc,10.77,7.1
+430844.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430593.0,,malkangiri,4578357248,Bakuli,hsc,0.0,0.0
+430615.0,,malkangiri,1111457634,Samanathpur,hsc,27.63,22.77
+430839.0,,malkangiri,1111447130,Janbai,hsc,0.0,0.0
+430835.0,,malkangiri,1111443717,Spillway,hsc,15.41,12.38
+430832.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430813.0,,malkangiri,1111444616,Dangarapadara,hsc,10.77,7.1
+430591.0,,malkangiri,1111457634,Samanathpur,hsc,27.63,22.77
+430596.0,,malkangiri,1111457634,Samanathpur,hsc,2.26,0.94
+430815.0,,malkangiri,1111444616,Dangarapadara,hsc,10.77,7.1
+430592.0,,malkangiri,1111457634,Samanathpur,hsc,27.63,22.77
+430810.0,,malkangiri,1111444616,Dangarapadara,hsc,10.77,7.1
+430809.0,,malkangiri,1111444616,Dangarapadara,hsc,10.77,7.1
+430808.0,,malkangiri,1111444616,Dangarapadara,hsc,10.77,7.1
+430614.0,,malkangiri,1111457634,Samanathpur,hsc,26.71,22.39
+430816.0,,malkangiri,1111444616,Dangarapadara,hsc,11.04,7.29
+430812.0,,malkangiri,1111457634,Samanathpur,hsc,26.71,22.39
+430680.0,,malkangiri,1111446322,Paparmatla,hsc,0.0,0.0
+430677.0,,malkangiri,1111444558,Jodamba,hsc,0.0,0.0
+430679.0,,malkangiri,1111444558,Jodamba,hsc,1.68,1.11
+430678.0,,malkangiri,1111444558,Jodamba,hsc,0.0,0.0
+430676.0,,malkangiri,1111444558,Jodamba,hsc,0.0,0.0
+430824.0,,malkangiri,1111444558,Jodamba,hsc,1.99,1.26
+430823.0,,malkangiri,1111444558,Jodamba,hsc,5.39,3.53
+430830.0,,malkangiri,1111444558,Jodamba,hsc,0.0,0.0
+430690.0,,malkangiri,1111444558,Jodamba,hsc,0.0,0.0
+430831.0,,malkangiri,1111444558,Jodamba,hsc,0.0,0.0
+430800.0,,malkangiri,1111444616,Dangarapadara,hsc,7.37,4.83
+430821.0,,malkangiri,1111445183,Panasput,hsc,41.63,32.79
+430806.0,,malkangiri,1111444616,Dangarapadara,hsc,11.04,7.29
+430797.0,,malkangiri,1111444616,Dangarapadara,hsc,6.6,4.34
+430828.0,,malkangiri,1111444558,Jodamba,hsc,0.0,0.0
+430792.0,,malkangiri,1111445183,Panasput,hsc,6.38,4.19
+430820.0,,malkangiri,1111445183,Panasput,hsc,41.63,32.79
+430826.0,,malkangiri,1111444616,Dangarapadara,hsc,7.37,4.83
+430819.0,,malkangiri,1111444616,Dangarapadara,hsc,7.37,4.83
+430803.0,,malkangiri,1111444616,Dangarapadara,hsc,7.37,4.83
+430804.0,,malkangiri,1111444616,Dangarapadara,hsc,8.39,5.53
+430802.0,,malkangiri,1111444616,Dangarapadara,hsc,7.37,4.83
+430825.0,,malkangiri,1111444558,Jodamba,hsc,1.84,1.17
+430822.0,,malkangiri,1111444558,Jodamba,hsc,8.95,5.91
+430827.0,,malkangiri,1111444616,Dangarapadara,hsc,7.37,4.83
+430817.0,,malkangiri,1111444616,Dangarapadara,hsc,11.04,7.29
+430818.0,,malkangiri,1111444616,Dangarapadara,hsc,11.06,7.3
+430799.0,,malkangiri,1111445183,Panasput,hsc,41.63,32.79
+430805.0,,malkangiri,1111444616,Dangarapadara,hsc,11.06,7.3
+430801.0,,malkangiri,1111444616,Dangarapadara,hsc,6.54,4.28
+430798.0,,malkangiri,1111444616,Dangarapadara,hsc,6.04,3.94
+431073.0,,malkangiri,7831345447,Niliguda,hsc,9.93,4.18
+430281.0,,malkangiri,1111458327,Matapaka,hsc,11.82,5.09
+430282.0,,malkangiri,1111458327,Matapaka,hsc,7.2,3.24
+431079.0,,malkangiri,1111458327,Matapaka,hsc,24.25,10.81
+431080.0,,malkangiri,1111458327,Matapaka,hsc,18.65,8.48
+431078.0,,malkangiri,7831345447,Niliguda,hsc,17.12,8.54
+430234.0,,malkangiri,1111447254,Challanguda,hsc,7.69,4.0
+430229.0,,malkangiri,1111447254,Challanguda,hsc,11.22,4.79
+430230.0,,malkangiri,1111445571,MV 108,hsc,0.0,0.0
+430280.0,,malkangiri,1111458327,Matapaka,hsc,0.0,0.0
+430285.0,,malkangiri,1111444160,Orkel,hsc,0.0,0.0
+430284.0,,malkangiri,1111458327,Matapaka,hsc,6.1,4.05
+430278.0,,malkangiri,1111458327,Matapaka,hsc,4.46,2.97
+430231.0,,malkangiri,1111445571,MV 108,hsc,3.85,3.08
+430277.0,,malkangiri,1111445571,MV 108,hsc,6.17,2.57
+430232.0,,malkangiri,1111447254,Challanguda,hsc,0.0,0.0
+430276.0,,malkangiri,1111444160,Orkel,hsc,38.38,16.32
+430275.0,,malkangiri,1111447254,Challanguda,hsc,15.38,6.37
+430274.0,,malkangiri,1111444160,Orkel,hsc,6.72,2.8
+430279.0,,malkangiri,1111458327,Matapaka,hsc,5.96,2.85
+430295.0,,malkangiri,6155883488,Bandhaguda,hsc,0.0,0.0
+430266.0,,malkangiri,1432368486,Satiguda,hsc,2.16,1.44
+430269.0,,malkangiri,1111457576,Siadimala,hsc,6.74,5.6
+430267.0,,malkangiri,1111457576,Siadimala,hsc,0.0,0.0
+430262.0,,malkangiri,1111444319,Tunnel Camp,hsc,0.0,0.0
+430290.0,,malkangiri,1111458418,MV 15,hsc,0.0,0.0
+430291.0,,malkangiri,1111458418,MV 15,hsc,8.08,3.28
+430272.0,,malkangiri,1111457576,Siadimala,hsc,6.55,4.27
+430263.0,,malkangiri,1111444319,Tunnel Camp,hsc,33.38,22.81
+430265.0,,malkangiri,1432368486,Satiguda,hsc,0.0,0.0
+430264.0,,malkangiri,1432368486,Satiguda,hsc,6.77,4.43
+430237.0,,malkangiri,1111447528,Gandhipalli,hsc,0.0,0.0
+430233.0,,malkangiri,1111447254,Challanguda,hsc,6.7,2.76
+430238.0,,malkangiri,1111447528,Gandhipalli,hsc,3.57,1.44
+430236.0,,malkangiri,1111447528,Gandhipalli,hsc,5.52,3.24
+263345.0,,malkangiri,8235633784,MV 92,hsc,0.0,0.0
+430235.0,,malkangiri,1111447528,Gandhipalli,hsc,8.27,5.59
+430240.0,,malkangiri,5846254745,MV 08,hsc,13.69,5.54
+430241.0,,malkangiri,5846254745,MV 08,hsc,0.0,0.0
+430218.0,,malkangiri,3683134831,Tamasa,hsc,0.0,0.0
+430239.0,,malkangiri,3683134831,Tamasa,hsc,1.9,2.12
+430336.0,,malkangiri,8235633784,MV 92,hsc,3.35,2.78
+430169.0,,malkangiri,7715483678,Pedakonda,hsc,6.08,2.53
+430220.0,,malkangiri,7822587270,MV 97,hsc,17.01,7.68
+430166.0,,malkangiri,1111457451,Tandiki,hsc,3.58,2.3
+430165.0,,malkangiri,1111457451,Tandiki,hsc,4.84,3.14
+430167.0,,malkangiri,7715483678,Pedakonda,hsc,16.23,6.72
+430159.0,,malkangiri,1477334823,Muriapally,hsc,6.0,2.74
+430227.0,,malkangiri,1111457451,Tandiki,hsc,8.29,4.71
+430161.0,,malkangiri,7715483678,Pedakonda,hsc,10.77,4.43
+430162.0,,malkangiri,7715483678,Pedakonda,hsc,0.0,0.0
+430172.0,,malkangiri,1477334823,Muriapally,hsc,0.0,0.0
+430170.0,,malkangiri,5168376480,Padmagiri,hsc,0.0,0.0
+430171.0,,malkangiri,1477334823,Muriapally,hsc,3.28,2.19
+430224.0,,malkangiri,1111457451,Tandiki,hsc,0.0,0.0
+430226.0,,malkangiri,1111457451,Tandiki,hsc,10.56,4.83
+430225.0,,malkangiri,1111457451,Tandiki,hsc,6.69,3.29
+430164.0,,malkangiri,7715483678,Pedakonda,hsc,8.75,3.6
+430163.0,,malkangiri,7715483678,Pedakonda,hsc,6.49,2.7
+430160.0,,malkangiri,7715483678,Pedakonda,hsc,34.78,14.39
+430168.0,,malkangiri,7715483678,Pedakonda,hsc,13.89,5.74
+430228.0,,malkangiri,1111457451,Tandiki,hsc,5.82,3.88
+430222.0,,malkangiri,1111457451,Tandiki,hsc,5.9,3.43
+430219.0,,malkangiri,7822587270,MV 97,hsc,10.28,4.88
+430221.0,,malkangiri,5168376480,Padmagiri,hsc,9.52,4.1
+430337.0,,malkangiri,7822587270,MV 97,hsc,0.0,0.0
+430137.0,,malkangiri,6287685579,Gangala,hsc,0.0,0.0
+430418.0,,malkangiri,5474433421,Kutunipally,hsc,0.0,0.0
+430261.0,,malkangiri,1111444319,Tunnel Camp,hsc,24.5,13.85
+430254.0,,malkangiri,1111446629,MV 37,hsc,9.03,5.09
+430259.0,,malkangiri,1111446231,Korukonda,hsc,7.01,3.3
+430914.0,,malkangiri,1111446629,MV 37,hsc,6.46,3.38
+430245.0,,malkangiri,5846254745,MV 08,hsc,14.68,8.73
+430251.0,,malkangiri,1171526336,Pandripani,hsc,30.16,12.44
+430260.0,,malkangiri,1111446231,Korukonda,hsc,11.54,6.46
+430246.0,,malkangiri,5846254745,MV 08,hsc,11.93,7.72
+430248.0,,malkangiri,1111446231,Korukonda,hsc,9.87,6.29
+430247.0,,malkangiri,1111446231,Korukonda,hsc,9.46,6.52
+430922.0,,malkangiri,1111446629,MV 37,hsc,2.27,0.95
+430257.0,,malkangiri,1111446629,MV 37,hsc,3.42,1.4
+430256.0,,malkangiri,1111446629,MV 37,hsc,6.28,3.26
+430255.0,,malkangiri,1111446629,MV 37,hsc,8.22,4.55
+430249.0,,malkangiri,1111446629,MV 37,hsc,10.54,6.0
+430250.0,,malkangiri,1111446629,MV 37,hsc,10.74,6.09
+430333.0,,malkangiri,5846254745,MV 08,hsc,13.33,9.39
+430332.0,,malkangiri,5846254745,MV 08,hsc,29.68,14.9
+430244.0,,malkangiri,5846254745,MV 08,hsc,24.41,12.78
+430211.0,,malkangiri,5846254745,MV 08,hsc,28.45,14.42
+430210.0,,malkangiri,5442787650,Limaguda,hsc,60.01,41.83
+430212.0,,malkangiri,6854725774,Jharapally,hsc,34.45,19.58
+430209.0,,malkangiri,5442787650,Limaguda,hsc,7.46,3.11
+430207.0,,malkangiri,5442787650,Limaguda,hsc,10.82,4.41
+430206.0,,malkangiri,5442787650,Limaguda,hsc,0.0,0.0
+430213.0,,malkangiri,6854725774,Jharapally,hsc,36.12,20.28
+430317.0,,malkangiri,5442787650,Limaguda,hsc,10.2,4.24
+430242.0,,malkangiri,5846254745,MV 08,hsc,16.43,6.69
+430243.0,,malkangiri,5846254745,MV 08,hsc,19.12,7.8
+430216.0,,malkangiri,7822587270,MV 97,hsc,6.45,2.81
+430294.0,,malkangiri,5846254745,MV 08,hsc,20.0,10.94
+430906.0,,malkangiri,4578357248,Bakuli,hsc,3.65,1.52
+430911.0,,malkangiri,1111446413,Taralakota,hsc,16.9,6.99
+430908.0,,malkangiri,1111457634,Samanathpur,hsc,7.54,3.22
+430896.0,,malkangiri,4578357248,Bakuli,hsc,3.94,2.57
+430253.0,,malkangiri,1111446629,MV 37,hsc,12.19,5.17
+430897.0,,malkangiri,4578357248,Bakuli,hsc,4.64,1.93
+430905.0,,malkangiri,1111457634,Samanathpur,hsc,2.1,0.99
+430874.0,,malkangiri,1171526336,Pandripani,hsc,0.0,0.0
+430913.0,,malkangiri,1111446629,MV 37,hsc,9.34,3.98
+430898.0,,malkangiri,1111457634,Samanathpur,hsc,2.25,2.07
+430895.0,,malkangiri,4578357248,Bakuli,hsc,3.4,2.0
+430899.0,,malkangiri,1111457634,Samanathpur,hsc,0.0,0.0
+430915.0,,malkangiri,1111446629,MV 37,hsc,7.76,3.78
+430904.0,,malkangiri,1111457634,Samanathpur,hsc,5.31,2.32
+430910.0,,malkangiri,1111457634,Samanathpur,hsc,6.67,2.86
+430909.0,,malkangiri,1111457634,Samanathpur,hsc,7.62,3.25
+430894.0,,malkangiri,4578357248,Bakuli,hsc,5.04,3.78
+430872.0,,malkangiri,1111446413,Taralakota,hsc,16.29,6.73
+430907.0,,malkangiri,1111457634,Samanathpur,hsc,7.62,3.25
+430918.0,,malkangiri,1111446413,Taralakota,hsc,6.15,2.52
+430912.0,,malkangiri,1111446413,Taralakota,hsc,16.9,6.99
+430878.0,,malkangiri,4686133382,Kudumulugumma,hsc,3.07,3.33
+430871.0,,malkangiri,1111445241,Totapalli,hsc,0.0,0.0
+430877.0,,malkangiri,4686133382,Kudumulugumma,hsc,3.21,3.48
+430870.0,,malkangiri,5842143785,Bapanpally,hsc,0.0,0.0
+430195.0,,malkangiri,7634336676,Baraja,hsc,7.84,3.25
+430193.0,,malkangiri,4864172673,Biralaxmanpur,hsc,6.56,2.84
+430194.0,,malkangiri,1171526336,Pandripani,hsc,5.45,2.27
+430875.0,,malkangiri,1111445241,Totapalli,hsc,0.0,0.0
+430873.0,,malkangiri,1171526336,Pandripani,hsc,0.35,0.15
+430876.0,,malkangiri,4578357248,Bakuli,hsc,5.75,4.55
+430208.0,,malkangiri,5442787650,Limaguda,hsc,13.83,7.1
+430201.0,,malkangiri,7634336676,Baraja,hsc,0.0,0.0
+430178.0,,malkangiri,2865754440,Korapally,hsc,13.39,6.22
+430149.0,,malkangiri,4512412257,MV 11,hsc,12.06,7.74
+430179.0,,malkangiri,5211538524,Akur,hsc,11.13,6.23
+430175.0,,malkangiri,5211538524,Akur,hsc,6.44,3.27
+430158.0,,malkangiri,6287685579,Gangala,hsc,13.43,5.51
+430173.0,,malkangiri,5211538524,Akur,hsc,6.95,3.85
+430180.0,,malkangiri,5211538524,Akur,hsc,11.35,6.39
+430153.0,,malkangiri,4512412257,MV 11,hsc,4.2,2.62
+430150.0,,malkangiri,4512412257,MV 11,hsc,7.65,4.92
+430181.0,,malkangiri,7634336676,Baraja,hsc,7.0,2.91
+430202.0,,malkangiri,7634336676,Baraja,hsc,7.25,2.98
+430205.0,,malkangiri,7634336676,Baraja,hsc,5.19,2.12
+430203.0,,malkangiri,7634336676,Baraja,hsc,7.42,3.06
+430174.0,,malkangiri,5211538524,Akur,hsc,0.0,0.0
+430215.0,,malkangiri,6854725774,Jharapally,hsc,0.0,0.0
+430214.0,,malkangiri,6854725774,Jharapally,hsc,5.21,2.83
+430307.0,,malkangiri,5211538524,Akur,hsc,3.77,1.57
+430154.0,,malkangiri,2865754440,Korapally,hsc,17.75,7.36
+430151.0,,malkangiri,4512412257,MV 11,hsc,6.86,4.4
+430152.0,,malkangiri,4512412257,MV 11,hsc,6.01,3.83
+430176.0,,malkangiri,5211538524,Akur,hsc,8.31,3.88
+430177.0,,malkangiri,2865754440,Korapally,hsc,16.01,6.63
+430157.0,,malkangiri,2865754440,Korapally,hsc,4.74,1.93
+430156.0,,malkangiri,2865754440,Korapally,hsc,0.0,0.0
+430155.0,,malkangiri,2865754440,Korapally,hsc,17.75,7.36
+430204.0,,malkangiri,7634336676,Baraja,hsc,10.63,5.06
+430334.0,,malkangiri,5211538524,Akur,hsc,14.19,7.43
+430182.0,,malkangiri,7634336676,Baraja,hsc,13.85,7.35
+430335.0,,malkangiri,7634336676,Baraja,hsc,8.77,4.03
+430183.0,,malkangiri,2651162188,Naikguda,hsc,4.76,2.92
+430184.0,,malkangiri,2651162188,Naikguda,hsc,0.0,0.0
+430148.0,,malkangiri,2651162188,Naikguda,hsc,8.13,3.71
+430187.0,,malkangiri,2651162188,Naikguda,hsc,3.86,3.19
+430189.0,,malkangiri,1887657573,Chaulamendi,hsc,46.58,29.22
+430461.0,,malkangiri,2651162188,Naikguda,hsc,10.23,4.96
+430462.0,,malkangiri,2651162188,Naikguda,hsc,8.94,5.8
+430199.0,,malkangiri,4363466766,Markapally,hsc,17.48,9.12
+430198.0,,malkangiri,4864172673,Biralaxmanpur,hsc,12.55,5.78
+430190.0,,malkangiri,2651162188,Naikguda,hsc,7.84,4.97
+430192.0,,malkangiri,4864172673,Biralaxmanpur,hsc,0.0,0.0
+430185.0,,malkangiri,2651162188,Naikguda,hsc,4.13,2.42
+430849.0,,malkangiri,1887657573,Chaulamendi,hsc,0.0,0.0
+430469.0,,malkangiri,8866277315,Pangam,hsc,1.37,1.94
+430197.0,,malkangiri,4363466766,Markapally,hsc,15.62,6.48
+430869.0,,malkangiri,5842143785,Bapanpally,hsc,22.9,11.3
+430471.0,,malkangiri,8866277315,Pangam,hsc,0.11,0.16
+430200.0,,malkangiri,4363466766,Markapally,hsc,10.35,4.31
+430196.0,,malkangiri,4363466766,Markapally,hsc,0.0,0.0
+430475.0,,malkangiri,8567824233,Ambaguda,hsc,3.98,2.61
+430468.0,,malkangiri,8866277315,Pangam,hsc,1.86,2.64
+430846.0,,malkangiri,7272832838,Puspally,hsc,0.0,0.0
+430191.0,,malkangiri,7272832838,Puspally,hsc,49.21,28.81
+430188.0,,malkangiri,1887657573,Chaulamendi,hsc,43.39,27.89
+430147.0,,malkangiri,2651162188,Naikguda,hsc,14.5,6.32
+430146.0,,malkangiri,4512412257,MV 11,hsc,8.67,3.61
+430466.0,,malkangiri,8866277315,Pangam,hsc,24.14,13.95
+430476.0,,malkangiri,1887657573,Chaulamendi,hsc,0.41,0.27
+430186.0,,malkangiri,2651162188,Naikguda,hsc,9.49,5.99
+430893.0,,malkangiri,4578357248,Bakuli,hsc,4.28,2.95
+430892.0,,malkangiri,4578357248,Bakuli,hsc,0.0,0.0
+430585.0,,malkangiri,1111444616,Dangarapadara,hsc,10.77,7.1
+430891.0,,malkangiri,4578357248,Bakuli,hsc,6.7,5.58
+430584.0,,malkangiri,1111457543,Panighata,hsc,0.0,0.0
+430595.0,,malkangiri,1111457634,Samanathpur,hsc,2.26,0.94
+430594.0,,malkangiri,4578357248,Bakuli,hsc,0.0,0.0
+430586.0,,malkangiri,1111444616,Dangarapadara,hsc,9.49,6.25
+430889.0,,malkangiri,4578357248,Bakuli,hsc,0.0,0.0
+430888.0,,malkangiri,1111457543,Panighata,hsc,3.32,2.38
+430881.0,,malkangiri,4686133382,Kudumulugumma,hsc,0.94,1.01
+430882.0,,malkangiri,4686133382,Kudumulugumma,hsc,0.0,0.0
+430859.0,,malkangiri,1111457543,Panighata,hsc,0.23,0.16
+430883.0,,malkangiri,4686133382,Kudumulugumma,hsc,0.92,1.0
+430885.0,,malkangiri,1111457543,Panighata,hsc,2.95,1.94
+430884.0,,malkangiri,4686133382,Kudumulugumma,hsc,4.0,3.93
+430865.0,,malkangiri,4686133382,Kudumulugumma,hsc,1.85,1.24
+430858.0,,malkangiri,8866563185,Muduliguda,hsc,3.98,1.66
+430867.0,,malkangiri,4686133382,Kudumulugumma,hsc,2.73,1.82
+430862.0,,malkangiri,4686133382,Kudumulugumma,hsc,1.72,1.84
+430866.0,,malkangiri,4686133382,Kudumulugumma,hsc,3.27,2.18
+430863.0,,malkangiri,8866563185,Muduliguda,hsc,2.6,1.65
+430868.0,,malkangiri,5842143785,Bapanpally,hsc,26.18,13.48
+430861.0,,malkangiri,8866563185,Muduliguda,hsc,0.0,0.0
+430582.0,,malkangiri,1111457543,Panighata,hsc,0.2,0.13
+430879.0,,malkangiri,4686133382,Kudumulugumma,hsc,2.17,2.35
+430583.0,,malkangiri,1111457543,Panighata,hsc,0.0,0.0
+430880.0,,malkangiri,4686133382,Kudumulugumma,hsc,4.03,4.37
+430887.0,,malkangiri,1111457543,Panighata,hsc,3.32,2.38
+430886.0,,malkangiri,8866563185,Muduliguda,hsc,3.98,1.66
+430890.0,,malkangiri,4686133382,Kudumulugumma,hsc,4.11,4.03
+430581.0,,malkangiri,1111457543,Panighata,hsc,0.2,0.13
+430860.0,,malkangiri,8866563185,Muduliguda,hsc,3.98,1.66
+430857.0,,malkangiri,8866563185,Muduliguda,hsc,3.98,1.66
+430766.0,,malkangiri,1111445183,Panasput,hsc,7.2,4.78
+430579.0,,malkangiri,1111447551,Mudulipada,hsc,5.21,3.46
+430580.0,,malkangiri,1111457543,Panighata,hsc,0.23,0.16
+430762.0,,malkangiri,1111445183,Panasput,hsc,0.0,0.0
+430590.0,,malkangiri,1111444616,Dangarapadara,hsc,8.51,5.23
+430771.0,,malkangiri,1111444616,Dangarapadara,hsc,8.51,5.23
+430764.0,,malkangiri,5173778829,Andrahal,hsc,20.03,12.95
+430578.0,,malkangiri,1111447551,Mudulipada,hsc,7.31,2.99
+430783.0,,malkangiri,1111444616,Dangarapadara,hsc,0.0,0.0
+430790.0,,malkangiri,1111445183,Panasput,hsc,3.14,2.07
+430778.0,,malkangiri,1111444616,Dangarapadara,hsc,7.86,5.18
+430781.0,,malkangiri,1111444616,Dangarapadara,hsc,5.53,3.63
+430779.0,,malkangiri,1111444616,Dangarapadara,hsc,10.4,6.86
+430793.0,,malkangiri,1111445183,Panasput,hsc,5.02,3.28
+430777.0,,malkangiri,1111444616,Dangarapadara,hsc,6.98,4.57
+430784.0,,malkangiri,1111445183,Panasput,hsc,5.04,3.36
+430774.0,,malkangiri,1111444616,Dangarapadara,hsc,41.63,32.79
+430776.0,,malkangiri,1111444616,Dangarapadara,hsc,6.22,4.13
+430775.0,,malkangiri,1111444616,Dangarapadara,hsc,5.69,3.77
+430794.0,,malkangiri,1111445183,Panasput,hsc,4.28,2.79
+430796.0,,malkangiri,1111444616,Dangarapadara,hsc,2.98,1.98
+430795.0,,malkangiri,1111445183,Panasput,hsc,3.07,1.85
+430780.0,,malkangiri,1111444616,Dangarapadara,hsc,10.3,6.8
+430785.0,,malkangiri,1111445183,Panasput,hsc,0.0,0.0
+430786.0,,malkangiri,1111445183,Panasput,hsc,0.0,0.0
+430782.0,,malkangiri,1111444616,Dangarapadara,hsc,4.0,2.67
+430787.0,,malkangiri,1111445183,Panasput,hsc,5.04,3.34
+430587.0,,malkangiri,1111444616,Dangarapadara,hsc,8.89,5.93
+430773.0,,malkangiri,1111445183,Panasput,hsc,0.0,0.0
+430588.0,,malkangiri,1111444616,Dangarapadara,hsc,8.84,5.9
+430589.0,,malkangiri,1111444616,Dangarapadara,hsc,8.51,5.23
+430532.0,,malkangiri,8617373280,Kadamguda,hsc,3.67,1.53
+430526.0,,malkangiri,6875187368,Khairput,hsc,1.61,1.07
+430855.0,,malkangiri,8866563185,Muduliguda,hsc,2.85,1.19
+430564.0,,malkangiri,1111447551,Mudulipada,hsc,4.26,2.82
+430571.0,,malkangiri,1111447551,Mudulipada,hsc,8.0,3.41
+430551.0,,malkangiri,1111447551,Mudulipada,hsc,4.66,3.06
+430556.0,,malkangiri,5173778829,Andrahal,hsc,8.85,5.47
+430542.0,,malkangiri,5458841821,Podaghata,hsc,2.75,1.15
+430566.0,,malkangiri,5173778829,Andrahal,hsc,0.0,0.0
+430543.0,,malkangiri,5458841821,Podaghata,hsc,0.0,0.0
+430531.0,,malkangiri,8617373280,Kadamguda,hsc,12.81,6.31
+430552.0,,malkangiri,5173778829,Andrahal,hsc,8.1,3.99
+430545.0,,malkangiri,5458841821,Podaghata,hsc,5.08,2.11
+430548.0,,malkangiri,5366877727,Rasabeda,hsc,4.21,2.91
+430523.0,,malkangiri,5812526159,G.Gumma,hsc,10.07,4.15
+430509.0,,malkangiri,8617373280,Kadamguda,hsc,26.26,16.53
+430854.0,,malkangiri,5366877727,Rasabeda,hsc,3.35,2.75
+430538.0,,malkangiri,7878528210,Kusumput,hsc,1.74,1.3
+430850.0,,malkangiri,1887657573,Chaulamendi,hsc,6.53,4.19
+430536.0,,malkangiri,7878528210,Kusumput,hsc,3.92,2.48
+430544.0,,malkangiri,5458841821,Podaghata,hsc,2.99,1.24
+430562.0,,malkangiri,5173778829,Andrahal,hsc,13.71,8.65
+430546.0,,malkangiri,8567824233,Ambaguda,hsc,2.19,1.42
+430851.0,,malkangiri,5366877727,Rasabeda,hsc,13.98,5.74
+430505.0,,malkangiri,5173778829,Andrahal,hsc,34.94,22.71
+430864.0,,malkangiri,1111457360,Naliguda,hsc,7.92,4.51
+430577.0,,malkangiri,1111447551,Mudulipada,hsc,4.84,2.08
+430575.0,,malkangiri,1111447551,Mudulipada,hsc,2.48,1.14
+430472.0,,malkangiri,8866277315,Pangam,hsc,1.75,2.47
+430848.0,,malkangiri,1111457360,Naliguda,hsc,5.86,2.43
+430510.0,,malkangiri,8617373280,Kadamguda,hsc,25.3,17.1
+430537.0,,malkangiri,7878528210,Kusumput,hsc,4.32,3.02
+430569.0,,malkangiri,1111447551,Mudulipada,hsc,0.0,0.0
+430572.0,,malkangiri,1111447551,Mudulipada,hsc,8.9,3.78
+430570.0,,malkangiri,1111447551,Mudulipada,hsc,2.31,1.49
+430540.0,,malkangiri,7878528210,Kusumput,hsc,1.45,1.11
+430541.0,,malkangiri,6875187368,Khairput,hsc,0.0,0.0
+430525.0,,malkangiri,5812526159,G.Gumma,hsc,3.74,1.85
+430527.0,,malkangiri,6875187368,Khairput,hsc,12.32,7.43
+430528.0,,malkangiri,7878528210,Kusumput,hsc,5.18,3.42
+430567.0,,malkangiri,5173778829,Andrahal,hsc,5.8,3.51
+430852.0,,malkangiri,1111457360,Naliguda,hsc,0.0,0.0
+430522.0,,malkangiri,8617373280,Kadamguda,hsc,6.87,2.86
+430473.0,,malkangiri,8567824233,Ambaguda,hsc,3.52,2.31
+430847.0,,malkangiri,1111457360,Naliguda,hsc,10.62,6.22
+430573.0,,malkangiri,1111447551,Mudulipada,hsc,7.03,2.99
+430574.0,,malkangiri,1111447551,Mudulipada,hsc,5.44,2.33
+430512.0,,malkangiri,8617373280,Kadamguda,hsc,0.55,0.23
+430442.0,,malkangiri,8567824233,Ambaguda,hsc,0.0,0.0
+430498.0,,malkangiri,5873332745,Baddural,hsc,3.04,2.36
+430529.0,,malkangiri,7878528210,Kusumput,hsc,2.01,2.19
+430563.0,,malkangiri,1111447551,Mudulipada,hsc,5.65,3.75
+430576.0,,malkangiri,1111447551,Mudulipada,hsc,6.02,2.57
+430530.0,,malkangiri,8617373280,Kadamguda,hsc,10.26,5.25
+430506.0,,malkangiri,5173778829,Andrahal,hsc,35.27,22.93
+430568.0,,malkangiri,1111447551,Mudulipada,hsc,3.72,1.52
+430853.0,,malkangiri,5366877727,Rasabeda,hsc,0.0,0.0
+430561.0,,malkangiri,5173778829,Andrahal,hsc,12.26,7.69
+430550.0,,malkangiri,1111447551,Mudulipada,hsc,8.18,5.4
+430553.0,,malkangiri,5173778829,Andrahal,hsc,8.1,3.99
+430547.0,,malkangiri,5458841821,Podaghata,hsc,12.91,8.23
+430524.0,,malkangiri,5812526159,G.Gumma,hsc,0.0,0.0
+430555.0,,malkangiri,5173778829,Andrahal,hsc,9.15,5.67
+430534.0,,malkangiri,8617373280,Kadamguda,hsc,12.71,6.27
+430535.0,,malkangiri,7878528210,Kusumput,hsc,6.08,3.54
+430533.0,,malkangiri,8617373280,Kadamguda,hsc,22.19,15.15
+430474.0,,malkangiri,8567824233,Ambaguda,hsc,5.46,3.6
+430539.0,,malkangiri,7878528210,Kusumput,hsc,0.0,0.0
+430765.0,,malkangiri,5173778829,Andrahal,hsc,20.03,12.95
+430856.0,,malkangiri,8866563185,Muduliguda,hsc,3.98,1.66
+430425.0,,malkangiri,1225452232,Kansariput,hsc,1.98,1.32
+430362.0,,malkangiri,4477267324,Bhejaguda,hsc,3.17,2.11
+430360.0,,malkangiri,1563613619,Salimi,hsc,2.18,0.91
+430136.0,,malkangiri,6287685579,Gangala,hsc,9.22,3.84
+430452.0,,malkangiri,8866277315,Pangam,hsc,12.89,15.76
+430464.0,,malkangiri,8866277315,Pangam,hsc,21.96,13.04
+430453.0,,malkangiri,8866277315,Pangam,hsc,0.64,0.91
+430145.0,,malkangiri,4512412257,MV 11,hsc,0.0,0.0
+430451.0,,malkangiri,8866277315,Pangam,hsc,1.46,2.06
+430459.0,,malkangiri,1643521162,Kaliaguda,hsc,20.73,8.49
+430139.0,,malkangiri,8173876650,Udupa,hsc,0.0,0.0
+430363.0,,malkangiri,4477267324,Bhejaguda,hsc,0.0,0.0
+430412.0,,malkangiri,1563613619,Salimi,hsc,3.47,1.45
+430413.0,,malkangiri,1225452232,Kansariput,hsc,0.0,0.0
+430410.0,,malkangiri,4477267324,Bhejaguda,hsc,4.54,3.03
+430414.0,,malkangiri,1225452232,Kansariput,hsc,25.14,12.1
+430423.0,,malkangiri,2561523263,Kotapally,hsc,126.55,86.37
+430351.0,,malkangiri,3872283639,Temurpally,hsc,3.86,1.6
+430348.0,,malkangiri,7288187318,Kartanpally,hsc,0.0,0.0
+430349.0,,malkangiri,7543386721,Khairapally,hsc,0.46,0.31
+430350.0,,malkangiri,4477267324,Bhejaguda,hsc,0.0,0.0
+430342.0,,malkangiri,7543386721,Khairapally,hsc,0.46,0.31
+430358.0,,malkangiri,3872283639,Temurpally,hsc,0.0,0.0
+430408.0,,malkangiri,4477267324,Bhejaguda,hsc,2.18,1.46
+430411.0,,malkangiri,1563613619,Salimi,hsc,0.0,0.0
+430470.0,,malkangiri,8866277315,Pangam,hsc,0.0,0.0
+430467.0,,malkangiri,8866277315,Pangam,hsc,26.72,15.02
+430454.0,,malkangiri,8866277315,Pangam,hsc,26.65,14.99
+430365.0,,malkangiri,7543386721,Khairapally,hsc,0.46,0.31
+430357.0,,malkangiri,3872283639,Temurpally,hsc,9.52,3.88
+430463.0,,malkangiri,8866277315,Pangam,hsc,21.03,12.72
+430465.0,,malkangiri,8866277315,Pangam,hsc,24.81,14.23
+430460.0,,malkangiri,2651162188,Naikguda,hsc,15.46,7.14
+430341.0,,malkangiri,7543386721,Khairapally,hsc,0.0,0.0
+430340.0,,malkangiri,8363481634,Netalgandhi,hsc,4.59,2.47
+430338.0,,malkangiri,3872283639,Temurpally,hsc,3.86,1.6
+430457.0,,malkangiri,4512412257,MV 11,hsc,5.89,2.42
+430456.0,,malkangiri,1643521162,Kaliaguda,hsc,0.0,0.0
+430366.0,,malkangiri,8334232835,Kianga,hsc,0.0,0.0
+430419.0,,malkangiri,4274676453,Kamarpally,hsc,0.0,0.0
+430430.0,,malkangiri,8334232835,Kianga,hsc,22.28,13.47
+430426.0,,malkangiri,1225452232,Kansariput,hsc,2.51,1.68
+430407.0,,malkangiri,4477267324,Bhejaguda,hsc,0.35,0.23
+430420.0,,malkangiri,7253756881,Mahupadar,hsc,0.0,0.0
+430431.0,,malkangiri,8866277315,Pangam,hsc,11.3,14.04
+430427.0,,malkangiri,1643521162,Kaliaguda,hsc,54.23,40.79
+430455.0,,malkangiri,4477267324,Bhejaguda,hsc,25.83,16.41
+430421.0,,malkangiri,7253756881,Mahupadar,hsc,132.76,90.44
+430422.0,,malkangiri,2561523263,Kotapally,hsc,1.35,0.56
+430424.0,,malkangiri,2561523263,Kotapally,hsc,0.0,0.0
+430409.0,,malkangiri,4477267324,Bhejaguda,hsc,4.88,3.26
+430405.0,,malkangiri,8334232835,Kianga,hsc,2.22,1.48
+430404.0,,malkangiri,7288187318,Kartanpally,hsc,50.62,24.76
+430416.0,,malkangiri,7253756881,Mahupadar,hsc,11.05,6.02
+430415.0,,malkangiri,7253756881,Mahupadar,hsc,13.45,7.02
+430364.0,,malkangiri,4477267324,Bhejaguda,hsc,0.4,0.26
+430359.0,,malkangiri,3872283639,Temurpally,hsc,3.86,1.6
+430361.0,,malkangiri,3872283639,Temurpally,hsc,1.67,0.69
+430355.0,,malkangiri,3872283639,Temurpally,hsc,4.88,2.01
+430138.0,,malkangiri,2865754440,Korapally,hsc,14.2,5.83
+430479.0,,malkangiri,8866277315,Pangam,hsc,13.97,16.94
+430428.0,,malkangiri,1643521162,Kaliaguda,hsc,53.58,40.09
+430406.0,,malkangiri,4477267324,Bhejaguda,hsc,1.42,0.95
+430458.0,,malkangiri,1643521162,Kaliaguda,hsc,7.51,3.13
+430339.0,,malkangiri,3872283639,Temurpally,hsc,3.86,1.6
+430352.0,,malkangiri,3872283639,Temurpally,hsc,3.86,1.6
+430353.0,,malkangiri,3872283639,Temurpally,hsc,3.86,1.6
+430356.0,,malkangiri,7253756881,Mahupadar,hsc,13.45,7.02
+430140.0,,malkangiri,2561523263,Kotapally,hsc,10.92,4.51
+430141.0,,malkangiri,2561523263,Kotapally,hsc,9.9,4.09
+430142.0,,malkangiri,8173876650,Udupa,hsc,1.63,0.68
+430143.0,,malkangiri,8173876650,Udupa,hsc,5.8,2.37
+430144.0,,malkangiri,4512412257,MV 11,hsc,2.88,1.74
+430487.0,,malkangiri,7145463845,Madkapadar,hsc,0.0,0.0
+430399.0,,malkangiri,8848762111,Mendkully,hsc,26.05,12.74
+430436.0,,malkangiri,2338348416,Mathili,hsc,0.0,0.0
+430501.0,,malkangiri,7145463845,Madkapadar,hsc,5.53,3.67
+430502.0,,malkangiri,7145463845,Madkapadar,hsc,7.71,4.27
+430517.0,,malkangiri,5812526159,G.Gumma,hsc,8.75,3.62
+430444.0,,malkangiri,2338348416,Mathili,hsc,2.48,2.16
+430499.0,,malkangiri,5873332745,Baddural,hsc,3.39,1.8
+430439.0,,malkangiri,7344654723,Udulibeda,hsc,5.01,2.73
+430483.0,,malkangiri,8617373280,Kadamguda,hsc,12.78,7.54
+430482.0,,malkangiri,1827636489,Govindapally,hsc,3.1,2.87
+430518.0,,malkangiri,7344654723,Udulibeda,hsc,10.98,8.6
+430516.0,,malkangiri,7344654723,Udulibeda,hsc,8.87,6.41
+430515.0,,malkangiri,7344654723,Udulibeda,hsc,4.41,5.11
+430370.0,,malkangiri,7288187318,Kartanpally,hsc,8.18,3.41
+430521.0,,malkangiri,8617373280,Kadamguda,hsc,4.08,1.64
+430372.0,,malkangiri,4456886615,Dhungiaput,hsc,6.7,2.72
+430441.0,,malkangiri,5812526159,G.Gumma,hsc,4.5,2.33
+430433.0,,malkangiri,2338348416,Mathili,hsc,4.86,4.38
+430486.0,,malkangiri,7145463845,Madkapadar,hsc,17.48,8.94
+430440.0,,malkangiri,5812526159,G.Gumma,hsc,5.21,2.17
+430507.0,,malkangiri,8617373280,Kadamguda,hsc,19.74,12.18
+430508.0,,malkangiri,8617373280,Kadamguda,hsc,17.57,10.73
+430503.0,,malkangiri,7145463845,Madkapadar,hsc,15.52,7.63
+430500.0,,malkangiri,5873332745,Baddural,hsc,8.11,5.5
+430513.0,,malkangiri,8617373280,Kadamguda,hsc,0.0,0.0
+430432.0,,malkangiri,8848762111,Mendkully,hsc,6.27,2.61
+430369.0,,malkangiri,7288187318,Kartanpally,hsc,11.15,4.61
+430489.0,,malkangiri,7145463845,Madkapadar,hsc,28.72,21.28
+430371.0,,malkangiri,3688137573,Dalapatiguda,hsc,6.1,2.54
+430519.0,,malkangiri,8617373280,Kadamguda,hsc,8.28,3.89
+430488.0,,malkangiri,7145463845,Madkapadar,hsc,3.82,2.53
+430402.0,,malkangiri,8848762111,Mendkully,hsc,7.95,5.17
+430396.0,,malkangiri,7344654723,Udulibeda,hsc,0.0,0.0
+430397.0,,malkangiri,4456886615,Dhungiaput,hsc,7.72,3.29
+430398.0,,malkangiri,8848762111,Mendkully,hsc,5.81,3.7
+430449.0,,malkangiri,8567824233,Ambaguda,hsc,35.16,34.53
+430520.0,,malkangiri,8617373280,Kadamguda,hsc,5.05,2.01
+430504.0,,malkangiri,5173778829,Andrahal,hsc,35.27,22.93
+430450.0,,malkangiri,8866277315,Pangam,hsc,1.75,2.48
+430443.0,,malkangiri,8567824233,Ambaguda,hsc,0.0,0.0
+430446.0,,malkangiri,2338348416,Mathili,hsc,4.61,4.11
+430438.0,,malkangiri,8848762111,Mendkully,hsc,6.89,4.22
+430434.0,,malkangiri,2338348416,Mathili,hsc,3.24,2.63
+430478.0,,malkangiri,1827636489,Govindapally,hsc,3.47,2.4
+430400.0,,malkangiri,8848762111,Mendkully,hsc,2.79,1.11
+430395.0,,malkangiri,1827636489,Govindapally,hsc,1.68,1.12
+430403.0,,malkangiri,7288187318,Kartanpally,hsc,47.61,22.75
+430373.0,,malkangiri,4456886615,Dhungiaput,hsc,0.0,0.0
+430445.0,,malkangiri,8567824233,Ambaguda,hsc,34.97,34.25
+430514.0,,malkangiri,8617373280,Kadamguda,hsc,11.15,6.46
+430447.0,,malkangiri,8866277315,Pangam,hsc,2.6,3.69
+430480.0,,malkangiri,2338348416,Mathili,hsc,3.95,2.51
+430374.0,,malkangiri,1827636489,Govindapally,hsc,4.96,3.13
+430376.0,,malkangiri,1827636489,Govindapally,hsc,3.47,2.4
+430377.0,,malkangiri,1827636489,Govindapally,hsc,3.47,2.4
+430378.0,,malkangiri,1827636489,Govindapally,hsc,3.47,2.4
+430379.0,,malkangiri,1827636489,Govindapally,hsc,3.47,2.4
+430381.0,,malkangiri,1827636489,Govindapally,hsc,3.21,2.7
+430382.0,,malkangiri,1827636489,Govindapally,hsc,3.21,2.7
+430384.0,,malkangiri,1827636489,Govindapally,hsc,2.92,2.8
+430386.0,,malkangiri,1827636489,Govindapally,hsc,3.47,2.4
+430387.0,,malkangiri,1827636489,Govindapally,hsc,3.47,2.4
+430388.0,,malkangiri,1827636489,Govindapally,hsc,3.47,2.4
+430389.0,,malkangiri,1827636489,Govindapally,hsc,3.47,2.4
+430391.0,,malkangiri,1827636489,Govindapally,hsc,3.47,2.4
+430392.0,,malkangiri,1827636489,Govindapally,hsc,3.21,2.7
+430477.0,,malkangiri,1827636489,Govindapally,hsc,3.21,2.7
+430368.0,,malkangiri,7288187318,Kartanpally,hsc,1.73,0.72
+430481.0,,malkangiri,7288187318,Kartanpally,hsc,0.42,0.18
+430448.0,,malkangiri,8567824233,Ambaguda,hsc,35.01,34.32
+430435.0,,malkangiri,8848762111,Mendkully,hsc,0.0,0.0
+430437.0,,malkangiri,8848762111,Mendkully,hsc,2.41,1.45
+430375.0,,malkangiri,1827636489,Govindapally,hsc,0.0,0.0
+430485.0,,malkangiri,7145463845,Madkapadar,hsc,7.84,5.21
+430484.0,,malkangiri,1827636489,Govindapally,hsc,5.64,4.55
+430345.0,,malkangiri,8363481634,Netalgandhi,hsc,0.0,0.0
+430343.0,,malkangiri,8363481634,Netalgandhi,hsc,0.24,0.16
+430346.0,,malkangiri,3688137573,Dalapatiguda,hsc,0.0,0.0
+430347.0,,malkangiri,8363481634,Netalgandhi,hsc,5.56,2.89
+430344.0,,malkangiri,8363481634,Netalgandhi,hsc,0.27,0.18
+430789.0,,malkangiri,1111445183,Panasput,hsc,5.11,3.39
+430791.0,,malkangiri,1111445183,Panasput,hsc,2.56,1.69
+430560.0,,malkangiri,5173778829,Andrahal,hsc,14.24,9.0
+430557.0,,malkangiri,5173778829,Andrahal,hsc,17.07,9.68
+430559.0,,malkangiri,5173778829,Andrahal,hsc,20.17,13.06
+430558.0,,malkangiri,5173778829,Andrahal,hsc,11.46,7.21
+430494.0,,malkangiri,5873332745,Baddural,hsc,7.78,5.24
+430491.0,,malkangiri,7145463845,Madkapadar,hsc,23.87,13.39
+430495.0,,malkangiri,5873332745,Baddural,hsc,6.6,4.46
+430493.0,,malkangiri,5873332745,Baddural,hsc,10.21,6.87
+430490.0,,malkangiri,7145463845,Madkapadar,hsc,5.01,1.97
+430492.0,,malkangiri,7145463845,Madkapadar,hsc,4.38,1.85
+430496.0,,malkangiri,5873332745,Baddural,hsc,0.29,0.26
+430497.0,,malkangiri,5873332745,Baddural,hsc,0.0,0.0

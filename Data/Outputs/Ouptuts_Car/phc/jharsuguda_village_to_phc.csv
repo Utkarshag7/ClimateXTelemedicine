@@ -1,0 +1,357 @@
+lgd_villagecode,village_name,district,NIN,facility_name,facility_type,travel_time_min,distance_km
+381000.0,,jharsuguda,1111454276,Remta,phc,0.0,0.0
+380999.0,,jharsuguda,1111454276,Remta,phc,9.87,5.45
+380997.0,,jharsuguda,1111454276,Remta,phc,14.88,7.47
+381002.0,,jharsuguda,1111454276,Remta,phc,1.78,1.19
+380995.0,,jharsuguda,1111454276,Remta,phc,9.35,6.12
+380998.0,,jharsuguda,1111454276,Remta,phc,10.63,6.54
+380996.0,,jharsuguda,1111454276,Remta,phc,5.36,3.22
+380994.0,,jharsuguda,1111454276,Remta,phc,11.13,7.41
+380993.0,,jharsuguda,1111454276,Remta,phc,12.74,8.26
+380988.0,,jharsuguda,1111454458,Kanaktora,phc,12.52,8.67
+381003.0,,jharsuguda,1111454276,Remta,phc,1.78,1.19
+381004.0,,jharsuguda,1111454276,Remta,phc,58.41,36.9
+380970.0,,jharsuguda,1111454334,Palsada,phc,10.68,15.13
+381001.0,,jharsuguda,1111454276,Remta,phc,2.02,1.35
+380991.0,,jharsuguda,1111454276,Remta,phc,15.38,10.24
+380992.0,,jharsuguda,1111454276,Remta,phc,14.22,9.33
+380974.0,,jharsuguda,1111454334,Palsada,phc,8.55,12.12
+380971.0,,jharsuguda,1111454334,Palsada,phc,9.4,13.31
+380972.0,,jharsuguda,1111454334,Palsada,phc,9.38,13.29
+380976.0,,jharsuguda,1111454334,Palsada,phc,7.09,10.04
+380975.0,,jharsuguda,1111454334,Palsada,phc,8.22,11.65
+380989.0,,jharsuguda,1111454458,Kanaktora,phc,12.5,8.66
+380990.0,,jharsuguda,1111454458,Kanaktora,phc,13.89,9.59
+380977.0,,jharsuguda,1111454334,Palsada,phc,2.61,3.71
+380952.0,,jharsuguda,1111454458,Kanaktora,phc,5.31,2.98
+380953.0,,jharsuguda,1111454458,Kanaktora,phc,0.0,0.0
+380987.0,,jharsuguda,1111454458,Kanaktora,phc,5.55,4.03
+380933.0,,jharsuguda,1111454334,Palsada,phc,6.78,5.2
+380936.0,,jharsuguda,1111454334,Palsada,phc,9.11,6.76
+380930.0,,jharsuguda,1111454334,Palsada,phc,13.76,9.28
+380966.0,,jharsuguda,1111454334,Palsada,phc,6.59,9.34
+380944.0,,jharsuguda,1111454334,Palsada,phc,4.48,3.68
+380951.0,,jharsuguda,1111454458,Kanaktora,phc,5.75,3.26
+380929.0,,jharsuguda,1111454334,Palsada,phc,10.05,7.83
+380934.0,,jharsuguda,1111454334,Palsada,phc,9.99,6.76
+380931.0,,jharsuguda,1111454334,Palsada,phc,8.22,7.17
+380965.0,,jharsuguda,1111454334,Palsada,phc,6.99,9.9
+380967.0,,jharsuguda,1111454334,Palsada,phc,8.36,11.85
+380938.0,,jharsuguda,1111454334,Palsada,phc,9.57,8.23
+380942.0,,jharsuguda,1111454334,Palsada,phc,2.92,4.14
+380941.0,,jharsuguda,1111454334,Palsada,phc,5.19,7.36
+380973.0,,jharsuguda,1111454334,Palsada,phc,8.06,11.42
+380949.0,,jharsuguda,1111454334,Palsada,phc,6.49,6.33
+380960.0,,jharsuguda,1111454334,Palsada,phc,0.83,1.18
+380961.0,,jharsuguda,1111454334,Palsada,phc,1.59,2.25
+380948.0,,jharsuguda,1111454334,Palsada,phc,3.42,2.39
+380957.0,,jharsuguda,1111454334,Palsada,phc,2.83,3.45
+380945.0,,jharsuguda,1111454334,Palsada,phc,4.54,3.2
+380937.0,,jharsuguda,1111454334,Palsada,phc,7.3,5.56
+380928.0,,jharsuguda,1111454334,Palsada,phc,15.96,10.2
+380935.0,,jharsuguda,1111454334,Palsada,phc,13.19,9.48
+380955.0,,jharsuguda,1111454458,Kanaktora,phc,4.48,5.5
+380964.0,,jharsuguda,1111454334,Palsada,phc,4.0,5.68
+380932.0,,jharsuguda,1111454334,Palsada,phc,8.89,5.11
+380950.0,,jharsuguda,1111454334,Palsada,phc,6.73,7.03
+380983.0,,jharsuguda,1111454334,Palsada,phc,4.49,6.35
+380940.0,,jharsuguda,1111454334,Palsada,phc,5.63,7.99
+380943.0,,jharsuguda,1111454334,Palsada,phc,5.84,3.69
+380939.0,,jharsuguda,1111454334,Palsada,phc,11.97,9.23
+380968.0,,jharsuguda,1111454334,Palsada,phc,8.96,12.7
+380946.0,,jharsuguda,1111454334,Palsada,phc,3.77,2.9
+380947.0,,jharsuguda,1111454334,Palsada,phc,4.6,2.92
+380986.0,,jharsuguda,1111454458,Kanaktora,phc,5.09,3.45
+380982.0,,jharsuguda,1111454334,Palsada,phc,1.74,2.47
+380963.0,,jharsuguda,1111454334,Palsada,phc,2.66,3.77
+380956.0,,jharsuguda,1111454334,Palsada,phc,1.93,2.74
+380969.0,,jharsuguda,1111454334,Palsada,phc,10.03,14.2
+380981.0,,jharsuguda,1111454334,Palsada,phc,1.15,1.62
+380958.0,,jharsuguda,1111454334,Palsada,phc,0.0,0.0
+380959.0,,jharsuguda,1111454334,Palsada,phc,1.62,1.77
+380954.0,,jharsuguda,1111454458,Kanaktora,phc,2.88,3.23
+380985.0,,jharsuguda,1111454458,Kanaktora,phc,2.73,3.01
+380962.0,,jharsuguda,1111454334,Palsada,phc,2.58,3.66
+380980.0,,jharsuguda,1111454334,Palsada,phc,0.05,0.07
+380979.0,,jharsuguda,1111454334,Palsada,phc,0.11,0.15
+380978.0,,jharsuguda,1111454334,Palsada,phc,1.55,2.19
+380984.0,,jharsuguda,1111454458,Kanaktora,phc,4.79,5.93
+381047.0,,jharsuguda,1111454540,Kumarbandha,phc,13.33,6.64
+381071.0,,jharsuguda,1111454540,Kumarbandha,phc,16.33,6.8
+381068.0,,jharsuguda,1111454540,Kumarbandha,phc,16.09,6.7
+381031.0,,jharsuguda,1111454573,Adhapada,phc,15.84,10.53
+381019.0,,jharsuguda,1111454573,Adhapada,phc,12.45,8.29
+381016.0,,jharsuguda,1111454573,Adhapada,phc,14.4,9.52
+381053.0,,jharsuguda,1111454540,Kumarbandha,phc,12.59,6.33
+381050.0,,jharsuguda,1111454573,Adhapada,phc,14.76,9.43
+381048.0,,jharsuguda,1111454425,UPHC Belpahar,phc,18.02,10.84
+381015.0,,jharsuguda,1111454334,Palsada,phc,13.46,19.07
+381037.0,,jharsuguda,1111454573,Adhapada,phc,16.83,9.21
+381034.0,,jharsuguda,1111454573,Adhapada,phc,9.38,5.46
+381036.0,,jharsuguda,1111454573,Adhapada,phc,7.06,3.65
+381035.0,,jharsuguda,1111454573,Adhapada,phc,0.0,0.0
+381072.0,,jharsuguda,1111454540,Kumarbandha,phc,21.18,8.82
+381067.0,,jharsuguda,1111454540,Kumarbandha,phc,10.22,4.26
+381065.0,,jharsuguda,1111454540,Kumarbandha,phc,6.98,2.9
+381029.0,,jharsuguda,1111454573,Adhapada,phc,9.78,6.25
+381028.0,,jharsuguda,1111454573,Adhapada,phc,9.34,6.15
+381059.0,,jharsuguda,1111454540,Kumarbandha,phc,4.51,2.69
+381058.0,,jharsuguda,1111454540,Kumarbandha,phc,0.0,0.0
+381061.0,,jharsuguda,1111454540,Kumarbandha,phc,10.27,6.53
+381027.0,,jharsuguda,1111454573,Adhapada,phc,10.24,6.75
+381055.0,,jharsuguda,1111454540,Kumarbandha,phc,9.0,5.4
+381060.0,,jharsuguda,1111454540,Kumarbandha,phc,7.2,4.48
+381051.0,,jharsuguda,1111454540,Kumarbandha,phc,9.31,5.61
+381026.0,,jharsuguda,1111454573,Adhapada,phc,9.51,6.25
+381014.0,,jharsuguda,1111454334,Palsada,phc,12.43,17.61
+381052.0,,jharsuguda,1111454540,Kumarbandha,phc,9.31,5.61
+381137.0,,jharsuguda,1111436364,Sripura,phc,36.76,19.89
+381018.0,,jharsuguda,1111454573,Adhapada,phc,16.22,10.8
+381012.0,,jharsuguda,1111454334,Palsada,phc,12.84,18.19
+381049.0,,jharsuguda,1111454573,Adhapada,phc,15.68,9.4
+381045.0,,jharsuguda,1111454425,UPHC Belpahar,phc,21.0,14.86
+381021.0,,jharsuguda,1111454425,UPHC Belpahar,phc,16.6,9.96
+381017.0,,jharsuguda,1111454425,UPHC Belpahar,phc,16.55,15.03
+381025.0,,jharsuguda,1111454573,Adhapada,phc,9.55,6.35
+381073.0,,jharsuguda,1111454425,UPHC Belpahar,phc,18.02,10.84
+381013.0,,jharsuguda,1111454334,Palsada,phc,11.55,16.37
+381044.0,,jharsuguda,1111454425,UPHC Belpahar,phc,14.27,8.9
+381020.0,,jharsuguda,1111454573,Adhapada,phc,13.56,9.03
+381024.0,,jharsuguda,1111454425,UPHC Belpahar,phc,16.63,9.63
+381032.0,,jharsuguda,1111454573,Adhapada,phc,9.38,5.46
+381033.0,,jharsuguda,1111454573,Adhapada,phc,9.38,5.46
+381062.0,,jharsuguda,1111454540,Kumarbandha,phc,16.38,10.53
+381064.0,,jharsuguda,1111454540,Kumarbandha,phc,16.38,10.53
+381063.0,,jharsuguda,1111454540,Kumarbandha,phc,16.47,10.59
+381038.0,,jharsuguda,1111454573,Adhapada,phc,8.57,4.28
+381030.0,,jharsuguda,1111454573,Adhapada,phc,13.35,8.87
+381070.0,,jharsuguda,1111454540,Kumarbandha,phc,16.35,6.81
+381046.0,,jharsuguda,1111454425,UPHC Belpahar,phc,21.0,14.86
+381069.0,,jharsuguda,1111454540,Kumarbandha,phc,12.01,5.0
+381056.0,,jharsuguda,1111454540,Kumarbandha,phc,6.84,3.43
+381057.0,,jharsuguda,1111454540,Kumarbandha,phc,7.34,3.64
+381054.0,,jharsuguda,1111454540,Kumarbandha,phc,10.6,5.42
+381136.0,,jharsuguda,1111436364,Sripura,phc,34.39,18.91
+381066.0,,jharsuguda,1111454540,Kumarbandha,phc,9.66,4.02
+381087.0,,jharsuguda,1111436331,Loisingh,phc,23.91,13.18
+381009.0,,jharsuguda,1111454425,UPHC Belpahar,phc,11.62,8.17
+381011.0,,jharsuguda,1111454425,UPHC Belpahar,phc,25.02,18.1
+381042.0,,jharsuguda,1111454425,UPHC Belpahar,phc,8.86,5.14
+381006.0,,jharsuguda,1111454425,UPHC Belpahar,phc,15.8,9.69
+381083.0,,jharsuguda,1111436331,Loisingh,phc,5.69,3.73
+381090.0,,jharsuguda,1111436331,Loisingh,phc,17.15,10.34
+381040.0,,jharsuguda,1111454425,UPHC Belpahar,phc,18.07,10.18
+381074.0,,jharsuguda,1111454425,UPHC Belpahar,phc,13.26,11.5
+381102.0,,jharsuguda,1111454425,UPHC Belpahar,phc,11.83,9.47
+381085.0,,jharsuguda,1111436331,Loisingh,phc,23.91,13.18
+381098.0,,jharsuguda,1111436331,Loisingh,phc,14.84,10.01
+381089.0,,jharsuguda,1111436331,Loisingh,phc,18.38,10.88
+381041.0,,jharsuguda,1111454425,UPHC Belpahar,phc,13.61,7.33
+381103.0,,jharsuguda,1111454425,UPHC Belpahar,phc,11.59,7.93
+381005.0,,jharsuguda,1111454425,UPHC Belpahar,phc,18.62,12.02
+381043.0,,jharsuguda,1111454425,UPHC Belpahar,phc,19.49,9.71
+381135.0,,jharsuguda,1111436364,Sripura,phc,42.14,22.09
+381099.0,,jharsuguda,1111436331,Loisingh,phc,16.03,10.51
+381100.0,,jharsuguda,1111454425,UPHC Belpahar,phc,12.26,10.08
+381095.0,,jharsuguda,1111436331,Loisingh,phc,12.35,9.83
+381091.0,,jharsuguda,1111436331,Loisingh,phc,5.79,2.37
+381107.0,,jharsuguda,1111454425,UPHC Belpahar,phc,17.88,12.78
+381084.0,,jharsuguda,1111436331,Loisingh,phc,16.12,9.93
+381022.0,,jharsuguda,1111454425,UPHC Belpahar,phc,16.52,9.91
+381104.0,,jharsuguda,1111454425,UPHC Belpahar,phc,19.06,13.57
+381134.0,,jharsuguda,1111436364,Sripura,phc,39.29,20.95
+381106.0,,jharsuguda,1111454425,UPHC Belpahar,phc,20.35,14.43
+381008.0,,jharsuguda,1111454425,UPHC Belpahar,phc,17.85,9.78
+381007.0,,jharsuguda,1111454425,UPHC Belpahar,phc,13.99,8.15
+381039.0,,jharsuguda,1111454425,UPHC Belpahar,phc,22.15,10.89
+250450.0,,jharsuguda,1111454425,UPHC Belpahar,phc,0.0,0.0
+381010.0,,jharsuguda,1111454425,UPHC Belpahar,phc,13.78,12.39
+381023.0,,jharsuguda,1111454425,UPHC Belpahar,phc,13.16,7.67
+250451.0,,jharsuguda,1111454425,UPHC Belpahar,phc,17.21,12.58
+381101.0,,jharsuguda,1111454425,UPHC Belpahar,phc,12.26,10.08
+381096.0,,jharsuguda,1111436331,Loisingh,phc,11.77,9.3
+381094.0,,jharsuguda,1111436331,Loisingh,phc,14.75,11.01
+381097.0,,jharsuguda,1111436331,Loisingh,phc,11.64,9.17
+381093.0,,jharsuguda,1111436331,Loisingh,phc,9.94,7.62
+381086.0,,jharsuguda,1111436331,Loisingh,phc,20.12,11.6
+381079.0,,jharsuguda,1111436331,Loisingh,phc,4.63,2.85
+381075.0,,jharsuguda,1111436331,Loisingh,phc,23.29,12.91
+381078.0,,jharsuguda,1111436331,Loisingh,phc,5.57,3.71
+381076.0,,jharsuguda,1111436331,Loisingh,phc,25.76,13.91
+381092.0,,jharsuguda,1111436331,Loisingh,phc,18.35,12.51
+381088.0,,jharsuguda,1111454425,UPHC Belpahar,phc,19.86,9.93
+381077.0,,jharsuguda,1111436331,Loisingh,phc,5.21,3.38
+381105.0,,jharsuguda,1111454425,UPHC Belpahar,phc,10.62,7.04
+381140.0,,jharsuguda,1111436364,Sripura,phc,17.9,9.02
+381127.0,,jharsuguda,1111436570,Talpatia,phc,19.94,17.92
+381125.0,,jharsuguda,1111436364,Sripura,phc,24.49,14.69
+381257.0,,jharsuguda,1111442420,Pokharasal,phc,12.47,11.56
+381143.0,,jharsuguda,1111436570,Talpatia,phc,25.63,19.85
+381133.0,,jharsuguda,1111436364,Sripura,phc,37.73,20.3
+381256.0,,jharsuguda,1111442420,Pokharasal,phc,12.05,13.09
+381145.0,,jharsuguda,1111436364,Sripura,phc,36.02,18.2
+381253.0,,jharsuguda,1111442453,Bhadimal,phc,14.16,6.56
+381128.0,,jharsuguda,1111436364,Sripura,phc,12.94,8.22
+381238.0,,jharsuguda,1111436570,Talpatia,phc,19.9,18.04
+381081.0,,jharsuguda,1111436331,Loisingh,phc,4.88,2.65
+381240.0,,jharsuguda,1111442453,Bhadimal,phc,9.39,6.5
+381118.0,,jharsuguda,1111436570,Talpatia,phc,16.04,15.0
+381122.0,,jharsuguda,1111442453,Bhadimal,phc,11.96,10.14
+381239.0,,jharsuguda,1111442453,Bhadimal,phc,12.76,5.27
+381132.0,,jharsuguda,1111454425,UPHC Belpahar,phc,22.27,16.2
+381241.0,,jharsuguda,1111442453,Bhadimal,phc,7.34,3.01
+381130.0,,jharsuguda,1111436364,Sripura,phc,15.35,9.55
+381142.0,,jharsuguda,1111436364,Sripura,phc,14.72,4.8
+381184.0,,jharsuguda,1111441463,Arda,phc,11.1,4.62
+381216.0,,jharsuguda,1111442453,Bhadimal,phc,22.33,9.26
+381246.0,,jharsuguda,1111442453,Bhadimal,phc,8.09,3.37
+381213.0,,jharsuguda,1111442453,Bhadimal,phc,25.84,10.67
+381208.0,,jharsuguda,1111441588,Bagdihi,phc,1.92,0.8
+381121.0,,jharsuguda,1111442453,Bhadimal,phc,12.48,10.88
+381212.0,,jharsuguda,1111436570,Talpatia,phc,21.9,17.82
+381113.0,,jharsuguda,1111436570,Talpatia,phc,10.47,9.8
+250452.0,,jharsuguda,1111436570,Talpatia,phc,10.81,11.91
+381131.0,,jharsuguda,1111436364,Sripura,phc,15.32,7.51
+381146.0,,jharsuguda,1111442453,Bhadimal,phc,24.77,10.89
+381177.0,,jharsuguda,1111452684,Laikera,phc,13.4,12.27
+381124.0,,jharsuguda,1111436570,Talpatia,phc,13.83,13.47
+381251.0,,jharsuguda,1111442453,Bhadimal,phc,11.88,6.44
+381126.0,,jharsuguda,1111436570,Talpatia,phc,22.3,18.86
+381129.0,,jharsuguda,1111436570,Talpatia,phc,15.06,13.99
+381119.0,,jharsuguda,1111454425,UPHC Belpahar,phc,20.11,14.65
+381120.0,,jharsuguda,1111436364,Sripura,phc,21.07,12.37
+381082.0,,jharsuguda,1111436331,Loisingh,phc,0.0,0.0
+381111.0,,jharsuguda,1111436570,Talpatia,phc,12.48,9.78
+381255.0,,jharsuguda,1111442453,Bhadimal,phc,11.18,6.44
+381252.0,,jharsuguda,1111442453,Bhadimal,phc,9.44,4.65
+381115.0,,jharsuguda,1111436570,Talpatia,phc,7.95,8.62
+381245.0,,jharsuguda,1111442453,Bhadimal,phc,3.58,1.49
+381182.0,,jharsuguda,1111441588,Bagdihi,phc,48.12,29.94
+381181.0,,jharsuguda,1111441588,Bagdihi,phc,46.18,28.17
+381218.0,,jharsuguda,1111442453,Bhadimal,phc,12.86,5.32
+381214.0,,jharsuguda,1111442453,Bhadimal,phc,20.86,8.62
+381114.0,,jharsuguda,1111436570,Talpatia,phc,13.07,11.3
+381215.0,,jharsuguda,1111442453,Bhadimal,phc,15.62,6.46
+381254.0,,jharsuguda,1111442453,Bhadimal,phc,21.99,12.72
+381244.0,,jharsuguda,1111442453,Bhadimal,phc,0.0,0.0
+381210.0,,jharsuguda,1111441463,Arda,phc,10.73,4.47
+381178.0,,jharsuguda,1111452684,Laikera,phc,15.8,14.47
+381180.0,,jharsuguda,1111452684,Laikera,phc,16.08,14.73
+381179.0,,jharsuguda,1111452684,Laikera,phc,16.51,15.12
+381144.0,,jharsuguda,1111436364,Sripura,phc,0.0,0.0
+381150.0,,jharsuguda,1111452684,Laikera,phc,15.4,14.1
+381148.0,,jharsuguda,1111441588,Bagdihi,phc,48.12,29.94
+381116.0,,jharsuguda,1111436570,Talpatia,phc,15.36,14.55
+381248.0,,jharsuguda,1111442453,Bhadimal,phc,8.61,3.54
+381117.0,,jharsuguda,1111436570,Talpatia,phc,12.28,12.48
+381234.0,,jharsuguda,1111442453,Bhadimal,phc,12.15,5.0
+381243.0,,jharsuguda,1111442453,Bhadimal,phc,16.16,6.68
+381185.0,,jharsuguda,1111441463,Arda,phc,8.69,3.62
+381183.0,,jharsuguda,1111441588,Bagdihi,phc,48.12,29.94
+381217.0,,jharsuguda,1111441588,Bagdihi,phc,3.65,1.52
+381112.0,,jharsuguda,1111436570,Talpatia,phc,2.04,2.21
+381110.0,,jharsuguda,1111441463,Arda,phc,13.62,5.67
+381219.0,,jharsuguda,1111441588,Bagdihi,phc,2.62,1.09
+381109.0,,jharsuguda,1111436570,Talpatia,phc,0.0,0.0
+381209.0,,jharsuguda,1111441463,Arda,phc,0.0,0.0
+381189.0,,jharsuguda,1111441588,Bagdihi,phc,1.24,0.52
+381108.0,,jharsuguda,1111436570,Talpatia,phc,7.12,7.61
+381147.0,,jharsuguda,1111436570,Talpatia,phc,10.0,10.74
+381123.0,,jharsuguda,1111442453,Bhadimal,phc,11.28,9.18
+381242.0,,jharsuguda,1111442453,Bhadimal,phc,9.19,3.78
+381211.0,,jharsuguda,1111436570,Talpatia,phc,19.47,17.75
+381220.0,,jharsuguda,1111442453,Bhadimal,phc,10.25,4.27
+381080.0,,jharsuguda,1111436331,Loisingh,phc,4.02,2.29
+381186.0,,jharsuguda,1111441463,Arda,phc,8.49,3.54
+381207.0,,jharsuguda,1111441588,Bagdihi,phc,0.0,0.0
+381247.0,,jharsuguda,1111442453,Bhadimal,phc,6.19,2.58
+381187.0,,jharsuguda,1111441463,Arda,phc,7.56,3.15
+381141.0,,jharsuguda,1111436364,Sripura,phc,12.16,6.65
+381138.0,,jharsuguda,1111436364,Sripura,phc,17.02,8.65
+381139.0,,jharsuguda,1111436364,Sripura,phc,20.75,10.04
+381188.0,,jharsuguda,1111441463,Arda,phc,8.98,3.75
+381277.0,,jharsuguda,1111442420,Pokharasal,phc,15.27,16.71
+381278.0,,jharsuguda,1111442420,Pokharasal,phc,14.83,9.6
+381276.0,,jharsuguda,1111442420,Pokharasal,phc,12.16,13.68
+381280.0,,jharsuguda,1111442420,Pokharasal,phc,23.22,14.24
+381279.0,,jharsuguda,1111442420,Pokharasal,phc,20.11,11.75
+381259.0,,jharsuguda,1111442420,Pokharasal,phc,14.71,13.32
+381260.0,,jharsuguda,1111442420,Pokharasal,phc,9.71,8.25
+381266.0,,jharsuguda,1111442420,Pokharasal,phc,5.84,5.85
+381261.0,,jharsuguda,1111442420,Pokharasal,phc,8.09,7.91
+381258.0,,jharsuguda,1111442420,Pokharasal,phc,7.96,9.91
+381269.0,,jharsuguda,1111442420,Pokharasal,phc,8.49,6.72
+381171.0,,jharsuguda,1111452775,Sahaspur,phc,0.0,0.0
+381168.0,,jharsuguda,1111452775,Sahaspur,phc,11.99,9.74
+381222.0,,jharsuguda,1111452684,Laikera,phc,0.0,0.0
+381274.0,,jharsuguda,1111442420,Pokharasal,phc,2.79,3.93
+381265.0,,jharsuguda,1111442420,Pokharasal,phc,2.35,3.23
+381237.0,,jharsuguda,1111442420,Pokharasal,phc,0.0,0.0
+381270.0,,jharsuguda,1111442420,Pokharasal,phc,4.08,3.32
+381271.0,,jharsuguda,1111442420,Pokharasal,phc,5.94,4.1
+381192.0,,jharsuguda,1111452684,Laikera,phc,7.35,6.73
+381174.0,,jharsuguda,1111452684,Laikera,phc,12.41,5.44
+381191.0,,jharsuguda,1111452684,Laikera,phc,8.53,7.81
+381173.0,,jharsuguda,1111452684,Laikera,phc,12.41,5.44
+381231.0,,jharsuguda,1111452684,Laikera,phc,3.08,2.82
+381176.0,,jharsuguda,1111452684,Laikera,phc,10.9,9.99
+381262.0,,jharsuguda,1111442420,Pokharasal,phc,5.55,7.3
+381227.0,,jharsuguda,1111442420,Pokharasal,phc,11.06,6.18
+381235.0,,jharsuguda,1111452684,Laikera,phc,6.52,5.98
+381228.0,,jharsuguda,1111442420,Pokharasal,phc,5.94,4.1
+381226.0,,jharsuguda,1111452775,Sahaspur,phc,0.73,0.49
+381225.0,,jharsuguda,1111452684,Laikera,phc,13.0,5.73
+381273.0,,jharsuguda,1111442420,Pokharasal,phc,3.33,4.7
+381175.0,,jharsuguda,1111452684,Laikera,phc,12.41,5.44
+381152.0,,jharsuguda,1111452684,Laikera,phc,70.27,79.56
+381249.0,,jharsuguda,1111442453,Bhadimal,phc,13.13,5.42
+381263.0,,jharsuguda,1111442420,Pokharasal,phc,4.32,5.96
+381205.0,,jharsuguda,1111452684,Laikera,phc,3.83,3.5
+381169.0,,jharsuguda,1111452775,Sahaspur,phc,11.96,9.71
+381153.0,,jharsuguda,1111452684,Laikera,phc,70.51,79.82
+381229.0,,jharsuguda,1111452684,Laikera,phc,11.23,4.99
+381154.0,,jharsuguda,1111452775,Sahaspur,phc,41.91,42.04
+381264.0,,jharsuguda,1111442420,Pokharasal,phc,3.47,3.85
+381195.0,,jharsuguda,1111452684,Laikera,phc,12.41,5.44
+381272.0,,jharsuguda,1111442420,Pokharasal,phc,13.42,11.37
+381250.0,,jharsuguda,1111442420,Pokharasal,phc,5.83,8.26
+381197.0,,jharsuguda,1111452775,Sahaspur,phc,0.0,0.0
+381275.0,,jharsuguda,1111442420,Pokharasal,phc,32.24,29.55
+381170.0,,jharsuguda,1111452775,Sahaspur,phc,0.0,0.0
+381151.0,,jharsuguda,1111452684,Laikera,phc,12.76,11.69
+381155.0,,jharsuguda,1111452775,Sahaspur,phc,40.13,40.12
+381236.0,,jharsuguda,1111452684,Laikera,phc,7.0,6.41
+381233.0,,jharsuguda,1111442453,Bhadimal,phc,12.37,5.1
+381232.0,,jharsuguda,1111442453,Bhadimal,phc,12.62,5.21
+381230.0,,jharsuguda,1111452684,Laikera,phc,4.41,4.04
+381221.0,,jharsuguda,1111452684,Laikera,phc,9.77,4.1
+381223.0,,jharsuguda,1111452684,Laikera,phc,0.63,0.58
+381224.0,,jharsuguda,1111452684,Laikera,phc,11.23,4.99
+381202.0,,jharsuguda,1111452684,Laikera,phc,13.19,5.81
+381203.0,,jharsuguda,1111452684,Laikera,phc,12.76,5.63
+381204.0,,jharsuguda,1111452684,Laikera,phc,5.94,2.79
+381200.0,,jharsuguda,1111452775,Sahaspur,phc,0.89,0.59
+381201.0,,jharsuguda,1111452775,Sahaspur,phc,0.0,0.0
+381206.0,,jharsuguda,1111452684,Laikera,phc,4.25,3.88
+381193.0,,jharsuguda,1111452684,Laikera,phc,10.15,4.5
+381196.0,,jharsuguda,1111452684,Laikera,phc,13.19,5.81
+381190.0,,jharsuguda,1111452684,Laikera,phc,8.32,7.61
+381199.0,,jharsuguda,1111452775,Sahaspur,phc,2.47,1.65
+381194.0,,jharsuguda,1111452684,Laikera,phc,12.41,5.44
+381198.0,,jharsuguda,1111452775,Sahaspur,phc,0.0,0.0
+381172.0,,jharsuguda,1111452775,Sahaspur,phc,35.97,35.61
+381167.0,,jharsuguda,1111452775,Sahaspur,phc,11.99,9.74
+381268.0,,jharsuguda,1111442420,Pokharasal,phc,32.24,29.55
+381267.0,,jharsuguda,1111442420,Pokharasal,phc,7.59,6.58
+381149.0,,jharsuguda,1111441588,Bagdihi,phc,47.22,29.12
+381161.0,,jharsuguda,1111452775,Sahaspur,phc,27.6,26.64
+381162.0,,jharsuguda,1111452775,Sahaspur,phc,26.39,25.34
+381166.0,,jharsuguda,1111452775,Sahaspur,phc,15.65,13.71
+381158.0,,jharsuguda,1111452775,Sahaspur,phc,27.27,26.28
+381165.0,,jharsuguda,1111452775,Sahaspur,phc,27.23,26.25
+381156.0,,jharsuguda,1111452775,Sahaspur,phc,35.99,35.64
+381157.0,,jharsuguda,1111452775,Sahaspur,phc,35.97,35.61
+381164.0,,jharsuguda,1111452775,Sahaspur,phc,25.86,24.76
+381159.0,,jharsuguda,1111452775,Sahaspur,phc,27.95,27.02
+381160.0,,jharsuguda,1111452775,Sahaspur,phc,28.96,28.12
+381163.0,,jharsuguda,1111452775,Sahaspur,phc,23.16,21.84

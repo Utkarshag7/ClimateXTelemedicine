@@ -1,0 +1,1714 @@
+village_id,first_stop,assigned_DH_SDH,closest_facility_type,t_phc_min,t_chc_min,t_dh_sdh_min,d_phc_km,d_chc_km,d_dh_sdh_km,phc_is_functional,chc_is_functional,comment
+410223,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410220,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410221,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410224,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410242,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410226,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410222,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410227,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410235,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410229,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410241,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410228,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410236,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410215,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410216,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410218,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410238,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410239,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410237,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410240,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410225,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410230,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410233,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410243,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410232,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410231,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410234,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410214,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410219,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410211,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410205,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410185,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410184,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410210,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410178,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410177,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410208,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410206,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410207,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410212,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410217,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410213,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410176,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410183,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410181,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410179,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410182,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410209,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410180,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410148,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410202,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410175,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410191,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410190,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410188,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410171,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410168,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410204,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410203,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410200,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410199,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410201,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410172,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410150,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410198,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410187,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410193,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410194,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410189,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410195,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410192,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410170,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410169,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410165,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410164,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410167,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410174,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410155,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410160,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410071,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410075,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410072,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410074,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410064,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410070,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410069,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410159,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410077,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410076,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410152,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410166,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410196,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410162,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410157,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410158,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410153,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410151,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410073,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410163,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410154,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410161,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410156,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410063,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410186,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410197,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410173,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410149,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410053,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410055,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410066,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410067,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410065,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410068,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410056,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410058,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410054,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410057,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410103,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410105,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409992,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409990,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409986,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409932,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410017,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409866,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409865,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409973,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409972,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409872,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409967,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409970,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409864,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409867,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409773,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409780,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409721,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409954,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409942,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409940,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409869,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409716,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409775,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410059,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410061,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410050,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409718,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409959,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409956,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409962,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409779,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409916,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410043,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410033,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409785,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409920,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409965,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409884,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409873,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409863,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409870,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410036,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410041,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409878,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410013,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409723,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409976,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409957,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409961,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409952,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409958,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410018,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410024,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410002,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409874,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409980,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409969,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410137,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409966,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409971,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410034,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410038,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409933,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409937,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409999,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410001,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409935,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409950,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410062,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410060,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410012,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410015,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+410020,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409944,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409943,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409949,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409912,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409783,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409782,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409930,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409923,Village→DH/SDH,1111546287,PHC,,,,,,,True,True,Fallback to DH/SDH
+409784,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409828,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409934,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410047,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410037,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410022,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409996,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409994,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409875,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409917,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409722,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409926,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409968,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409977,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409781,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410132,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410029,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410040,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+409924,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409964,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410052,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410051,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410048,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410049,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410032,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410046,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410004,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410003,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409981,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409883,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409997,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409998,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409882,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409978,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410000,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409963,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410035,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410039,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410030,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410045,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410006,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410028,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410042,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410025,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410027,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410016,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410014,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410011,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+409876,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410019,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410010,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410007,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410009,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410031,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+409983,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409881,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410008,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410021,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409995,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409993,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409988,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409989,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409960,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409953,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409871,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409826,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409919,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409927,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409929,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409778,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409918,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409987,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409946,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409945,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409947,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409868,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409938,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409936,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409829,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409827,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409928,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409925,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409922,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410131,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409913,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410133,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409720,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410134,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410144,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409776,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409915,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410140,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409719,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409914,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410138,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409991,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409985,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409877,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+410147,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409717,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410005,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+409979,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409974,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410145,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410026,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+409921,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409939,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410044,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+409955,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409951,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409941,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410023,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409982,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409984,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409777,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410146,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409931,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409715,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409948,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409975,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409886,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409519,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409525,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409824,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409822,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409509,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409798,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409848,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409816,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409887,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409891,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409902,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409896,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409861,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409860,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409851,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409823,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409731,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409756,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409844,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409892,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409520,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409805,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409521,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409728,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409515,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409732,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409767,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409791,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409789,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409765,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409453,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+250524,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409755,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409727,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409514,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409908,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409849,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409799,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409795,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409821,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409859,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409910,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409815,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409527,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409531,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409794,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409526,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409788,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409853,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409845,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409820,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409800,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409911,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409855,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409753,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409734,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409802,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409803,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409836,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409730,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409804,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409517,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409793,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409890,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409746,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409737,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409712,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409790,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409888,1111485171,1111546287,PHC,0.0,0.0,0.16333333333333336,0.0,0.0,0.0682,True,True,PHC is closer and functional
+409889,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409897,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409898,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409850,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409769,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409739,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409522,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409901,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409529,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409792,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409846,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409814,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409760,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409763,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409833,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409852,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409856,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409801,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409797,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409530,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409528,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409847,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409839,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409518,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409766,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409762,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409761,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409768,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409796,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409764,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409707,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409758,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409757,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409752,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409750,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409733,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409819,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409749,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409818,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409738,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409747,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409854,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409841,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409843,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409736,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409507,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409735,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409745,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409452,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409451,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409885,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409862,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409774,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409771,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409770,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409858,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409786,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409830,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409879,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409726,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409880,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409725,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409787,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409772,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409832,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409903,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409842,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409905,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409899,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409834,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409817,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409831,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409840,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409909,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409907,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409904,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409754,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409894,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409895,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409893,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409516,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409900,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409759,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409837,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409524,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409835,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409838,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409906,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409857,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409825,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409729,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409751,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409748,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410108,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410101,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409691,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409560,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410141,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410114,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410092,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408639,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409687,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410107,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410123,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409697,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409581,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409573,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409692,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409549,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410113,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409614,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409585,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410124,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409698,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408640,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409613,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409700,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410109,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409572,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410086,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409688,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410127,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410130,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410143,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409620,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408643,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410100,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410093,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410078,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410081,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410090,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410094,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410096,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409559,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409686,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410111,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410136,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409695,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409696,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409603,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408644,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410080,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410118,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410102,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409594,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410091,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408641,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410135,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409694,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409689,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409575,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409579,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410126,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410099,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409606,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409615,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409569,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409605,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409724,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409702,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410142,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410110,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409580,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408602,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410106,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409701,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410112,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410125,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409693,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409578,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410119,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410104,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410139,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410120,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409607,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409565,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408642,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409591,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409567,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409550,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410122,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410098,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409690,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409609,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410121,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409563,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409592,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409583,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409595,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410083,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409608,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409610,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409582,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409588,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409601,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409597,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409604,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410097,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410095,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409602,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409600,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409611,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409593,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409553,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408638,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409618,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409584,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410087,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409589,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409562,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409586,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409561,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409576,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408603,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409587,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410084,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409571,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409590,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409577,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409568,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409612,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410082,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409570,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410085,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409566,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410079,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409574,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409551,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409555,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410089,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409598,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409699,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410117,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410116,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409557,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410128,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409556,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409558,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409564,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409596,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410115,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410088,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409599,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+410129,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409543,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408594,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408562,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409552,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409547,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408611,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408606,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409544,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408590,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408587,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408592,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408591,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408609,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408601,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408555,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408554,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408565,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408564,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408607,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408599,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408558,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409546,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408585,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408567,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408569,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408598,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408596,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409548,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408608,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408605,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408600,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408604,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408595,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408597,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409545,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408586,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408537,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408588,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408557,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408559,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408556,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408568,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408593,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408561,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408563,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408570,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408566,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408553,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408535,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408536,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408665,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409542,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409554,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408560,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408589,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409680,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409623,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408625,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409706,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409678,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408656,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408858,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409631,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409705,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408630,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409682,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409704,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409709,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408827,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408839,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408844,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409681,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408824,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408809,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409626,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408848,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409679,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408860,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408838,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408647,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408663,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409627,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409633,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408856,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408847,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408846,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408821,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408820,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409711,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409708,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408660,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409644,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408658,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409710,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409676,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409630,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409641,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408816,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408654,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408849,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408652,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408657,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409677,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408664,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409625,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408649,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409684,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408841,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408840,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408629,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408662,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409639,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409634,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409632,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409629,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409640,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409642,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408624,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409624,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408626,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408818,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408632,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408628,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408828,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409638,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408862,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409645,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409636,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408863,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408857,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408627,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408634,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409635,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408661,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408659,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408854,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408859,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408861,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408655,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408653,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408650,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408807,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408855,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408842,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408811,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408825,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408845,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408631,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408823,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408822,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408819,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408633,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408808,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408635,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408815,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408623,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408843,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409619,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409616,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409683,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409621,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408637,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408636,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409685,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409703,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408646,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408648,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409617,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408817,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408850,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408853,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408852,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408851,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409637,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409643,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409646,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409628,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409622,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408810,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408651,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408622,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408645,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409442,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409649,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409713,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409812,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409662,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409360,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409740,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409809,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409655,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409063,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409059,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409444,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409083,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409714,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409056,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408866,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409742,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409673,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408831,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409066,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409661,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409441,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409670,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409674,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409054,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409653,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408867,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408836,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409057,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409675,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409743,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409665,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409367,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409362,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409068,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409361,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409064,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409084,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409810,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409060,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409065,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409366,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409085,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409813,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409811,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409741,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409074,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409073,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409077,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409669,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409744,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409806,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409647,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408864,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409075,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409448,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409449,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409808,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409443,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409666,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409438,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409071,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409058,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409069,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409667,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409051,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409657,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409439,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409660,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409648,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409663,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409664,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409672,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409650,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409658,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408837,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409070,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408826,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409080,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408830,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409668,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409368,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409651,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409363,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409078,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409061,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409076,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409654,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409043,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409656,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408865,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409652,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409369,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408869,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409062,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409364,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408835,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408868,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409079,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409072,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409082,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409067,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409038,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408834,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409081,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409049,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409050,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408829,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409039,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409042,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409044,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409053,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409365,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409450,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409671,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408832,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409447,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409659,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409807,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409359,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408833,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409440,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408768,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408752,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408776,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408774,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408785,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408619,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408797,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408800,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408735,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408547,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408617,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408621,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408806,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408738,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408615,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408766,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408781,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408786,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408713,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408780,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408796,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408574,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408772,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408769,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408579,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408771,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408577,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408813,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408805,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408814,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408756,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408736,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408730,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408723,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408728,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408715,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408755,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408767,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408787,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408798,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408732,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408714,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408724,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408812,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408778,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408782,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408802,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408748,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408546,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408576,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408765,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408742,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408616,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408801,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408729,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408721,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408725,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408799,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408618,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408580,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408764,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408741,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408804,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408783,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408578,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408777,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408722,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408773,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408775,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408784,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408763,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408719,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408575,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408572,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408754,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408750,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408573,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408745,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408747,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408746,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408749,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408744,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408743,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408540,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408620,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408779,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408549,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408739,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408550,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408758,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408548,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408740,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408734,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408731,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408733,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408720,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408737,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408718,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408717,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408716,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408692,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408690,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408688,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408695,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408693,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408584,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408614,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408541,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408610,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408583,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408612,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408613,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408581,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408582,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408543,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408571,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408551,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408552,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408545,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408544,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408686,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+250521,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408687,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408803,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408753,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408539,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408542,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408727,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408726,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408751,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408538,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408770,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408790,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408791,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409048,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408928,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408931,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408955,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408875,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408958,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409040,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409046,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408887,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408945,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408934,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408932,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408880,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408963,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408949,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408952,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408761,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408891,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408966,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408795,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408883,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408884,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408696,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408712,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408953,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408956,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408959,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408941,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408878,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408762,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408874,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408885,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408947,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408948,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408889,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409047,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408760,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408946,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408873,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409045,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408951,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408792,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409052,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408794,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408886,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408876,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409041,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409055,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408789,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408967,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408962,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408788,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408954,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408969,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408961,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408957,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408965,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408960,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408888,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408933,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408944,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408935,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408940,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408943,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408759,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408930,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408872,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408939,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408938,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408927,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408929,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408936,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408890,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408882,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408871,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408877,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408892,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408881,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408879,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408870,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408708,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408709,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408711,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408704,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408705,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408706,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408707,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408703,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408964,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408757,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408937,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408942,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408793,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408950,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408710,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409323,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409501,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+250523,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409328,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409268,1111466270,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409540,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409500,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409352,1111466270,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409354,1111466270,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409535,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409513,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409353,1111466270,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409454,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409497,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409338,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409331,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409504,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409342,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409321,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409341,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409337,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409186,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409503,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409319,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409324,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409355,1111466270,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409326,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409350,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409356,1111466270,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409343,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409506,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409335,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409320,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409336,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409511,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409318,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409333,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409329,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409345,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409330,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409327,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409344,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409349,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409533,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409325,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409348,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409512,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409334,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409357,1111466270,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409532,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409539,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409498,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409351,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409312,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409523,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409502,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409510,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409537,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409538,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409346,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409508,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409347,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409536,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409322,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409494,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409505,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409358,1111466270,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409499,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409340,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409332,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409272,1111466270,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409271,1111466270,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409339,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409187,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409273,1111466270,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409541,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409534,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409310,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409092,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409379,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409375,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409089,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409433,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409468,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409476,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409446,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409317,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409459,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409370,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409495,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409479,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409472,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409095,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409100,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409460,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409378,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409464,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409474,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409015,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409425,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409429,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409013,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409385,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409023,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409463,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409475,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409470,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409032,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409434,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409374,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409469,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409465,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409478,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409473,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409420,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409377,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409424,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409458,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409467,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409496,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409437,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409456,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409461,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409432,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409455,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409381,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409428,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409457,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409466,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409445,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+409094,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409427,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409431,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409031,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409099,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409462,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409471,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409097,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409093,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409086,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409033,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409382,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409477,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409435,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409426,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409020,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409421,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409422,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409430,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409010,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409372,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409383,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409014,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409087,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409021,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409373,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409376,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409037,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409026,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409091,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409371,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409088,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409423,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409034,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409090,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409384,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409098,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409096,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409030,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409029,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409012,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409011,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409027,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409028,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409022,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409019,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409380,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409436,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409170,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409299,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409301,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409184,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409413,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409139,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409000,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409398,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409305,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409304,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409127,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409313,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409294,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409109,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409303,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409314,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409290,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409492,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409403,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409392,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409159,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409288,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409489,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409390,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409002,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409308,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409105,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409389,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409482,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409171,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409169,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409132,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409185,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409416,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409491,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409393,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409134,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409168,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409157,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409101,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409410,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409287,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409315,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409484,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409162,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409481,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409104,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409293,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409289,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409485,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409412,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409163,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409279,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409394,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409135,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409172,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409164,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409005,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409130,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409138,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409405,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409281,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409300,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409292,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409409,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409161,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409306,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409316,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409307,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409302,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409173,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409285,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409404,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409102,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409388,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409280,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409297,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409406,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409108,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409402,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409174,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409493,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409490,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409296,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409175,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409486,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409487,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409386,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409391,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409488,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409133,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409106,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409136,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409003,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409400,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409111,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409160,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409419,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409418,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409411,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409415,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409414,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409407,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409131,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409387,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409137,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409129,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409103,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409004,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409395,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409006,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409107,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409128,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409399,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409483,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409417,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409167,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409298,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409401,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409408,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409311,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409165,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409283,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409282,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409309,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409291,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409480,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409284,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409166,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409295,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409286,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409025,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408971,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409017,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408912,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409036,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409009,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409018,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408895,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408916,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408897,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408893,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408926,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408922,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408915,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409035,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409016,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408904,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408902,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408903,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409007,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408913,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408910,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409024,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408978,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408901,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408899,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409008,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408973,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408983,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408977,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408914,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408925,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408982,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408896,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408972,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408898,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408894,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408975,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408970,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408976,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408974,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408980,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408979,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408981,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408919,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408920,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408923,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408917,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408921,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408968,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408911,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408918,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408924,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408900,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+250522,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408909,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409001,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408984,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409396,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408997,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408986,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408985,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409397,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408988,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408992,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408993,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408990,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408996,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408991,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408994,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408995,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408999,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408987,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408905,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408998,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409110,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409112,1111466247,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408989,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408908,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408907,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408906,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409276,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409121,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409246,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409250,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409143,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409210,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409259,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409145,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409194,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409269,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409262,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409265,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409226,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409251,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409237,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409252,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409234,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409156,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409264,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409180,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409275,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409208,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409202,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409123,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409255,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409219,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409209,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409150,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409115,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409119,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409212,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409218,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409205,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409125,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409181,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409213,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409183,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409256,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409122,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409155,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409253,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409240,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409221,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409189,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409158,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409224,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409274,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409182,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409203,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409196,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409238,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409147,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409144,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409124,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409266,1111466270,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409267,1111466270,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409263,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409231,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409220,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409247,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409241,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409243,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409188,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409270,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409148,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409179,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409207,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409140,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409236,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409222,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409211,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409260,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409277,1111466270,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409261,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409239,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409245,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409257,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409258,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409233,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409204,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409201,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409249,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409176,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409230,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409195,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409153,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409154,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409244,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409178,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409141,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409235,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409242,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409248,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409177,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409227,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409206,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409113,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409142,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409225,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409151,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409114,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409190,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409152,1111455869,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409228,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409229,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409198,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409146,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409126,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409117,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409120,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409116,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409278,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409215,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409254,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409232,1111454755,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409223,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409216,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409199,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409217,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409197,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409118,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409200,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409149,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409214,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409192,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409191,1111475750,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+409193,1111476238,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408689,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408678,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408691,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408694,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408683,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408682,Village→DH/SDH,1111546287,PHC,89.565,89.565,89.565,84.4515,84.4515,84.4515,True,True,Direct to DH/SDH
+408684,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408679,Village→DH/SDH,1111546287,PHC,89.565,89.565,89.565,84.4515,84.4515,84.4515,True,True,Direct to DH/SDH
+408685,Village→DH/SDH,1111546287,PHC,0.0,0.0,0.0,0.0,0.0,0.0,True,True,Direct to DH/SDH
+408681,Village→DH/SDH,1111546287,PHC,89.565,89.565,89.565,84.4515,84.4515,84.4515,True,True,Direct to DH/SDH
+408666,Village→DH/SDH,1111546287,PHC,89.565,89.565,89.565,84.4515,84.4515,84.4515,True,True,Direct to DH/SDH
+408668,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408667,Village→DH/SDH,1111546287,PHC,89.565,89.565,89.565,84.4515,84.4515,84.4515,True,True,Direct to DH/SDH
+408669,Village→DH/SDH,1111546287,PHC,89.565,89.565,89.565,84.4515,84.4515,84.4515,True,True,Direct to DH/SDH
+408680,Village→DH/SDH,1111546287,PHC,89.565,89.565,89.565,84.4515,84.4515,84.4515,True,True,Direct to DH/SDH
+408701,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408702,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408698,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408699,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408697,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408700,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408677,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408676,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408675,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408674,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408673,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408672,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408671,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional
+408670,1111463368,1111546287,PHC,0.0,0.0,89.565,0.0,0.0,84.4515,True,True,PHC is closer and functional

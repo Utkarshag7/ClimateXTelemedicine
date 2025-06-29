@@ -1,0 +1,974 @@
+lgd_villagecode,village_name,district,NIN,facility_name,facility_type,travel_time_min,distance_km
+431169.0,,malkangiri,8116616510,Motu,phc,0.0,0.0
+431168.0,,malkangiri,8116616510,Motu,phc,4.81,2.63
+431167.0,,malkangiri,8116616510,Motu,phc,7.83,4.64
+431171.0,,malkangiri,8116616510,Motu,phc,19.14,9.85
+431170.0,,malkangiri,8116616510,Motu,phc,4.09,3.56
+431140.0,,malkangiri,8116616510,Motu,phc,7.71,8.7
+431141.0,,malkangiri,8116616510,Motu,phc,11.85,11.08
+431166.0,,malkangiri,8116616510,Motu,phc,12.17,7.14
+431165.0,,malkangiri,8116616510,Motu,phc,16.68,13.09
+431136.0,,malkangiri,3256858477,Koikonda,phc,24.33,14.95
+431135.0,,malkangiri,3256858477,Koikonda,phc,20.7,13.4
+431175.0,,malkangiri,3256858477,Koikonda,phc,22.21,14.73
+431125.0,,malkangiri,3256858477,Koikonda,phc,11.87,6.53
+431176.0,,malkangiri,3256858477,Koikonda,phc,14.31,11.07
+431188.0,,malkangiri,3256858477,Koikonda,phc,19.89,10.09
+431126.0,,malkangiri,3256858477,Koikonda,phc,15.26,12.38
+431162.0,,malkangiri,3256858477,Koikonda,phc,6.23,6.37
+431177.0,,malkangiri,3256858477,Koikonda,phc,8.22,4.65
+431159.0,,malkangiri,3256858477,Koikonda,phc,7.81,5.79
+431146.0,,malkangiri,3256858477,Koikonda,phc,11.27,9.5
+431147.0,,malkangiri,3256858477,Koikonda,phc,0.0,0.0
+431157.0,,malkangiri,3256858477,Koikonda,phc,6.2,3.48
+431160.0,,malkangiri,3256858477,Koikonda,phc,10.21,6.05
+431164.0,,malkangiri,3256858477,Koikonda,phc,7.43,6.48
+431144.0,,malkangiri,3256858477,Koikonda,phc,7.92,9.1
+431161.0,,malkangiri,3256858477,Koikonda,phc,13.29,8.59
+431178.0,,malkangiri,3256858477,Koikonda,phc,7.12,5.26
+431155.0,,malkangiri,8826372180,Manyamkonda,phc,0.0,0.0
+431189.0,,malkangiri,3256858477,Koikonda,phc,19.2,9.8
+431187.0,,malkangiri,3256858477,Koikonda,phc,19.09,11.56
+431186.0,,malkangiri,8826372180,Manyamkonda,phc,11.41,8.6
+431184.0,,malkangiri,8826372180,Manyamkonda,phc,6.51,5.34
+431183.0,,malkangiri,8826372180,Manyamkonda,phc,4.68,4.12
+431185.0,,malkangiri,3256858477,Koikonda,phc,15.01,10.11
+431190.0,,malkangiri,3256858477,Koikonda,phc,25.64,14.29
+431180.0,,malkangiri,8826372180,Manyamkonda,phc,15.12,9.96
+431191.0,,malkangiri,3256858477,Koikonda,phc,25.35,14.17
+431119.0,,malkangiri,3256858477,Koikonda,phc,17.95,16.06
+431124.0,,malkangiri,3256858477,Koikonda,phc,20.99,16.2
+431121.0,,malkangiri,7335845348,MV 55,phc,20.54,18.77
+431148.0,,malkangiri,3256858477,Koikonda,phc,5.29,5.34
+431127.0,,malkangiri,3256858477,Koikonda,phc,11.36,11.67
+431122.0,,malkangiri,7335845348,MV 55,phc,29.33,24.16
+431118.0,,malkangiri,3256858477,Koikonda,phc,14.08,13.48
+431120.0,,malkangiri,7335845348,MV 55,phc,19.27,17.13
+431104.0,,malkangiri,7335845348,MV 55,phc,12.67,11.56
+431123.0,,malkangiri,3256858477,Koikonda,phc,22.7,17.34
+431154.0,,malkangiri,8826372180,Manyamkonda,phc,2.77,2.54
+431149.0,,malkangiri,3256858477,Koikonda,phc,18.12,11.38
+431129.0,,malkangiri,8826372180,Manyamkonda,phc,6.57,6.03
+431150.0,,malkangiri,3256858477,Koikonda,phc,14.69,7.6
+431151.0,,malkangiri,8826372180,Manyamkonda,phc,9.36,6.7
+431128.0,,malkangiri,3256858477,Koikonda,phc,16.7,18.52
+431132.0,,malkangiri,8826372180,Manyamkonda,phc,8.56,6.93
+431131.0,,malkangiri,8826372180,Manyamkonda,phc,6.19,5.68
+431133.0,,malkangiri,8826372180,Manyamkonda,phc,9.39,7.28
+431130.0,,malkangiri,8826372180,Manyamkonda,phc,5.08,4.67
+431108.0,,malkangiri,7335845348,MV 55,phc,28.59,20.37
+431114.0,,malkangiri,8826372180,Manyamkonda,phc,12.82,9.32
+431116.0,,malkangiri,3256858477,Koikonda,phc,16.56,14.44
+431105.0,,malkangiri,8826372180,Manyamkonda,phc,27.45,19.97
+431134.0,,malkangiri,8826372180,Manyamkonda,phc,17.17,13.11
+431037.0,,malkangiri,7335845348,MV 55,phc,20.61,18.95
+431040.0,,malkangiri,8826372180,Manyamkonda,phc,29.37,22.56
+431052.0,,malkangiri,5578372830,Populur,phc,63.63,26.46
+431051.0,,malkangiri,8826372180,Manyamkonda,phc,113.3,36.44
+431042.0,,malkangiri,8826372180,Manyamkonda,phc,114.03,36.55
+431029.0,,malkangiri,5578372830,Populur,phc,45.42,18.87
+431153.0,,malkangiri,8826372180,Manyamkonda,phc,15.15,8.26
+431048.0,,malkangiri,8826372180,Manyamkonda,phc,60.46,29.41
+431053.0,,malkangiri,5578372830,Populur,phc,58.9,24.49
+431041.0,,malkangiri,8826372180,Manyamkonda,phc,114.03,36.55
+431049.0,,malkangiri,8826372180,Manyamkonda,phc,114.21,36.58
+431046.0,,malkangiri,8826372180,Manyamkonda,phc,92.07,33.61
+431054.0,,malkangiri,5578372830,Populur,phc,50.03,20.79
+431044.0,,malkangiri,8826372180,Manyamkonda,phc,122.12,37.63
+431045.0,,malkangiri,8826372180,Manyamkonda,phc,121.93,37.6
+431112.0,,malkangiri,8826372180,Manyamkonda,phc,16.63,13.42
+431030.0,,malkangiri,5578372830,Populur,phc,45.42,18.87
+431034.0,,malkangiri,7335845348,MV 55,phc,30.53,23.66
+431038.0,,malkangiri,8826372180,Manyamkonda,phc,32.31,23.76
+431111.0,,malkangiri,8826372180,Manyamkonda,phc,18.72,17.7
+431031.0,,malkangiri,8826372180,Manyamkonda,phc,113.3,36.44
+431036.0,,malkangiri,7335845348,MV 55,phc,28.41,22.78
+431110.0,,malkangiri,7335845348,MV 55,phc,19.65,14.41
+431055.0,,malkangiri,8826372180,Manyamkonda,phc,69.48,30.6
+431043.0,,malkangiri,8826372180,Manyamkonda,phc,86.77,32.92
+431113.0,,malkangiri,8826372180,Manyamkonda,phc,17.65,13.84
+431027.0,,malkangiri,5578372830,Populur,phc,38.98,16.19
+431152.0,,malkangiri,8826372180,Manyamkonda,phc,17.04,9.05
+431047.0,,malkangiri,8826372180,Manyamkonda,phc,69.48,30.6
+431050.0,,malkangiri,8826372180,Manyamkonda,phc,103.37,35.12
+431095.0,,malkangiri,7335845348,MV 55,phc,8.04,7.32
+431089.0,,malkangiri,7335845348,MV 55,phc,15.08,15.57
+431092.0,,malkangiri,7335845348,MV 55,phc,26.3,26.83
+431103.0,,malkangiri,7335845348,MV 55,phc,25.22,22.99
+431093.0,,malkangiri,7335845348,MV 55,phc,31.21,28.71
+431097.0,,malkangiri,7335845348,MV 55,phc,25.65,19.07
+431091.0,,malkangiri,7335845348,MV 55,phc,23.53,23.73
+431098.0,,malkangiri,7335845348,MV 55,phc,12.47,12.75
+430958.0,,malkangiri,7335845348,MV 55,phc,32.51,29.25
+430960.0,,malkangiri,7335845348,MV 55,phc,7.26,6.6
+430957.0,,malkangiri,7335845348,MV 55,phc,30.53,28.43
+430984.0,,malkangiri,7335845348,MV 55,phc,3.38,3.1
+430982.0,,malkangiri,7335845348,MV 55,phc,15.57,9.83
+431106.0,,malkangiri,7335845348,MV 55,phc,4.1,3.72
+431100.0,,malkangiri,7335845348,MV 55,phc,9.05,9.04
+430986.0,,malkangiri,7335845348,MV 55,phc,9.98,8.88
+430985.0,,malkangiri,7335845348,MV 55,phc,8.45,7.68
+431109.0,,malkangiri,7335845348,MV 55,phc,19.67,14.46
+431107.0,,malkangiri,7335845348,MV 55,phc,0.0,0.0
+430983.0,,malkangiri,7335845348,MV 55,phc,10.41,6.65
+431099.0,,malkangiri,7335845348,MV 55,phc,10.86,11.0
+430962.0,,malkangiri,7335845348,MV 55,phc,6.77,4.0
+430965.0,,malkangiri,7335845348,MV 55,phc,25.57,13.96
+431069.0,,malkangiri,8118816878,Dharampally,phc,18.88,12.34
+431081.0,,malkangiri,8118816878,Dharampally,phc,5.36,3.01
+431085.0,,malkangiri,7335845348,MV 55,phc,34.67,26.02
+431090.0,,malkangiri,7335845348,MV 55,phc,26.5,24.4
+431068.0,,malkangiri,8118816878,Dharampally,phc,29.96,17.3
+431087.0,,malkangiri,7335845348,MV 55,phc,32.98,25.32
+431101.0,,malkangiri,7335845348,MV 55,phc,14.29,8.24
+431088.0,,malkangiri,7335845348,MV 55,phc,28.19,23.31
+431067.0,,malkangiri,8118816878,Dharampally,phc,28.41,17.11
+431084.0,,malkangiri,8118816878,Dharampally,phc,10.12,6.0
+431072.0,,malkangiri,8118816878,Dharampally,phc,15.45,9.47
+431074.0,,malkangiri,8118816878,Dharampally,phc,9.49,5.53
+431071.0,,malkangiri,8118816878,Dharampally,phc,25.14,16.21
+431070.0,,malkangiri,8118816878,Dharampally,phc,23.54,15.14
+431102.0,,malkangiri,7335845348,MV 55,phc,21.3,20.45
+431096.0,,malkangiri,7335845348,MV 55,phc,14.29,8.24
+431075.0,,malkangiri,8118816878,Dharampally,phc,10.12,6.0
+431077.0,,malkangiri,8118816878,Dharampally,phc,10.12,6.0
+431086.0,,malkangiri,8118816878,Dharampally,phc,10.12,6.0
+430966.0,,malkangiri,7335845348,MV 55,phc,42.47,21.04
+431076.0,,malkangiri,8118816878,Dharampally,phc,6.57,3.84
+430996.0,,malkangiri,7335845348,MV 55,phc,20.99,23.93
+430979.0,,malkangiri,7335845348,MV 55,phc,30.78,16.17
+430978.0,,malkangiri,7335845348,MV 55,phc,34.42,17.69
+430990.0,,malkangiri,7335845348,MV 55,phc,22.96,14.29
+430999.0,,malkangiri,7335845348,MV 55,phc,25.88,24.27
+430991.0,,malkangiri,7335845348,MV 55,phc,23.69,18.38
+430977.0,,malkangiri,7335845348,MV 55,phc,39.26,35.68
+430992.0,,malkangiri,7335845348,MV 55,phc,19.95,18.99
+430998.0,,malkangiri,2361838689,Bhejangwada,phc,15.26,10.17
+430987.0,,malkangiri,7335845348,MV 55,phc,11.19,11.31
+430980.0,,malkangiri,7335845348,MV 55,phc,26.72,14.47
+430997.0,,malkangiri,7335845348,MV 55,phc,20.82,22.17
+430981.0,,malkangiri,7335845348,MV 55,phc,23.71,13.22
+430988.0,,malkangiri,7335845348,MV 55,phc,16.77,14.43
+430989.0,,malkangiri,7335845348,MV 55,phc,15.95,15.83
+430975.0,,malkangiri,2361838689,Bhejangwada,phc,24.55,19.04
+430995.0,,malkangiri,7335845348,MV 55,phc,26.17,26.19
+430993.0,,malkangiri,7335845348,MV 55,phc,20.61,20.06
+430994.0,,malkangiri,7335845348,MV 55,phc,23.47,24.4
+431002.0,,malkangiri,2361838689,Bhejangwada,phc,34.78,20.52
+431004.0,,malkangiri,2361838689,Bhejangwada,phc,1.54,1.03
+431000.0,,malkangiri,2361838689,Bhejangwada,phc,10.06,6.71
+431035.0,,malkangiri,7335845348,MV 55,phc,29.67,23.3
+431032.0,,malkangiri,8826372180,Manyamkonda,phc,113.3,36.44
+431014.0,,malkangiri,2361838689,Bhejangwada,phc,46.71,29.68
+431016.0,,malkangiri,2361838689,Bhejangwada,phc,0.0,0.0
+431005.0,,malkangiri,2361838689,Bhejangwada,phc,3.22,2.15
+430974.0,,malkangiri,2361838689,Bhejangwada,phc,31.77,23.51
+431006.0,,malkangiri,2361838689,Bhejangwada,phc,1.04,0.7
+431028.0,,malkangiri,5578372830,Populur,phc,13.67,5.7
+431003.0,,malkangiri,2361838689,Bhejangwada,phc,5.56,3.71
+431001.0,,malkangiri,2361838689,Bhejangwada,phc,33.07,19.8
+431017.0,,malkangiri,3385137843,Tumusapally,phc,58.93,25.45
+431015.0,,malkangiri,2361838689,Bhejangwada,phc,46.12,29.44
+431009.0,,malkangiri,5578372830,Populur,phc,13.67,5.7
+431010.0,,malkangiri,5578372830,Populur,phc,13.67,5.7
+431033.0,,malkangiri,7335845348,MV 55,phc,29.67,23.3
+430971.0,,malkangiri,8662838617,Matapaka,phc,29.95,21.07
+430976.0,,malkangiri,2361838689,Bhejangwada,phc,36.77,27.23
+430969.0,,malkangiri,8662838617,Matapaka,phc,40.79,27.54
+430286.0,,malkangiri,8662838617,Matapaka,phc,16.33,10.86
+430283.0,,malkangiri,8662838617,Matapaka,phc,9.12,6.06
+430972.0,,malkangiri,2361838689,Bhejangwada,phc,26.55,22.08
+430967.0,,malkangiri,7335845348,MV 55,phc,42.47,21.04
+430287.0,,malkangiri,8662838617,Matapaka,phc,30.18,19.58
+430970.0,,malkangiri,8662838617,Matapaka,phc,40.92,27.6
+431083.0,,malkangiri,8118816878,Dharampally,phc,8.82,5.31
+430331.0,,malkangiri,8662838617,Matapaka,phc,13.22,8.79
+430324.0,,malkangiri,5844254580,MV 47,phc,20.12,8.2
+430323.0,,malkangiri,2361838689,Bhejangwada,phc,41.36,27.48
+430325.0,,malkangiri,3385137843,Tumusapally,phc,14.54,5.98
+430322.0,,malkangiri,2361838689,Bhejangwada,phc,43.3,29.75
+430973.0,,malkangiri,2361838689,Bhejangwada,phc,39.78,28.31
+430327.0,,malkangiri,3385137843,Tumusapally,phc,10.54,4.31
+430321.0,,malkangiri,2361838689,Bhejangwada,phc,41.71,29.13
+430326.0,,malkangiri,3385137843,Tumusapally,phc,12.92,5.31
+430320.0,,malkangiri,5844254580,MV 47,phc,33.24,24.66
+430316.0,,malkangiri,5844254580,MV 47,phc,42.8,26.19
+430297.0,,malkangiri,8662838617,Matapaka,phc,32.91,19.07
+430288.0,,malkangiri,8662838617,Matapaka,phc,23.16,15.28
+430293.0,,malkangiri,5844254580,MV 47,phc,29.77,18.36
+430315.0,,malkangiri,5844254580,MV 47,phc,37.79,24.13
+430289.0,,malkangiri,8662838617,Matapaka,phc,23.93,16.37
+430298.0,,malkangiri,8662838617,Matapaka,phc,28.62,17.29
+430296.0,,malkangiri,5844254580,MV 47,phc,0.0,0.0
+430300.0,,malkangiri,3385137843,Tumusapally,phc,10.39,4.21
+430299.0,,malkangiri,5844254580,MV 47,phc,7.0,2.81
+430301.0,,malkangiri,3385137843,Tumusapally,phc,13.09,5.35
+431062.0,,malkangiri,5578372830,Populur,phc,24.89,10.32
+431059.0,,malkangiri,5578372830,Populur,phc,27.51,11.41
+431056.0,,malkangiri,5578372830,Populur,phc,37.53,15.59
+431057.0,,malkangiri,5578372830,Populur,phc,19.41,8.04
+431025.0,,malkangiri,5578372830,Populur,phc,14.57,6.02
+431058.0,,malkangiri,5578372830,Populur,phc,38.54,16.0
+431026.0,,malkangiri,5578372830,Populur,phc,18.97,7.85
+431060.0,,malkangiri,5578372830,Populur,phc,24.66,10.22
+431061.0,,malkangiri,5578372830,Populur,phc,20.07,8.31
+431064.0,,malkangiri,5578372830,Populur,phc,10.58,4.36
+431066.0,,malkangiri,5578372830,Populur,phc,6.8,2.83
+430727.0,,malkangiri,4657777233,Badapada,phc,33.11,11.03
+430734.0,,malkangiri,4657777233,Badapada,phc,25.23,10.17
+430735.0,,malkangiri,4657777233,Badapada,phc,20.95,8.36
+430729.0,,malkangiri,4657777233,Badapada,phc,33.19,13.46
+430728.0,,malkangiri,4657777233,Badapada,phc,32.8,13.3
+430731.0,,malkangiri,4657777233,Badapada,phc,32.36,13.12
+430733.0,,malkangiri,4657777233,Badapada,phc,27.72,11.18
+430730.0,,malkangiri,4657777233,Badapada,phc,37.13,15.1
+430726.0,,malkangiri,4657777233,Badapada,phc,32.49,10.82
+430732.0,,malkangiri,4657777233,Badapada,phc,28.56,11.53
+430725.0,,malkangiri,4657777233,Badapada,phc,25.74,8.58
+430670.0,,malkangiri,4657777233,Badapada,phc,28.05,9.35
+430651.0,,malkangiri,5578372830,Populur,phc,31.0,12.89
+431019.0,,malkangiri,3385137843,Tumusapally,phc,58.93,25.45
+430652.0,,malkangiri,5578372830,Populur,phc,37.13,15.4
+430653.0,,malkangiri,5578372830,Populur,phc,33.96,14.12
+430643.0,,malkangiri,5578372830,Populur,phc,48.02,20.72
+430654.0,,malkangiri,5578372830,Populur,phc,25.19,10.5
+430642.0,,malkangiri,5578372830,Populur,phc,50.76,21.08
+430640.0,,malkangiri,5578372830,Populur,phc,50.62,22.45
+431020.0,,malkangiri,3385137843,Tumusapally,phc,58.93,25.45
+430646.0,,malkangiri,5578372830,Populur,phc,47.26,20.21
+431023.0,,malkangiri,5578372830,Populur,phc,18.09,7.49
+431022.0,,malkangiri,5578372830,Populur,phc,11.38,4.74
+430655.0,,malkangiri,5578372830,Populur,phc,8.14,3.39
+430645.0,,malkangiri,5578372830,Populur,phc,44.15,18.4
+430641.0,,malkangiri,5578372830,Populur,phc,50.56,22.41
+430644.0,,malkangiri,5578372830,Populur,phc,43.11,17.89
+431021.0,,malkangiri,3385137843,Tumusapally,phc,58.93,25.45
+431008.0,,malkangiri,5578372830,Populur,phc,13.67,5.7
+431065.0,,malkangiri,5578372830,Populur,phc,7.17,2.99
+431024.0,,malkangiri,5578372830,Populur,phc,1.38,0.58
+431063.0,,malkangiri,5578372830,Populur,phc,7.95,3.26
+430656.0,,malkangiri,5578372830,Populur,phc,0.0,0.0
+430632.0,,malkangiri,8436827557,Janbai,phc,5.4,5.85
+430660.0,,malkangiri,5578372830,Populur,phc,34.71,14.42
+430661.0,,malkangiri,5578372830,Populur,phc,39.57,16.45
+430650.0,,malkangiri,5578372830,Populur,phc,31.9,13.3
+430663.0,,malkangiri,5578372830,Populur,phc,42.24,17.56
+430617.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430666.0,,malkangiri,8436827557,Janbai,phc,3.9,4.23
+430634.0,,malkangiri,8436827557,Janbai,phc,4.11,3.16
+430662.0,,malkangiri,5578372830,Populur,phc,39.54,16.66
+430647.0,,malkangiri,5578372830,Populur,phc,42.55,18.98
+430625.0,,malkangiri,8436827557,Janbai,phc,3.88,4.2
+430633.0,,malkangiri,8436827557,Janbai,phc,5.4,5.85
+430618.0,,malkangiri,8436827557,Janbai,phc,0.96,1.04
+430659.0,,malkangiri,5578372830,Populur,phc,34.31,14.26
+430665.0,,malkangiri,8436827557,Janbai,phc,3.9,4.23
+430629.0,,malkangiri,8436827557,Janbai,phc,1.74,1.88
+430648.0,,malkangiri,5578372830,Populur,phc,41.36,18.23
+430667.0,,malkangiri,8436827557,Janbai,phc,3.9,4.23
+430657.0,,malkangiri,5578372830,Populur,phc,35.32,16.23
+430658.0,,malkangiri,5578372830,Populur,phc,39.13,18.78
+430627.0,,malkangiri,8436827557,Janbai,phc,3.9,4.23
+430626.0,,malkangiri,8436827557,Janbai,phc,3.88,4.2
+430636.0,,malkangiri,5578372830,Populur,phc,40.91,17.01
+430673.0,,malkangiri,8436827557,Janbai,phc,4.99,3.49
+430628.0,,malkangiri,8436827557,Janbai,phc,4.67,5.06
+430635.0,,malkangiri,5578372830,Populur,phc,40.91,17.01
+430664.0,,malkangiri,8436827557,Janbai,phc,6.83,7.39
+430630.0,,malkangiri,8436827557,Janbai,phc,2.28,2.47
+430631.0,,malkangiri,8436827557,Janbai,phc,5.14,5.58
+430328.0,,malkangiri,3385137843,Tumusapally,phc,15.47,7.43
+430944.0,,malkangiri,3385137843,Tumusapally,phc,46.06,20.09
+431018.0,,malkangiri,3385137843,Tumusapally,phc,58.91,25.44
+430947.0,,malkangiri,3385137843,Tumusapally,phc,56.61,24.48
+430941.0,,malkangiri,3385137843,Tumusapally,phc,37.7,16.61
+430952.0,,malkangiri,3385137843,Tumusapally,phc,51.04,22.16
+430948.0,,malkangiri,3385137843,Tumusapally,phc,50.4,21.9
+430949.0,,malkangiri,3385137843,Tumusapally,phc,52.18,22.64
+430950.0,,malkangiri,3385137843,Tumusapally,phc,51.64,22.41
+430951.0,,malkangiri,3385137843,Tumusapally,phc,55.53,24.55
+430946.0,,malkangiri,3385137843,Tumusapally,phc,20.87,9.68
+430945.0,,malkangiri,3385137843,Tumusapally,phc,54.52,23.61
+430330.0,,malkangiri,3385137843,Tumusapally,phc,24.23,11.08
+430329.0,,malkangiri,3385137843,Tumusapally,phc,22.33,10.29
+430314.0,,malkangiri,3385137843,Tumusapally,phc,3.71,1.54
+430953.0,,malkangiri,3385137843,Tumusapally,phc,47.08,20.51
+430303.0,,malkangiri,3385137843,Tumusapally,phc,14.37,5.94
+430312.0,,malkangiri,3385137843,Tumusapally,phc,0.0,0.0
+430305.0,,malkangiri,3385137843,Tumusapally,phc,29.92,13.35
+430310.0,,malkangiri,3385137843,Tumusapally,phc,11.71,4.86
+430311.0,,malkangiri,3385137843,Tumusapally,phc,8.19,3.38
+430304.0,,malkangiri,3385137843,Tumusapally,phc,23.21,9.57
+430302.0,,malkangiri,3385137843,Tumusapally,phc,22.04,9.58
+430308.0,,malkangiri,3385137843,Tumusapally,phc,17.49,7.91
+430306.0,,malkangiri,3385137843,Tumusapally,phc,25.18,11.39
+430943.0,,malkangiri,3385137843,Tumusapally,phc,25.78,11.68
+430929.0,,malkangiri,3385137843,Tumusapally,phc,39.57,18.29
+430258.0,,malkangiri,3332381882,Biralaxmanpur,phc,33.95,15.67
+430927.0,,malkangiri,3385137843,Tumusapally,phc,34.86,17.34
+430928.0,,malkangiri,3385137843,Tumusapally,phc,36.43,17.38
+430926.0,,malkangiri,3385137843,Tumusapally,phc,39.78,19.81
+430923.0,,malkangiri,3332381882,Biralaxmanpur,phc,30.54,14.26
+430924.0,,malkangiri,3332381882,Biralaxmanpur,phc,32.25,14.98
+430942.0,,malkangiri,3385137843,Tumusapally,phc,21.55,9.92
+250576.0,,malkangiri,3385137843,Tumusapally,phc,51.02,22.12
+430605.0,,malkangiri,8436827557,Janbai,phc,21.55,21.55
+430611.0,,malkangiri,8436827557,Janbai,phc,20.52,20.61
+430607.0,,malkangiri,8436827557,Janbai,phc,13.77,14.42
+430638.0,,malkangiri,8436827557,Janbai,phc,16.86,15.57
+430938.0,,malkangiri,8436827557,Janbai,phc,24.64,26.49
+430606.0,,malkangiri,8436827557,Janbai,phc,18.12,18.41
+430637.0,,malkangiri,8436827557,Janbai,phc,10.95,11.87
+430612.0,,malkangiri,8436827557,Janbai,phc,26.84,24.19
+430603.0,,malkangiri,8436827557,Janbai,phc,27.02,24.0
+430639.0,,malkangiri,3385137843,Tumusapally,phc,51.22,22.15
+430608.0,,malkangiri,8436827557,Janbai,phc,16.51,16.93
+430609.0,,malkangiri,8436827557,Janbai,phc,17.16,17.53
+430604.0,,malkangiri,8436827557,Janbai,phc,23.76,23.58
+430939.0,,malkangiri,3385137843,Tumusapally,phc,51.04,22.11
+430940.0,,malkangiri,3385137843,Tumusapally,phc,44.99,19.63
+430901.0,,malkangiri,4838245621,Jodamba,phc,23.35,23.44
+430925.0,,malkangiri,4838245621,Jodamba,phc,25.89,24.39
+430936.0,,malkangiri,8436827557,Janbai,phc,26.12,28.1
+430937.0,,malkangiri,8436827557,Janbai,phc,23.79,25.57
+430902.0,,malkangiri,4838245621,Jodamba,phc,21.9,21.86
+430613.0,,malkangiri,8436827557,Janbai,phc,28.76,24.99
+430601.0,,malkangiri,8436827557,Janbai,phc,30.55,26.03
+430934.0,,malkangiri,8436827557,Janbai,phc,27.93,29.63
+430935.0,,malkangiri,8436827557,Janbai,phc,28.92,30.3
+430600.0,,malkangiri,8436827557,Janbai,phc,29.68,25.38
+430599.0,,malkangiri,4838245621,Jodamba,phc,24.15,22.64
+430598.0,,malkangiri,4838245621,Jodamba,phc,22.9,21.14
+430916.0,,malkangiri,3332381882,Biralaxmanpur,phc,38.14,19.02
+430900.0,,malkangiri,4838245621,Jodamba,phc,24.05,22.59
+430602.0,,malkangiri,8436827557,Janbai,phc,30.55,26.03
+430931.0,,malkangiri,3332381882,Biralaxmanpur,phc,45.18,20.83
+430597.0,,malkangiri,4838245621,Jodamba,phc,22.9,21.14
+430921.0,,malkangiri,4838245621,Jodamba,phc,26.79,24.81
+430903.0,,malkangiri,4838245621,Jodamba,phc,25.09,23.37
+430930.0,,malkangiri,3332381882,Biralaxmanpur,phc,46.51,21.41
+430954.0,,malkangiri,8436827557,Janbai,phc,31.78,31.98
+430920.0,,malkangiri,3332381882,Biralaxmanpur,phc,38.78,18.3
+430919.0,,malkangiri,3332381882,Biralaxmanpur,phc,37.78,17.88
+430932.0,,malkangiri,3385137843,Tumusapally,phc,49.68,22.65
+430843.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430720.0,,malkangiri,8436827557,Janbai,phc,0.0,0.0
+430737.0,,malkangiri,4657777233,Badapada,phc,14.34,4.78
+430669.0,,malkangiri,8436827557,Janbai,phc,3.88,4.2
+430622.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430724.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430842.0,,malkangiri,8436827557,Janbai,phc,0.0,0.0
+430710.0,,malkangiri,4657777233,Badapada,phc,18.49,7.41
+430845.0,,malkangiri,8436827557,Janbai,phc,0.0,0.0
+430723.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430721.0,,malkangiri,8436827557,Janbai,phc,0.0,0.0
+430623.0,,malkangiri,8436827557,Janbai,phc,3.88,4.2
+430840.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430709.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430739.0,,malkangiri,4657777233,Badapada,phc,20.9,8.36
+430736.0,,malkangiri,4657777233,Badapada,phc,23.01,7.67
+430738.0,,malkangiri,4657777233,Badapada,phc,14.88,5.87
+430668.0,,malkangiri,8436827557,Janbai,phc,3.88,4.2
+430714.0,,malkangiri,4657777233,Badapada,phc,12.97,5.11
+430624.0,,malkangiri,8436827557,Janbai,phc,3.88,4.2
+430722.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430717.0,,malkangiri,8436827557,Janbai,phc,0.0,0.0
+430719.0,,malkangiri,8436827557,Janbai,phc,0.0,0.0
+430716.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430712.0,,malkangiri,4657777233,Badapada,phc,18.39,7.37
+430711.0,,malkangiri,4657777233,Badapada,phc,18.43,7.39
+430718.0,,malkangiri,8436827557,Janbai,phc,0.0,0.0
+430715.0,,malkangiri,8436827557,Janbai,phc,0.0,0.0
+430713.0,,malkangiri,4657777233,Badapada,phc,3.23,1.08
+430671.0,,malkangiri,4657777233,Badapada,phc,27.86,9.29
+430672.0,,malkangiri,4657777233,Badapada,phc,11.22,3.74
+430620.0,,malkangiri,8436827557,Janbai,phc,3.88,4.2
+430621.0,,malkangiri,8436827557,Janbai,phc,3.88,4.2
+430619.0,,malkangiri,8436827557,Janbai,phc,3.88,4.2
+430616.0,,malkangiri,4657777233,Badapada,phc,3.18,1.06
+430706.0,,malkangiri,4657777233,Badapada,phc,20.23,8.14
+430749.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430740.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430705.0,,malkangiri,4657777233,Badapada,phc,21.5,8.67
+430703.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430750.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430744.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430701.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430741.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430742.0,,malkangiri,4657777233,Badapada,phc,21.5,8.67
+430746.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430743.0,,malkangiri,4657777233,Badapada,phc,21.5,8.67
+430748.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430752.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430698.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430751.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430759.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430760.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430761.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430753.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430754.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430755.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430756.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430758.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430757.0,,malkangiri,4657777233,Badapada,phc,0.0,0.0
+430688.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430674.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430687.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430700.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430699.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430693.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430683.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430691.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430708.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430684.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430675.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430707.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430682.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430681.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430689.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430685.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430686.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430834.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430829.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430814.0,,malkangiri,4838245621,Jodamba,phc,6.79,4.51
+430844.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430593.0,,malkangiri,4838245621,Jodamba,phc,19.6,17.7
+430615.0,,malkangiri,8436827557,Janbai,phc,29.68,25.38
+430839.0,,malkangiri,8436827557,Janbai,phc,0.0,0.0
+430835.0,,malkangiri,8436827557,Janbai,phc,25.75,23.7
+430832.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430813.0,,malkangiri,4838245621,Jodamba,phc,6.79,4.51
+430591.0,,malkangiri,8436827557,Janbai,phc,29.68,25.38
+430596.0,,malkangiri,4838245621,Jodamba,phc,22.9,21.14
+430815.0,,malkangiri,4838245621,Jodamba,phc,6.79,4.51
+430592.0,,malkangiri,8436827557,Janbai,phc,29.68,25.38
+430810.0,,malkangiri,4838245621,Jodamba,phc,6.79,4.51
+430809.0,,malkangiri,4838245621,Jodamba,phc,6.79,4.51
+430808.0,,malkangiri,4838245621,Jodamba,phc,6.79,4.51
+430614.0,,malkangiri,8436827557,Janbai,phc,28.76,24.99
+430816.0,,malkangiri,4838245621,Jodamba,phc,0.02,0.01
+430812.0,,malkangiri,8436827557,Janbai,phc,28.76,24.99
+430680.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430677.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430679.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430678.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430676.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430824.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430823.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430830.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430690.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430831.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430800.0,,malkangiri,4838245621,Jodamba,phc,11.14,7.3
+430821.0,,malkangiri,4838245621,Jodamba,phc,0.0,0.0
+430806.0,,malkangiri,4838245621,Jodamba,phc,0.02,0.01
+430797.0,,malkangiri,4838245621,Jodamba,phc,5.04,3.36
+430828.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430792.0,,malkangiri,4838245621,Jodamba,phc,15.24,9.98
+430820.0,,malkangiri,4838245621,Jodamba,phc,0.0,0.0
+430826.0,,malkangiri,4838245621,Jodamba,phc,11.14,7.3
+430819.0,,malkangiri,4838245621,Jodamba,phc,11.14,7.3
+430803.0,,malkangiri,4838245621,Jodamba,phc,11.14,7.3
+430804.0,,malkangiri,4838245621,Jodamba,phc,3.25,2.17
+430802.0,,malkangiri,4838245621,Jodamba,phc,11.14,7.3
+430825.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430822.0,,malkangiri,4657777233,Badapada,phc,25.75,23.7
+430827.0,,malkangiri,4838245621,Jodamba,phc,11.14,7.3
+430817.0,,malkangiri,4838245621,Jodamba,phc,0.02,0.01
+430818.0,,malkangiri,4838245621,Jodamba,phc,0.0,0.0
+430799.0,,malkangiri,4838245621,Jodamba,phc,0.0,0.0
+430805.0,,malkangiri,4838245621,Jodamba,phc,0.0,0.0
+430801.0,,malkangiri,4838245621,Jodamba,phc,10.32,6.75
+430798.0,,malkangiri,4838245621,Jodamba,phc,9.81,6.41
+431073.0,,malkangiri,8118816878,Dharampally,phc,20.54,11.51
+430281.0,,malkangiri,8662838617,Matapaka,phc,11.82,5.09
+430282.0,,malkangiri,8662838617,Matapaka,phc,7.2,3.24
+431079.0,,malkangiri,8118816878,Dharampally,phc,5.61,2.33
+431080.0,,malkangiri,8118816878,Dharampally,phc,0.0,0.0
+431078.0,,malkangiri,8118816878,Dharampally,phc,11.32,4.72
+430234.0,,malkangiri,8662838617,Matapaka,phc,18.14,13.9
+430229.0,,malkangiri,8662838617,Matapaka,phc,23.85,16.92
+430230.0,,malkangiri,8662838617,Matapaka,phc,13.5,8.72
+430280.0,,malkangiri,8662838617,Matapaka,phc,0.0,0.0
+430285.0,,malkangiri,8662838617,Matapaka,phc,24.84,14.48
+430284.0,,malkangiri,8662838617,Matapaka,phc,6.1,4.05
+430278.0,,malkangiri,8662838617,Matapaka,phc,4.46,2.97
+430231.0,,malkangiri,8662838617,Matapaka,phc,15.6,11.14
+430277.0,,malkangiri,8662838617,Matapaka,phc,19.67,11.29
+430232.0,,malkangiri,8662838617,Matapaka,phc,25.87,17.9
+430276.0,,malkangiri,8662838617,Matapaka,phc,26.3,13.96
+430275.0,,malkangiri,8662838617,Matapaka,phc,33.61,17.1
+430274.0,,malkangiri,8662838617,Matapaka,phc,31.56,17.28
+430279.0,,malkangiri,8662838617,Matapaka,phc,5.96,2.85
+430295.0,,malkangiri,5844254580,MV 47,phc,12.19,5.7
+430266.0,,malkangiri,5844254580,MV 47,phc,24.7,12.7
+430269.0,,malkangiri,5844254580,MV 47,phc,23.72,14.07
+430267.0,,malkangiri,5844254580,MV 47,phc,20.84,10.93
+430262.0,,malkangiri,3385137843,Tumusapally,phc,24.51,10.23
+430290.0,,malkangiri,5844254580,MV 47,phc,27.26,16.26
+430291.0,,malkangiri,5844254580,MV 47,phc,25.68,15.66
+430272.0,,malkangiri,5844254580,MV 47,phc,27.39,15.2
+430263.0,,malkangiri,5844254580,MV 47,phc,30.5,16.17
+430265.0,,malkangiri,5844254580,MV 47,phc,26.86,14.14
+430264.0,,malkangiri,5844254580,MV 47,phc,31.49,17.22
+430237.0,,malkangiri,8662838617,Matapaka,phc,26.33,19.93
+430233.0,,malkangiri,8662838617,Matapaka,phc,25.08,17.55
+430238.0,,malkangiri,8662838617,Matapaka,phc,23.8,18.89
+430236.0,,malkangiri,8662838617,Matapaka,phc,20.71,16.69
+263345.0,,malkangiri,5844254580,MV 47,phc,22.09,13.24
+430235.0,,malkangiri,8662838617,Matapaka,phc,20.51,15.94
+430240.0,,malkangiri,5844254580,MV 47,phc,29.76,19.64
+430241.0,,malkangiri,5844254580,MV 47,phc,30.18,18.98
+430218.0,,malkangiri,4715477859,Padmagiri,phc,22.71,13.7
+430239.0,,malkangiri,4715477859,Padmagiri,phc,23.35,15.35
+430336.0,,malkangiri,5844254580,MV 47,phc,23.71,15.27
+430169.0,,malkangiri,4715477859,Padmagiri,phc,31.35,13.3
+430220.0,,malkangiri,4715477859,Padmagiri,phc,19.03,9.33
+430166.0,,malkangiri,8662838617,Matapaka,phc,31.89,23.53
+430165.0,,malkangiri,8662838617,Matapaka,phc,33.15,24.37
+430167.0,,malkangiri,4715477859,Padmagiri,phc,26.9,12.62
+430159.0,,malkangiri,4715477859,Padmagiri,phc,6.0,2.74
+430227.0,,malkangiri,8662838617,Matapaka,phc,27.56,19.9
+430161.0,,malkangiri,4715477859,Padmagiri,phc,14.58,6.34
+430162.0,,malkangiri,4715477859,Padmagiri,phc,25.27,10.77
+430172.0,,malkangiri,4715477859,Padmagiri,phc,0.0,0.0
+430170.0,,malkangiri,4715477859,Padmagiri,phc,6.73,4.41
+430171.0,,malkangiri,4715477859,Padmagiri,phc,3.28,2.19
+430224.0,,malkangiri,8662838617,Matapaka,phc,29.83,22.14
+430226.0,,malkangiri,8662838617,Matapaka,phc,34.09,22.61
+430225.0,,malkangiri,8662838617,Matapaka,phc,32.14,22.57
+430164.0,,malkangiri,4715477859,Padmagiri,phc,23.25,9.89
+430163.0,,malkangiri,4715477859,Padmagiri,phc,20.98,8.99
+430160.0,,malkangiri,4715477859,Padmagiri,phc,12.18,5.31
+430168.0,,malkangiri,4715477859,Padmagiri,phc,28.39,12.03
+430228.0,,malkangiri,8662838617,Matapaka,phc,24.0,18.27
+430222.0,,malkangiri,4715477859,Padmagiri,phc,27.82,13.01
+430219.0,,malkangiri,4715477859,Padmagiri,phc,15.38,9.36
+430221.0,,malkangiri,4715477859,Padmagiri,phc,14.82,7.6
+430337.0,,malkangiri,4652481781,Pedakonda,phc,24.77,20.98
+430137.0,,malkangiri,4715477859,Padmagiri,phc,15.91,6.82
+430418.0,,malkangiri,8574378512,Bhejaguda,phc,14.05,8.39
+430261.0,,malkangiri,5844254580,MV 47,phc,36.7,24.3
+430254.0,,malkangiri,3332381882,Biralaxmanpur,phc,21.45,9.17
+430259.0,,malkangiri,3385137843,Tumusapally,phc,33.04,13.81
+430914.0,,malkangiri,3332381882,Biralaxmanpur,phc,24.02,10.88
+430245.0,,malkangiri,5844254580,MV 47,phc,33.67,23.07
+430251.0,,malkangiri,3332381882,Biralaxmanpur,phc,15.8,6.53
+430260.0,,malkangiri,3385137843,Tumusapally,phc,27.27,11.24
+430246.0,,malkangiri,5844254580,MV 47,phc,30.92,22.07
+430248.0,,malkangiri,3385137843,Tumusapally,phc,30.38,14.16
+430247.0,,malkangiri,3385137843,Tumusapally,phc,29.97,14.38
+430922.0,,malkangiri,3332381882,Biralaxmanpur,phc,28.26,13.32
+430257.0,,malkangiri,3332381882,Biralaxmanpur,phc,33.95,15.67
+430256.0,,malkangiri,3332381882,Biralaxmanpur,phc,24.2,11.01
+430255.0,,malkangiri,3332381882,Biralaxmanpur,phc,22.26,9.71
+430249.0,,malkangiri,3332381882,Biralaxmanpur,phc,19.95,8.26
+430250.0,,malkangiri,3332381882,Biralaxmanpur,phc,19.74,8.18
+430333.0,,malkangiri,3385137843,Tumusapally,phc,30.41,14.78
+430332.0,,malkangiri,3385137843,Tumusapally,phc,51.65,24.74
+430244.0,,malkangiri,3385137843,Tumusapally,phc,46.38,22.62
+430211.0,,malkangiri,3385137843,Tumusapally,phc,50.42,24.27
+430210.0,,malkangiri,4652481781,Pedakonda,phc,57.24,44.33
+430212.0,,malkangiri,3332381882,Biralaxmanpur,phc,15.46,6.36
+430209.0,,malkangiri,3332381882,Biralaxmanpur,phc,5.32,2.21
+430207.0,,malkangiri,3332381882,Biralaxmanpur,phc,0.0,0.0
+430206.0,,malkangiri,3332381882,Biralaxmanpur,phc,10.75,4.41
+430213.0,,malkangiri,3332381882,Biralaxmanpur,phc,17.13,7.06
+430317.0,,malkangiri,3332381882,Biralaxmanpur,phc,12.69,5.21
+430242.0,,malkangiri,5844254580,MV 47,phc,32.5,20.79
+430243.0,,malkangiri,5844254580,MV 47,phc,35.19,21.91
+430216.0,,malkangiri,4652481781,Pedakonda,phc,22.78,20.34
+430294.0,,malkangiri,5844254580,MV 47,phc,38.99,25.29
+430906.0,,malkangiri,4838245621,Jodamba,phc,18.49,17.27
+430911.0,,malkangiri,3332381882,Biralaxmanpur,phc,36.8,17.47
+430908.0,,malkangiri,4838245621,Jodamba,phc,26.6,22.46
+430896.0,,malkangiri,4838245621,Jodamba,phc,15.68,15.13
+430253.0,,malkangiri,3332381882,Biralaxmanpur,phc,34.47,15.82
+430897.0,,malkangiri,4838245621,Jodamba,phc,19.49,17.69
+430905.0,,malkangiri,4838245621,Jodamba,phc,21.17,20.23
+430874.0,,malkangiri,3332381882,Biralaxmanpur,phc,31.27,12.88
+430913.0,,malkangiri,3332381882,Biralaxmanpur,phc,31.62,14.63
+430898.0,,malkangiri,4838245621,Jodamba,phc,18.44,18.13
+430895.0,,malkangiri,4838245621,Jodamba,phc,16.21,15.7
+430899.0,,malkangiri,4838245621,Jodamba,phc,20.64,20.2
+430915.0,,malkangiri,3332381882,Biralaxmanpur,phc,31.11,15.1
+430904.0,,malkangiri,4838245621,Jodamba,phc,24.37,21.57
+430910.0,,malkangiri,4838245621,Jodamba,phc,25.74,22.1
+430909.0,,malkangiri,4838245621,Jodamba,phc,26.68,22.5
+430894.0,,malkangiri,4838245621,Jodamba,phc,14.57,13.92
+430872.0,,malkangiri,3332381882,Biralaxmanpur,phc,36.19,17.22
+430907.0,,malkangiri,4838245621,Jodamba,phc,26.68,22.5
+430918.0,,malkangiri,3332381882,Biralaxmanpur,phc,37.5,17.76
+430912.0,,malkangiri,3332381882,Biralaxmanpur,phc,36.8,17.47
+430878.0,,malkangiri,1755748777,Padaghat,phc,19.75,18.7
+430871.0,,malkangiri,3122656139,Pangam,phc,31.1,19.13
+430877.0,,malkangiri,1755748777,Padaghat,phc,19.88,18.85
+430870.0,,malkangiri,3122656139,Pangam,phc,35.05,20.78
+430195.0,,malkangiri,3332381882,Biralaxmanpur,phc,16.04,6.6
+430193.0,,malkangiri,3122656139,Pangam,phc,25.28,16.66
+430194.0,,malkangiri,3332381882,Biralaxmanpur,phc,25.82,10.61
+430875.0,,malkangiri,3122656139,Pangam,phc,31.1,19.13
+430873.0,,malkangiri,3332381882,Biralaxmanpur,phc,30.92,12.73
+430876.0,,malkangiri,1755748777,Padaghat,phc,21.96,21.09
+430208.0,,malkangiri,3332381882,Biralaxmanpur,phc,8.68,3.53
+430201.0,,malkangiri,3332381882,Biralaxmanpur,phc,12.16,5.03
+430178.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,11.52,6.34
+430149.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,4.41,2.82
+430179.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,10.44,5.67
+430175.0,,malkangiri,4652481781,Pedakonda,phc,7.13,4.56
+430158.0,,malkangiri,4715477859,Padmagiri,phc,14.36,6.22
+430173.0,,malkangiri,4652481781,Pedakonda,phc,0.0,0.0
+430180.0,,malkangiri,4652481781,Pedakonda,phc,12.04,7.68
+430153.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,3.45,2.3
+430150.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,0.0,0.0
+430181.0,,malkangiri,4652481781,Pedakonda,phc,14.63,9.56
+430202.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,16.23,10.59
+430205.0,,malkangiri,3332381882,Biralaxmanpur,phc,17.35,7.15
+430203.0,,malkangiri,4652481781,Pedakonda,phc,15.07,9.86
+430174.0,,malkangiri,4652481781,Pedakonda,phc,7.01,3.85
+430215.0,,malkangiri,4652481781,Pedakonda,phc,18.62,15.92
+430214.0,,malkangiri,4652481781,Pedakonda,phc,20.99,16.17
+430307.0,,malkangiri,4652481781,Pedakonda,phc,10.78,5.42
+430154.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,18.7,9.54
+430151.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,0.79,0.52
+430152.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,1.64,1.09
+430176.0,,malkangiri,4652481781,Pedakonda,phc,9.0,5.17
+430177.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,16.97,8.82
+430157.0,,malkangiri,4715477859,Padmagiri,phc,14.72,6.38
+430156.0,,malkangiri,4715477859,Padmagiri,phc,19.4,8.31
+430155.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,18.7,9.54
+430204.0,,malkangiri,4652481781,Pedakonda,phc,14.86,10.46
+430334.0,,malkangiri,4652481781,Pedakonda,phc,14.88,8.72
+430182.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,12.29,7.07
+430335.0,,malkangiri,4652481781,Pedakonda,phc,13.54,9.55
+430183.0,,malkangiri,3122656139,Pangam,phc,9.49,8.28
+430184.0,,malkangiri,3122656139,Pangam,phc,4.73,5.36
+430148.0,,malkangiri,3122656139,Pangam,phc,12.86,9.07
+430187.0,,malkangiri,3122656139,Pangam,phc,2.63,2.86
+430189.0,,malkangiri,3122656139,Pangam,phc,9.66,5.33
+430461.0,,malkangiri,3122656139,Pangam,phc,10.9,7.18
+430462.0,,malkangiri,3122656139,Pangam,phc,7.0,4.19
+430199.0,,malkangiri,3122656139,Pangam,phc,7.53,8.86
+430198.0,,malkangiri,3122656139,Pangam,phc,12.97,11.13
+430190.0,,malkangiri,3122656139,Pangam,phc,9.0,8.05
+430192.0,,malkangiri,3122656139,Pangam,phc,19.95,14.69
+430185.0,,malkangiri,3122656139,Pangam,phc,4.79,4.64
+430849.0,,malkangiri,1755748777,Padaghat,phc,10.88,7.22
+430469.0,,malkangiri,3122656139,Pangam,phc,0.0,0.0
+430197.0,,malkangiri,3122656139,Pangam,phc,17.22,12.86
+430869.0,,malkangiri,1755748777,Padaghat,phc,23.88,15.82
+430471.0,,malkangiri,3122656139,Pangam,phc,1.48,2.1
+430200.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,15.47,9.62
+430196.0,,malkangiri,3122656139,Pangam,phc,21.23,16.48
+430475.0,,malkangiri,1755748777,Padaghat,phc,3.17,2.07
+430468.0,,malkangiri,3122656139,Pangam,phc,0.49,0.69
+430846.0,,malkangiri,1755748777,Padaghat,phc,16.91,11.25
+430191.0,,malkangiri,3122656139,Pangam,phc,18.32,8.94
+430188.0,,malkangiri,3122656139,Pangam,phc,6.47,4.01
+430147.0,,malkangiri,3122656139,Pangam,phc,19.23,11.68
+430146.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,16.36,8.53
+430466.0,,malkangiri,3122656139,Pangam,phc,22.77,12.0
+430476.0,,malkangiri,1755748777,Padaghat,phc,11.29,7.5
+430186.0,,malkangiri,3122656139,Pangam,phc,7.37,4.38
+430893.0,,malkangiri,4838245621,Jodamba,phc,15.33,14.75
+430892.0,,malkangiri,4838245621,Jodamba,phc,19.6,17.7
+430585.0,,malkangiri,4838245621,Jodamba,phc,6.79,4.51
+430891.0,,malkangiri,1755748777,Padaghat,phc,21.01,20.07
+430584.0,,malkangiri,4838245621,Jodamba,phc,0.2,0.13
+430595.0,,malkangiri,4838245621,Jodamba,phc,22.9,21.14
+430594.0,,malkangiri,4838245621,Jodamba,phc,19.6,17.7
+430586.0,,malkangiri,4838245621,Jodamba,phc,5.51,3.66
+430889.0,,malkangiri,4838245621,Jodamba,phc,19.6,17.7
+430888.0,,malkangiri,4838245621,Jodamba,phc,3.52,2.51
+430881.0,,malkangiri,1755748777,Padaghat,phc,17.61,16.39
+430882.0,,malkangiri,1755748777,Padaghat,phc,16.68,15.37
+430859.0,,malkangiri,4838245621,Jodamba,phc,0.04,0.02
+430883.0,,malkangiri,1755748777,Padaghat,phc,15.75,14.37
+430885.0,,malkangiri,4838245621,Jodamba,phc,3.15,2.07
+430884.0,,malkangiri,4838245621,Jodamba,phc,4.59,3.5
+430865.0,,malkangiri,1755748777,Padaghat,phc,18.6,16.57
+430858.0,,malkangiri,4838245621,Jodamba,phc,13.0,8.36
+430867.0,,malkangiri,1755748777,Padaghat,phc,19.41,17.2
+430862.0,,malkangiri,1755748777,Padaghat,phc,15.15,13.6
+430866.0,,malkangiri,1755748777,Padaghat,phc,19.95,17.56
+430863.0,,malkangiri,1755748777,Padaghat,phc,14.0,12.47
+430868.0,,malkangiri,1755748777,Padaghat,phc,22.7,19.39
+430861.0,,malkangiri,1755748777,Padaghat,phc,14.73,12.05
+430582.0,,malkangiri,4838245621,Jodamba,phc,0.0,0.0
+430879.0,,malkangiri,1755748777,Padaghat,phc,18.85,17.72
+430583.0,,malkangiri,4838245621,Jodamba,phc,0.2,0.13
+430880.0,,malkangiri,1755748777,Padaghat,phc,20.71,19.75
+430887.0,,malkangiri,4838245621,Jodamba,phc,3.52,2.51
+430886.0,,malkangiri,4838245621,Jodamba,phc,13.0,8.36
+430890.0,,malkangiri,4838245621,Jodamba,phc,4.49,3.4
+430581.0,,malkangiri,4838245621,Jodamba,phc,0.0,0.0
+430860.0,,malkangiri,4838245621,Jodamba,phc,13.0,8.36
+430857.0,,malkangiri,4838245621,Jodamba,phc,13.0,8.36
+430766.0,,malkangiri,7311127315,Mudulipada,phc,10.08,6.21
+430579.0,,malkangiri,7311127315,Mudulipada,phc,6.76,3.99
+430580.0,,malkangiri,4838245621,Jodamba,phc,0.04,0.02
+430762.0,,malkangiri,7311127315,Mudulipada,phc,6.76,3.99
+430590.0,,malkangiri,4838245621,Jodamba,phc,13.92,8.84
+430771.0,,malkangiri,4838245621,Jodamba,phc,13.92,8.84
+430764.0,,malkangiri,7311127315,Mudulipada,phc,10.08,6.21
+430578.0,,malkangiri,7311127315,Mudulipada,phc,5.08,1.99
+430783.0,,malkangiri,4838245621,Jodamba,phc,11.14,7.3
+430790.0,,malkangiri,7311127315,Mudulipada,phc,7.19,4.28
+430778.0,,malkangiri,4838245621,Jodamba,phc,4.43,2.93
+430781.0,,malkangiri,4838245621,Jodamba,phc,5.58,3.68
+430779.0,,malkangiri,4838245621,Jodamba,phc,6.43,4.27
+430793.0,,malkangiri,4838245621,Jodamba,phc,13.87,9.07
+430777.0,,malkangiri,4838245621,Jodamba,phc,9.69,6.43
+430784.0,,malkangiri,1755748777,Padaghat,phc,20.33,17.52
+430774.0,,malkangiri,7311127315,Mudulipada,phc,6.76,3.99
+430776.0,,malkangiri,4838245621,Jodamba,phc,12.26,8.11
+430775.0,,malkangiri,4838245621,Jodamba,phc,11.73,7.76
+430794.0,,malkangiri,4838245621,Jodamba,phc,11.51,7.58
+430796.0,,malkangiri,4838245621,Jodamba,phc,8.61,5.71
+430795.0,,malkangiri,4838245621,Jodamba,phc,18.8,12.22
+430780.0,,malkangiri,4838245621,Jodamba,phc,1.34,0.9
+430785.0,,malkangiri,7311127315,Mudulipada,phc,6.76,3.99
+430786.0,,malkangiri,7311127315,Mudulipada,phc,6.76,3.99
+430782.0,,malkangiri,4838245621,Jodamba,phc,10.05,6.65
+430787.0,,malkangiri,7311127315,Mudulipada,phc,10.08,6.21
+430587.0,,malkangiri,4838245621,Jodamba,phc,5.94,3.94
+430773.0,,malkangiri,7311127315,Mudulipada,phc,6.76,3.99
+430588.0,,malkangiri,4838245621,Jodamba,phc,5.99,3.97
+430589.0,,malkangiri,4838245621,Jodamba,phc,13.92,8.84
+430532.0,,malkangiri,6728271781,Govindapally,phc,14.81,11.66
+430526.0,,malkangiri,1755748777,Padaghat,phc,13.91,10.34
+430855.0,,malkangiri,4838245621,Jodamba,phc,11.88,7.89
+430564.0,,malkangiri,7311127315,Mudulipada,phc,5.8,3.36
+430571.0,,malkangiri,7311127315,Mudulipada,phc,10.47,4.55
+430551.0,,malkangiri,7311127315,Mudulipada,phc,7.14,4.2
+430556.0,,malkangiri,7311127315,Mudulipada,phc,20.65,13.2
+430542.0,,malkangiri,1755748777,Padaghat,phc,10.07,7.08
+430566.0,,malkangiri,7311127315,Mudulipada,phc,14.73,8.94
+430543.0,,malkangiri,1755748777,Padaghat,phc,12.82,8.23
+430531.0,,malkangiri,6728271781,Govindapally,phc,14.95,12.5
+430552.0,,malkangiri,7311127315,Mudulipada,phc,14.95,8.37
+430545.0,,malkangiri,1755748777,Padaghat,phc,11.73,6.08
+430548.0,,malkangiri,1755748777,Padaghat,phc,8.51,5.53
+430523.0,,malkangiri,6728271781,Govindapally,phc,17.67,13.58
+430509.0,,malkangiri,7311127315,Mudulipada,phc,21.2,13.5
+430854.0,,malkangiri,1755748777,Padaghat,phc,10.95,9.17
+430538.0,,malkangiri,1755748777,Padaghat,phc,10.55,8.1
+430850.0,,malkangiri,1755748777,Padaghat,phc,5.19,3.34
+430536.0,,malkangiri,1755748777,Padaghat,phc,12.74,9.28
+430544.0,,malkangiri,1755748777,Padaghat,phc,15.31,7.53
+430562.0,,malkangiri,7311127315,Mudulipada,phc,25.5,16.38
+430546.0,,malkangiri,1755748777,Padaghat,phc,4.96,3.26
+430851.0,,malkangiri,1755748777,Padaghat,phc,9.45,4.99
+430505.0,,malkangiri,6728271781,Govindapally,phc,19.39,14.82
+430864.0,,malkangiri,1755748777,Padaghat,phc,21.53,11.87
+430577.0,,malkangiri,7311127315,Mudulipada,phc,2.61,1.08
+430575.0,,malkangiri,7311127315,Mudulipada,phc,0.0,0.0
+430472.0,,malkangiri,3122656139,Pangam,phc,3.12,4.41
+430848.0,,malkangiri,1755748777,Padaghat,phc,13.77,7.47
+430510.0,,malkangiri,7311127315,Mudulipada,phc,16.38,10.17
+430537.0,,malkangiri,1755748777,Padaghat,phc,13.13,9.82
+430569.0,,malkangiri,7311127315,Mudulipada,phc,2.47,1.14
+430572.0,,malkangiri,7311127315,Mudulipada,phc,11.38,4.93
+430570.0,,malkangiri,7311127315,Mudulipada,phc,4.78,2.63
+430540.0,,malkangiri,1755748777,Padaghat,phc,10.22,7.88
+430541.0,,malkangiri,1755748777,Padaghat,phc,12.3,9.27
+430525.0,,malkangiri,6728271781,Govindapally,phc,14.62,12.49
+430527.0,,malkangiri,6728271781,Govindapally,phc,17.0,13.69
+430528.0,,malkangiri,6728271781,Govindapally,phc,13.37,12.18
+430567.0,,malkangiri,7311127315,Mudulipada,phc,8.93,5.43
+430852.0,,malkangiri,1755748777,Padaghat,phc,17.18,11.41
+430522.0,,malkangiri,6728271781,Govindapally,phc,11.61,10.33
+430473.0,,malkangiri,1755748777,Padaghat,phc,3.63,2.38
+430847.0,,malkangiri,1755748777,Padaghat,phc,24.22,13.59
+430573.0,,malkangiri,7311127315,Mudulipada,phc,4.8,1.99
+430574.0,,malkangiri,7311127315,Mudulipada,phc,3.21,1.33
+430512.0,,malkangiri,6728271781,Govindapally,phc,12.9,9.75
+430442.0,,malkangiri,1755748777,Padaghat,phc,7.1,4.68
+430498.0,,malkangiri,6728271781,Govindapally,phc,30.88,20.64
+430529.0,,malkangiri,6728271781,Govindapally,phc,10.04,10.84
+430563.0,,malkangiri,7311127315,Mudulipada,phc,7.19,4.28
+430576.0,,malkangiri,7311127315,Mudulipada,phc,3.79,1.57
+430530.0,,malkangiri,6728271781,Govindapally,phc,12.41,11.44
+430506.0,,malkangiri,6728271781,Govindapally,phc,19.07,14.6
+430568.0,,malkangiri,7311127315,Mudulipada,phc,6.19,2.67
+430853.0,,malkangiri,1755748777,Padaghat,phc,10.01,7.36
+430561.0,,malkangiri,7311127315,Mudulipada,phc,24.06,15.42
+430550.0,,malkangiri,7311127315,Mudulipada,phc,10.65,6.54
+430553.0,,malkangiri,7311127315,Mudulipada,phc,14.95,8.37
+430547.0,,malkangiri,1755748777,Padaghat,phc,0.0,0.0
+430524.0,,malkangiri,6728271781,Govindapally,phc,15.86,12.69
+430555.0,,malkangiri,7311127315,Mudulipada,phc,20.94,13.4
+430534.0,,malkangiri,6728271781,Govindapally,phc,14.86,12.46
+430535.0,,malkangiri,6728271781,Govindapally,phc,14.79,13.02
+430533.0,,malkangiri,7311127315,Mudulipada,phc,13.27,8.21
+430474.0,,malkangiri,1755748777,Padaghat,phc,1.69,1.09
+430539.0,,malkangiri,1755748777,Padaghat,phc,9.48,7.61
+430765.0,,malkangiri,7311127315,Mudulipada,phc,10.08,6.21
+430856.0,,malkangiri,4838245621,Jodamba,phc,13.0,8.36
+430425.0,,malkangiri,4246184859,Salimi,phc,6.65,3.89
+430362.0,,malkangiri,4246184859,Salimi,phc,7.22,4.35
+430360.0,,malkangiri,4246184859,Salimi,phc,5.65,2.36
+430136.0,,malkangiri,4715477859,Padmagiri,phc,20.52,8.8
+430452.0,,malkangiri,8366841180,Bijapadar,phc,5.03,5.46
+430464.0,,malkangiri,3122656139,Pangam,phc,20.59,11.1
+430453.0,,malkangiri,3122656139,Pangam,phc,2.01,2.85
+430145.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,7.69,4.92
+430451.0,,malkangiri,3122656139,Pangam,phc,2.83,4.0
+430459.0,,malkangiri,3122656139,Pangam,phc,18.88,10.46
+430139.0,,malkangiri,4715477859,Padmagiri,phc,22.39,9.6
+430363.0,,malkangiri,4246184859,Salimi,phc,10.38,6.46
+430412.0,,malkangiri,4246184859,Salimi,phc,0.0,0.0
+430413.0,,malkangiri,4246184859,Salimi,phc,8.63,5.21
+430410.0,,malkangiri,4246184859,Salimi,phc,5.84,3.43
+430414.0,,malkangiri,4246184859,Salimi,phc,16.53,6.89
+430423.0,,malkangiri,8574378512,Bhejaguda,phc,6.3,4.04
+430351.0,,malkangiri,4246184859,Salimi,phc,16.08,6.69
+430348.0,,malkangiri,3122656139,Pangam,phc,52.69,35.24
+430349.0,,malkangiri,4246184859,Salimi,phc,11.77,7.39
+430350.0,,malkangiri,4246184859,Salimi,phc,10.38,6.46
+430342.0,,malkangiri,4246184859,Salimi,phc,11.77,7.39
+430358.0,,malkangiri,4246184859,Salimi,phc,12.23,5.09
+430408.0,,malkangiri,4246184859,Salimi,phc,8.2,5.01
+430411.0,,malkangiri,4246184859,Salimi,phc,3.47,1.45
+430470.0,,malkangiri,3122656139,Pangam,phc,1.37,1.94
+430467.0,,malkangiri,3122656139,Pangam,phc,25.35,13.08
+430454.0,,malkangiri,3122656139,Pangam,phc,25.28,13.05
+430365.0,,malkangiri,4246184859,Salimi,phc,11.77,7.39
+430357.0,,malkangiri,4246184859,Salimi,phc,16.11,6.68
+430463.0,,malkangiri,3122656139,Pangam,phc,19.66,10.78
+430465.0,,malkangiri,3122656139,Pangam,phc,23.44,12.28
+430460.0,,malkangiri,3122656139,Pangam,phc,16.12,9.36
+430341.0,,malkangiri,4246184859,Salimi,phc,11.31,7.08
+430340.0,,malkangiri,6728271781,Govindapally,phc,41.56,19.55
+430338.0,,malkangiri,4246184859,Salimi,phc,16.08,6.69
+430457.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,12.17,6.81
+430456.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,35.18,16.33
+430366.0,,malkangiri,4246184859,Salimi,phc,12.58,7.93
+430419.0,,malkangiri,8574378512,Bhejaguda,phc,5.08,3.38
+430430.0,,malkangiri,8366841180,Bijapadar,phc,3.34,3.63
+430426.0,,malkangiri,4246184859,Salimi,phc,6.12,3.54
+430407.0,,malkangiri,4246184859,Salimi,phc,10.04,6.23
+430420.0,,malkangiri,8574378512,Bhejaguda,phc,0.0,0.0
+430431.0,,malkangiri,8366841180,Bijapadar,phc,6.62,7.17
+430427.0,,malkangiri,8366841180,Bijapadar,phc,0.65,0.7
+430455.0,,malkangiri,8366841180,Bijapadar,phc,1.99,2.16
+430421.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,66.18,29.67
+430422.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,64.2,28.81
+430424.0,,malkangiri,8366841180,Bijapadar,phc,94.28,69.62
+430409.0,,malkangiri,4246184859,Salimi,phc,5.5,3.21
+430405.0,,malkangiri,4246184859,Salimi,phc,14.8,9.41
+430404.0,,malkangiri,4246184859,Salimi,phc,17.6,11.28
+430416.0,,malkangiri,8574378512,Bhejaguda,phc,11.05,6.02
+430415.0,,malkangiri,8574378512,Bhejaguda,phc,13.45,7.02
+430364.0,,malkangiri,4246184859,Salimi,phc,10.78,6.73
+430359.0,,malkangiri,4246184859,Salimi,phc,16.08,6.69
+430361.0,,malkangiri,4246184859,Salimi,phc,13.9,5.78
+430355.0,,malkangiri,4246184859,Salimi,phc,17.1,7.1
+430138.0,,malkangiri,4715477859,Padmagiri,phc,15.12,6.56
+430479.0,,malkangiri,8366841180,Bijapadar,phc,3.94,4.28
+430428.0,,malkangiri,8366841180,Bijapadar,phc,0.0,0.0
+430406.0,,malkangiri,4246184859,Salimi,phc,8.96,5.51
+430458.0,,malkangiri,3122656139,Pangam,phc,26.88,13.8
+430339.0,,malkangiri,4246184859,Salimi,phc,16.08,6.69
+430352.0,,malkangiri,4246184859,Salimi,phc,16.08,6.69
+430353.0,,malkangiri,4246184859,Salimi,phc,16.08,6.69
+430356.0,,malkangiri,8574378512,Bhejaguda,phc,13.45,7.02
+430140.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,54.61,24.87
+430141.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,55.62,25.29
+430142.0,,malkangiri,4715477859,Padmagiri,phc,24.02,10.27
+430143.0,,malkangiri,4715477859,Padmagiri,phc,22.32,9.56
+430144.0,,malkangiri,8265843337,Kiang Kaliaguda,phc,4.77,3.18
+430487.0,,malkangiri,6728271781,Govindapally,phc,14.82,9.8
+430399.0,,malkangiri,6728271781,Govindapally,phc,24.07,12.36
+430436.0,,malkangiri,3122656139,Pangam,phc,8.73,10.93
+430501.0,,malkangiri,6728271781,Govindapally,phc,20.35,13.47
+430502.0,,malkangiri,6728271781,Govindapally,phc,22.54,14.07
+430517.0,,malkangiri,6728271781,Govindapally,phc,14.35,8.42
+430444.0,,malkangiri,3122656139,Pangam,phc,6.19,8.76
+430499.0,,malkangiri,6728271781,Govindapally,phc,29.05,18.79
+430439.0,,malkangiri,6728271781,Govindapally,phc,8.42,7.03
+430483.0,,malkangiri,6728271781,Govindapally,phc,8.85,7.79
+430482.0,,malkangiri,6728271781,Govindapally,phc,3.96,4.25
+430518.0,,malkangiri,6728271781,Govindapally,phc,11.17,8.44
+430516.0,,malkangiri,6728271781,Govindapally,phc,9.05,6.24
+430515.0,,malkangiri,6728271781,Govindapally,phc,4.59,4.94
+430370.0,,malkangiri,6728271781,Govindapally,phc,33.45,16.25
+430521.0,,malkangiri,6728271781,Govindapally,phc,9.55,9.19
+430372.0,,malkangiri,6728271781,Govindapally,phc,20.39,10.79
+430441.0,,malkangiri,6728271781,Govindapally,phc,11.41,10.36
+430433.0,,malkangiri,8366841180,Bijapadar,phc,9.25,10.02
+430486.0,,malkangiri,6728271781,Govindapally,phc,32.3,18.74
+430440.0,,malkangiri,6728271781,Govindapally,phc,11.88,9.64
+430507.0,,malkangiri,6728271781,Govindapally,phc,15.8,12.42
+430508.0,,malkangiri,6728271781,Govindapally,phc,13.63,10.98
+430503.0,,malkangiri,6728271781,Govindapally,phc,30.34,17.43
+430500.0,,malkangiri,6728271781,Govindapally,phc,28.1,18.55
+430513.0,,malkangiri,6728271781,Govindapally,phc,13.02,9.76
+430432.0,,malkangiri,6728271781,Govindapally,phc,17.13,13.9
+430369.0,,malkangiri,6728271781,Govindapally,phc,37.73,18.03
+430489.0,,malkangiri,6728271781,Govindapally,phc,15.32,12.01
+430371.0,,malkangiri,6728271781,Govindapally,phc,25.69,13.03
+430519.0,,malkangiri,6728271781,Govindapally,phc,6.75,6.61
+430488.0,,malkangiri,6728271781,Govindapally,phc,10.96,7.27
+430402.0,,malkangiri,6728271781,Govindapally,phc,17.18,12.26
+430396.0,,malkangiri,6728271781,Govindapally,phc,3.6,4.35
+430397.0,,malkangiri,6728271781,Govindapally,phc,6.82,5.38
+430398.0,,malkangiri,6728271781,Govindapally,phc,9.01,6.84
+430449.0,,malkangiri,3122656139,Pangam,phc,4.64,6.57
+430520.0,,malkangiri,6728271781,Govindapally,phc,8.05,7.75
+430504.0,,malkangiri,6728271781,Govindapally,phc,19.07,14.6
+430450.0,,malkangiri,3122656139,Pangam,phc,3.12,4.43
+430443.0,,malkangiri,1755748777,Padaghat,phc,7.1,4.68
+430446.0,,malkangiri,8366841180,Bijapadar,phc,9.5,10.29
+430438.0,,malkangiri,6728271781,Govindapally,phc,7.78,7.99
+430434.0,,malkangiri,3122656139,Pangam,phc,8.42,11.39
+430478.0,,malkangiri,6728271781,Govindapally,phc,2.24,0.64
+430400.0,,malkangiri,6728271781,Govindapally,phc,13.65,12.4
+430395.0,,malkangiri,6728271781,Govindapally,phc,4.64,3.92
+430403.0,,malkangiri,8366841180,Bijapadar,phc,18.18,12.24
+430373.0,,malkangiri,6728271781,Govindapally,phc,13.69,8.07
+430445.0,,malkangiri,3122656139,Pangam,phc,4.84,6.85
+430514.0,,malkangiri,6728271781,Govindapally,phc,7.21,6.7
+430447.0,,malkangiri,3122656139,Pangam,phc,3.98,5.63
+430480.0,,malkangiri,6728271781,Govindapally,phc,6.88,8.2
+430374.0,,malkangiri,6728271781,Govindapally,phc,3.65,1.43
+430376.0,,malkangiri,6728271781,Govindapally,phc,2.24,0.64
+430377.0,,malkangiri,6728271781,Govindapally,phc,2.24,0.64
+430378.0,,malkangiri,6728271781,Govindapally,phc,2.24,0.64
+430379.0,,malkangiri,6728271781,Govindapally,phc,2.24,0.64
+430381.0,,malkangiri,6728271781,Govindapally,phc,0.31,0.13
+430382.0,,malkangiri,6728271781,Govindapally,phc,0.31,0.13
+430384.0,,malkangiri,6728271781,Govindapally,phc,0.0,0.0
+430386.0,,malkangiri,6728271781,Govindapally,phc,2.24,0.64
+430387.0,,malkangiri,6728271781,Govindapally,phc,2.24,0.64
+430388.0,,malkangiri,6728271781,Govindapally,phc,2.24,0.64
+430389.0,,malkangiri,6728271781,Govindapally,phc,2.24,0.64
+430391.0,,malkangiri,6728271781,Govindapally,phc,2.24,0.64
+430392.0,,malkangiri,6728271781,Govindapally,phc,0.31,0.13
+430477.0,,malkangiri,6728271781,Govindapally,phc,0.31,0.13
+430368.0,,malkangiri,6728271781,Govindapally,phc,39.89,18.94
+430481.0,,malkangiri,6728271781,Govindapally,phc,41.2,19.48
+430448.0,,malkangiri,3122656139,Pangam,phc,4.79,6.78
+430435.0,,malkangiri,6728271781,Govindapally,phc,10.86,11.29
+430437.0,,malkangiri,6728271781,Govindapally,phc,8.51,9.84
+430375.0,,malkangiri,6728271781,Govindapally,phc,2.96,2.8
+430485.0,,malkangiri,6728271781,Govindapally,phc,6.93,4.58
+430484.0,,malkangiri,6728271781,Govindapally,phc,4.34,2.85
+430345.0,,malkangiri,6728271781,Govindapally,phc,37.42,18.0
+430343.0,,malkangiri,6728271781,Govindapally,phc,37.66,18.16
+430346.0,,malkangiri,6728271781,Govindapally,phc,31.79,15.57
+430347.0,,malkangiri,6728271781,Govindapally,phc,42.53,19.97
+430344.0,,malkangiri,6728271781,Govindapally,phc,37.7,18.18
+430789.0,,malkangiri,7311127315,Mudulipada,phc,10.08,6.21
+430791.0,,malkangiri,7311127315,Mudulipada,phc,6.76,3.99
+430560.0,,malkangiri,7311127315,Mudulipada,phc,26.04,16.74
+430557.0,,malkangiri,7311127315,Mudulipada,phc,28.87,17.41
+430559.0,,malkangiri,7311127315,Mudulipada,phc,31.96,20.79
+430558.0,,malkangiri,7311127315,Mudulipada,phc,23.26,14.94
+430494.0,,malkangiri,6728271781,Govindapally,phc,26.53,17.53
+430491.0,,malkangiri,6728271781,Govindapally,phc,38.69,23.18
+430495.0,,malkangiri,6728271781,Govindapally,phc,25.35,16.75
+430493.0,,malkangiri,6728271781,Govindapally,phc,28.96,19.15
+430490.0,,malkangiri,6728271781,Govindapally,phc,19.05,11.37
+430492.0,,malkangiri,6728271781,Govindapally,phc,18.41,11.25
+430496.0,,malkangiri,6728271781,Govindapally,phc,28.78,19.26
+430497.0,,malkangiri,6728271781,Govindapally,phc,28.5,19.0
