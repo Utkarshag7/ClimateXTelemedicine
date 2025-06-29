@@ -154,7 +154,7 @@ README.md   # (this file)
 - **Cost model:** multiplies route distance by official per-km costs for each vehicle type.
 - **Emissions model:** multiplies route distance by literature-based kg CO₂ per km for each vehicle.
 - **Waiting and consult durations:** from ABCE, IHME, BMC, NHA studies (India).
-- **k-NN approach:** for PHC/CHC, up to 3 nearest facilities checked; for HSC, 1-NN used.
+- **k-NN approach:** For PHC/CHC, up to 3 nearest facilities are checked; for HSC, 1-NN is used.
 
 ---
 
@@ -184,8 +184,6 @@ README.md   # (this file)
 ---
 
 ## Acknowledgements
-
-Special thanks to Prof. Teevrat Garg for guidance and review.\
 Methodology built on the latest global and India-specific best practices in health GIS, accessibility, and sustainability modeling.
 
 ---
@@ -201,11 +199,6 @@ Methodology built on the latest global and India-specific best practices in heal
 ---
 
 > **Note:**\
-> For sharing, evaluation, and reproducibility, you may wish to convert all file/folder references to variables using a config.py, or at least document path dependencies in each notebook.
+For sharing, evaluation, and reproducibility, you can convert all file/folder references to variables using a config.py, or at least document path dependencies in each notebook.
 
----
-
-## License
-
-MIT or as specified by primary data providers.
 
